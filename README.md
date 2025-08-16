@@ -5060,8 +5060,8 @@
 | ФРМР dev | --- | [https://testflight.apple.com/join/iR6s0a7V](https://testflight.apple.com/join/iR6s0a7V) | Y | 2025-08-17 00:24:17 |
 | ЦОДД МосТранс | --- | [https://testflight.apple.com/join/eHgfykHl](https://testflight.apple.com/join/eHgfykHl) | Y | 2025-08-17 00:15:00 |
 | ЭНВА Mobile | --- | [https://testflight.apple.com/join/bnqTTuRG](https://testflight.apple.com/join/bnqTTuRG) | Y | 2025-08-17 00:14:43 |
-111111| --- | --- | | امتثال | --- | [https://testflight.apple.com/join/se7G3EhT](https://testflight.apple.com/join/se7G3EhT) | Y | 2025-08-17 00:14:50 |
-| --- | --- | | بيتي - مستشارك العقاري الرقمي | --- | [https://testflight.apple.com/join/leHxarBO](https://testflight.apple.com/join/leHxarBO) | Y | 2025-08-17 00:14:29 |
+| امتثال | --- | [https://testflight.apple.com/join/se7G3EhT](https://testflight.apple.com/join/se7G3EhT) | Y | 2025-08-17 00:14:50 |
+| بيتي - مستشارك العقاري الرقمي | --- | [https://testflight.apple.com/join/leHxarBO](https://testflight.apple.com/join/leHxarBO) | Y | 2025-08-17 00:14:29 |
 | تفطّن | --- | [https://testflight.apple.com/join/RPZ4uNDZ](https://testflight.apple.com/join/RPZ4uNDZ) | Y | 2025-08-17 00:19:02 |
 | حاسبة التمام | --- | [https://testflight.apple.com/join/gaU5ArHf](https://testflight.apple.com/join/gaU5ArHf) | Y | 2025-08-17 00:13:23 |
 | خدمات الرئاسة العامة للإفتاء | --- | [https://testflight.apple.com/join/IxVfYJNQ](https://testflight.apple.com/join/IxVfYJNQ) | Y | 2025-08-17 00:23:51 |
@@ -5075,7 +5075,6 @@
 | هزاع مفتاح للصرافة و التحويلات | --- | [https://testflight.apple.com/join/J7ztDcBX](https://testflight.apple.com/join/J7ztDcBX) | Y | 2025-08-17 00:23:08 |
 | هفـــ هشتاد | --- | [https://testflight.apple.com/join/bftR9X3W](https://testflight.apple.com/join/bftR9X3W) | Y | 2025-08-17 00:17:40 |
 | همراه کارت  | HamrahCard | --- | [https://testflight.apple.com/join/KFs7YqxD](https://testflight.apple.com/join/KFs7YqxD) | Y | 2025-08-17 00:14:55 |
-| --- | --- | ||||| --- | --- | | یک | --- | [https://testflight.apple.com/join/MtBM2BJD](https://testflight.apple.com/join/MtBM2BJD) | Y | 2025-08-17 00:15:24 |
 | อรุณสวัสดิ์ | --- | [https://testflight.apple.com/join/8sA3XObM](https://testflight.apple.com/join/8sA3XObM) | Y | 2025-08-17 00:33:51 |
 | 강펫T - 편하게 떠나는 펫택시 | --- | [https://testflight.apple.com/join/mSm63ree](https://testflight.apple.com/join/mSm63ree) | Y | 2025-08-17 00:21:14 |
 | 기비티 - 셀럽들의 기부플리마켓 | --- | [https://testflight.apple.com/join/GrWeWLPG](https://testflight.apple.com/join/GrWeWLPG) | Y | 2025-08-17 00:16:47 |
