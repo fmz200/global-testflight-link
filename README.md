@@ -730,7 +730,7 @@
 | AssetX For Snipe-IT | --- | [https://testflight.apple.com/join/ZwWVztp1](https://testflight.apple.com/join/ZwWVztp1) | Y | 2025-08-17 00:17:07 |
 | Aster Mobile | --- | [https://testflight.apple.com/join/sQ1vaNe7](https://testflight.apple.com/join/sQ1vaNe7) | Y | 2025-08-17 00:14:44 |
 | Astiga | --- | [https://testflight.apple.com/join/cx7cEUKc](https://testflight.apple.com/join/cx7cEUKc) | Y | 2025-08-17 00:17:02 |
-| Aswini Bajaj - CFA|FRM | --- | [https://testflight.apple.com/join/hM9Zl7N2](https://testflight.apple.com/join/hM9Zl7N2) | Y | 2025-08-17 00:14:22 |
+| Aswini Bajaj | --- | [https://testflight.apple.com/join/hM9Zl7N2](https://testflight.apple.com/join/hM9Zl7N2) | Y | 2025-08-17 00:14:22 |
 | AT Mobile | --- | [https://testflight.apple.com/join/5MA0Pixb](https://testflight.apple.com/join/5MA0Pixb) | Y | 2025-08-17 00:16:46 |
 | AtaOnline: Ata Yatırım Borsa | --- | [https://testflight.apple.com/join/dARiQ3uL](https://testflight.apple.com/join/dARiQ3uL) | Y | 2025-08-17 00:17:30 |
 | Athen | --- | [https://testflight.apple.com/join/9jdvS2vT](https://testflight.apple.com/join/9jdvS2vT) | Y | 2025-08-17 00:17:10 |
@@ -744,7 +744,7 @@
 | ATrans | --- | [https://testflight.apple.com/join/DNfruqHe](https://testflight.apple.com/join/DNfruqHe) | Y | 2025-08-17 00:14:37 |
 | Audara | --- | [https://testflight.apple.com/join/sum9JDwd](https://testflight.apple.com/join/sum9JDwd) | Y | 2025-08-17 00:15:45 |
 | Audea | --- | [https://testflight.apple.com/join/naUu38Fw](https://testflight.apple.com/join/naUu38Fw) | Y | 2025-08-17 00:15:57 |
-| Audio-Technica | Connect | --- | [https://testflight.apple.com/join/BPHZu6HA](https://testflight.apple.com/join/BPHZu6HA) | Y | 2025-08-17 00:22:08 |
+| Audio-Technica | Connect | [https://testflight.apple.com/join/BPHZu6HA](https://testflight.apple.com/join/BPHZu6HA) | Y | 2025-08-17 00:22:08 |
 | AudiobookShelf(开源版) | --- | [https://testflight.apple.com/join/XTSDAAaJ](https://testflight.apple.com/join/XTSDAAaJ) | Y | 2025-08-17 00:17:14 |
 | AudioFlip - Link converter | --- | [https://testflight.apple.com/join/QMpVtdt7](https://testflight.apple.com/join/QMpVtdt7) | Y | 2025-08-17 00:14:33 |
 | AudioFlip - Link converter | --- | [https://testflight.apple.com/join/DMpWuEmu](https://testflight.apple.com/join/DMpWuEmu) | Y | 2025-08-17 00:17:43 |
@@ -818,7 +818,7 @@
 | Barcodes Wallet: Barc | --- | [https://testflight.apple.com/join/KxDXydaF](https://testflight.apple.com/join/KxDXydaF) | Y | 2025-08-17 00:16:06 |
 | Barcodes: Loyalty Card Wallet | --- | [https://testflight.apple.com/join/TtXzP5r6](https://testflight.apple.com/join/TtXzP5r6) | Y | 2025-08-17 00:15:42 |
 | Bark - Custom Notifications | --- | [https://testflight.apple.com/join/7rA2TUok](https://testflight.apple.com/join/7rA2TUok) | Y | 2025-08-17 00:19:04 |
-| BasedApp | Crypto Wallet | --- | [https://testflight.apple.com/join/NMPDC3wT](https://testflight.apple.com/join/NMPDC3wT) | Y | 2025-08-17 00:15:23 |
+| BasedApp | Crypto Wallet | [https://testflight.apple.com/join/NMPDC3wT](https://testflight.apple.com/join/NMPDC3wT) | Y | 2025-08-17 00:15:23 |
 | baseus Security | --- | [https://testflight.apple.com/join/opHcP4Ei](https://testflight.apple.com/join/opHcP4Ei) | Y | 2025-08-17 00:22:01 |
 | Bat Detector | --- | [https://testflight.apple.com/join/M5R8kipW](https://testflight.apple.com/join/M5R8kipW) | Y | 2025-08-17 00:19:02 |
 | Batara | --- | [https://testflight.apple.com/join/h8d8zBpA](https://testflight.apple.com/join/h8d8zBpA) | Y | 2025-08-17 00:18:54 |
@@ -826,7 +826,7 @@
 | Battle Square | --- | [https://testflight.apple.com/join/auycedpF](https://testflight.apple.com/join/auycedpF) | Y | 2025-08-17 00:15:47 |
 | Baze App | --- | [https://testflight.apple.com/join/qumrtXy9](https://testflight.apple.com/join/qumrtXy9) | Y | 2025-08-17 00:13:57 |
 | BBEdit | --- | [https://testflight.apple.com/join/imiQlCyL](https://testflight.apple.com/join/imiQlCyL) | Y | 2025-08-17 00:17:59 |
-| BBVA Spain | Online banking | --- | [https://testflight.apple.com/join/Fjj4M9xp](https://testflight.apple.com/join/Fjj4M9xp) | Y | 2025-08-17 00:16:17 |
+| BBVA Spain | Online banking | [https://testflight.apple.com/join/Fjj4M9xp](https://testflight.apple.com/join/Fjj4M9xp) | Y | 2025-08-17 00:16:17 |
 | BBX: Crypto, Stocks & ETF Data | --- | [https://testflight.apple.com/join/NRKZOFdB](https://testflight.apple.com/join/NRKZOFdB) | Y | 2025-08-17 00:15:20 |
 | BCR Móvil Beta | --- | [https://testflight.apple.com/join/VxLirXF3](https://testflight.apple.com/join/VxLirXF3) | Y | 2025-08-17 00:17:00 |
 | BCR Safi | --- | [https://testflight.apple.com/join/nRCXk7D2](https://testflight.apple.com/join/nRCXk7D2) | Y | 2025-08-17 00:17:00 |
@@ -933,7 +933,7 @@
 | BlockTrade | --- | [https://testflight.apple.com/join/bjKTB8X6](https://testflight.apple.com/join/bjKTB8X6) | Y | 2025-08-17 00:13:56 |
 | Blocs - Website Builder | --- | [https://testflight.apple.com/join/B4bn2vEz](https://testflight.apple.com/join/B4bn2vEz) | Y | 2025-08-17 00:16:48 |
 | Bloo | --- | [https://testflight.apple.com/join/MQrlEUdu](https://testflight.apple.com/join/MQrlEUdu) | Y | 2025-08-17 00:18:18 |
-| Bloom | Social | --- | [https://testflight.apple.com/join/xgKVcN9G](https://testflight.apple.com/join/xgKVcN9G) | Y | 2025-08-17 00:15:52 |
+| Bloom | Social | [https://testflight.apple.com/join/xgKVcN9G](https://testflight.apple.com/join/xgKVcN9G) | Y | 2025-08-17 00:15:52 |
 | Blorp for Lemmy and PieFed | --- | [https://testflight.apple.com/join/T2pYyShr](https://testflight.apple.com/join/T2pYyShr) | Y | 2025-08-17 00:19:08 |
 | Blossom Launcher | --- | [https://testflight.apple.com/join/y9JwQ42w](https://testflight.apple.com/join/y9JwQ42w) | Y | 2025-08-17 00:13:33 |
 | Blue Current | --- | [https://testflight.apple.com/join/xzYNQeg2](https://testflight.apple.com/join/xzYNQeg2) | Y | 2025-08-17 00:15:32 |
@@ -1536,7 +1536,8 @@
 | Dragon Ball Saga | --- | [https://testflight.apple.com/join/XUtHieNq](https://testflight.apple.com/join/XUtHieNq) | Y | 2025-08-17 00:25:38 |
 | Dreamlive | --- | [https://testflight.apple.com/join/PKbgaDlC](https://testflight.apple.com/join/PKbgaDlC) | Y | 2025-08-17 00:14:59 |
 | Dreams - Eine Traumtagebuchapp | --- | [https://testflight.apple.com/join/AU1CmRfH](https://testflight.apple.com/join/AU1CmRfH) | Y | 2025-08-17 00:13:04 |
-| Dreamsome | dream diary | --- | [https://testflight.apple.com/join/abNmquZY](https://testflight.apple.com/join/abNmquZY) | Y | 2025-08-17 00:15:49 |
+| Dreamsome | dream diary 
+| [https://testflight.apple.com/join/abNmquZY](https://testflight.apple.com/join/abNmquZY) | Y | 2025-08-17 00:15:49 |
 | DrinkSync | --- | [https://testflight.apple.com/join/mctck6j1](https://testflight.apple.com/join/mctck6j1) | Y | 2025-08-17 00:13:03 |
 | Drive.log | --- | [https://testflight.apple.com/join/3gUvySTe](https://testflight.apple.com/join/3gUvySTe) | Y | 2025-08-17 00:14:41 |
 | Driver.Philippines | --- | [https://testflight.apple.com/join/0NajjiLS](https://testflight.apple.com/join/0NajjiLS) | Y | 2025-08-17 00:26:34 |
@@ -1921,7 +1922,7 @@
 | Frankencoin Wallet | --- | [https://testflight.apple.com/join/2R0lSq7I](https://testflight.apple.com/join/2R0lSq7I) | Y | 2025-08-17 00:25:37 |
 | Fraser-Rudy | --- | [https://testflight.apple.com/join/zYltCU7b](https://testflight.apple.com/join/zYltCU7b) | Y | 2025-08-17 00:23:38 |
 | Free to Me | --- | [https://testflight.apple.com/join/UwgEx7ZN](https://testflight.apple.com/join/UwgEx7ZN) | Y | 2025-08-17 00:34:57 |
-| Free2move | Car Share & Rental | --- | [https://testflight.apple.com/join/1SsBDNCj](https://testflight.apple.com/join/1SsBDNCj) | Y | 2025-08-17 00:14:09 |
+| Free2move | Car Share & Rental | [https://testflight.apple.com/join/1SsBDNCj](https://testflight.apple.com/join/1SsBDNCj) | Y | 2025-08-17 00:14:09 |
 | Freela onTap | --- | [https://testflight.apple.com/join/fhWYxupt](https://testflight.apple.com/join/fhWYxupt) | Y | 2025-08-17 00:14:53 |
 | Freelan | --- | [https://testflight.apple.com/join/q3JGZn5D](https://testflight.apple.com/join/q3JGZn5D) | Y | 2025-08-17 00:23:34 |
 | Freightster | --- | [https://testflight.apple.com/join/LF9YS7kz](https://testflight.apple.com/join/LF9YS7kz) | Y | 2025-08-17 00:21:37 |
@@ -2090,7 +2091,7 @@
 | GutLog: Stool & Symptom Diary | --- | [https://testflight.apple.com/join/EBenbKUk](https://testflight.apple.com/join/EBenbKUk) | Y | 2025-08-17 00:16:54 |
 | GWM | --- | [https://testflight.apple.com/join/Dgxce0bV](https://testflight.apple.com/join/Dgxce0bV) | Y | 2025-08-17 00:22:26 |
 | GWM | --- | [https://testflight.apple.com/join/759vMV0p](https://testflight.apple.com/join/759vMV0p) | Y | 2025-08-17 00:32:37 |
-| GWM | More than just a car App | --- | [https://testflight.apple.com/join/30iQryGY](https://testflight.apple.com/join/30iQryGY) | Y | 2025-08-17 00:28:59 |
+| GWM | More than just a car App | [https://testflight.apple.com/join/30iQryGY](https://testflight.apple.com/join/30iQryGY) | Y | 2025-08-17 00:28:59 |
 | Gym Class VR: Companion App | --- | [https://testflight.apple.com/join/L7tQZY94](https://testflight.apple.com/join/L7tQZY94) | Y | 2025-08-17 00:13:30 |
 | GymBook ・ Strength Training | --- | [https://testflight.apple.com/join/f4YgBPDv](https://testflight.apple.com/join/f4YgBPDv) | Y | 2025-08-17 00:16:01 |
 | Gymnacia | --- | [https://testflight.apple.com/join/Npe47v7s](https://testflight.apple.com/join/Npe47v7s) | Y | 2025-08-17 00:16:08 |
@@ -2487,7 +2488,7 @@
 | KFC South Africa | --- | [https://testflight.apple.com/join/PdyZg3mY](https://testflight.apple.com/join/PdyZg3mY) | Y | 2025-08-17 00:16:46 |
 | KFC UAE - Order Food Online | --- | [https://testflight.apple.com/join/9wjwRb7l](https://testflight.apple.com/join/9wjwRb7l) | Y | 2025-08-17 00:16:46 |
 | KFCAPP_RN2024_UAT | --- | [https://testflight.apple.com/join/w5icXF7m](https://testflight.apple.com/join/w5icXF7m) | Y | 2025-08-17 00:19:04 |
-| Khỏe & Đẹp 360 | Yoga AI | --- | [https://testflight.apple.com/join/S2KTSP47](https://testflight.apple.com/join/S2KTSP47) | Y | 2025-08-17 00:33:59 |
+| Khỏe & Đẹp 360 | Yoga AI | [https://testflight.apple.com/join/S2KTSP47](https://testflight.apple.com/join/S2KTSP47) | Y | 2025-08-17 00:33:59 |
 | KHTD Mobile | --- | [https://testflight.apple.com/join/lfSTQxz6](https://testflight.apple.com/join/lfSTQxz6) | Y | 2025-08-17 00:35:09 |
 | Kids Reading: Speak & Draw | --- | [https://testflight.apple.com/join/xffNEQUC](https://testflight.apple.com/join/xffNEQUC) | Y | 2025-08-17 00:14:28 |
 | Kiếm Ca Mobile. | --- | [https://testflight.apple.com/join/tKC5Hk7Q](https://testflight.apple.com/join/tKC5Hk7Q) | Y | 2025-08-17 00:33:07 |
@@ -3058,7 +3059,7 @@
 | MyWeight² | --- | [https://testflight.apple.com/join/tCFT6Kfr](https://testflight.apple.com/join/tCFT6Kfr) | Y | 2025-08-17 00:24:43 |
 | myWIC MOSAIC - UAT | --- | [https://testflight.apple.com/join/SRwp2yj5](https://testflight.apple.com/join/SRwp2yj5) | Y | 2025-08-17 00:28:21 |
 | MyYBS | --- | [https://testflight.apple.com/join/VKUZazR9](https://testflight.apple.com/join/VKUZazR9) | Y | 2025-08-17 00:21:36 |
-| n-Track Studio Pro | DAW | --- | [https://testflight.apple.com/join/eQFLmYjF](https://testflight.apple.com/join/eQFLmYjF) | Y | 2025-08-17 00:18:08 |
+| n-Track Studio Pro | DAW | [https://testflight.apple.com/join/eQFLmYjF](https://testflight.apple.com/join/eQFLmYjF) | Y | 2025-08-17 00:18:08 |
 | Nachos and Movies  | --- | [https://testflight.apple.com/join/doaG1qHl](https://testflight.apple.com/join/doaG1qHl) | Y | 2025-08-17 00:17:42 |
 | Næste – Menu Bar Calendar | --- | [https://testflight.apple.com/join/RRVjYqA3](https://testflight.apple.com/join/RRVjYqA3) | Y | 2025-08-17 00:13:05 |
 | Nafas Timer | --- | [https://testflight.apple.com/join/21mrahSk](https://testflight.apple.com/join/21mrahSk) | Y | 2025-08-17 00:16:54 |
@@ -3246,13 +3247,13 @@
 | One Lab - Artful Photo Editor | --- | [https://testflight.apple.com/join/KPrrCEZW](https://testflight.apple.com/join/KPrrCEZW) | Y | 2025-08-17 00:20:05 |
 | One Life - Life Calendar | --- | [https://testflight.apple.com/join/pwHFGMFx](https://testflight.apple.com/join/pwHFGMFx) | Y | 2025-08-17 00:15:47 |
 | One Minute to Breathe | --- | [https://testflight.apple.com/join/F2wqUmdW](https://testflight.apple.com/join/F2wqUmdW) | Y | 2025-08-17 00:14:14 |
-| one sec | screen time + focus | --- | [https://testflight.apple.com/join/TiexZqCw](https://testflight.apple.com/join/TiexZqCw) | Y | 2025-08-17 00:15:31 |
+| one sec | screen time + focus | [https://testflight.apple.com/join/TiexZqCw](https://testflight.apple.com/join/TiexZqCw) | Y | 2025-08-17 00:15:31 |
 | OneBanking | --- | [https://testflight.apple.com/join/6suWg3d2](https://testflight.apple.com/join/6suWg3d2) | Y | 2025-08-17 00:15:03 |
 | OneCast BETA | --- | [https://testflight.apple.com/join/gFW43UYK](https://testflight.apple.com/join/gFW43UYK) | Y | 2025-08-17 00:19:42 |
 | ONEDANGO - 원단고 | --- | [https://testflight.apple.com/join/MMm5fdZC](https://testflight.apple.com/join/MMm5fdZC) | Y | 2025-08-17 00:15:33 |
 | OneShotBio | --- | [https://testflight.apple.com/join/trKgYkHX](https://testflight.apple.com/join/trKgYkHX) | Y | 2025-08-17 00:14:31 |
 | OneTap Check-In | --- | [https://testflight.apple.com/join/oKKFSzxX](https://testflight.apple.com/join/oKKFSzxX) | Y | 2025-08-17 00:28:30 |
-| OneWeekFocus | 新的7天， 开始专注于自我 | --- | [https://testflight.apple.com/join/nj2tUB4s](https://testflight.apple.com/join/nj2tUB4s) | Y | 2025-08-17 00:17:14 |
+| OneWeekFocus | 新的7天， 开始专注于自我 | [https://testflight.apple.com/join/nj2tUB4s](https://testflight.apple.com/join/nj2tUB4s) | Y | 2025-08-17 00:17:14 |
 | Onit Bank | --- | [https://testflight.apple.com/join/aEly7AAT](https://testflight.apple.com/join/aEly7AAT) | Y | 2025-08-17 00:17:04 |
 | Onjabet | --- | [https://testflight.apple.com/join/6BMzRnUw](https://testflight.apple.com/join/6BMzRnUw) | Y | 2025-08-17 00:30:39 |
 | Online Insights Study | --- | [https://testflight.apple.com/join/f51pR3d7](https://testflight.apple.com/join/f51pR3d7) | Y | 2025-08-17 00:16:40 |
@@ -3427,7 +3428,7 @@
 | Photo Club Hub | --- | [https://testflight.apple.com/join/RRSEBzdK](https://testflight.apple.com/join/RRSEBzdK) | Y | 2025-08-17 00:21:34 |
 | Photo Collage: Easy Grid | --- | [https://testflight.apple.com/join/dHzFPFmQ](https://testflight.apple.com/join/dHzFPFmQ) | Y | 2025-08-17 00:14:19 |
 | Photo Delete Swipe - Tidy Up | --- | [https://testflight.apple.com/join/pWvMFGDQ](https://testflight.apple.com/join/pWvMFGDQ) | Y | 2025-08-17 00:13:14 |
-| Photo habit tracker | Momentum | --- | [https://testflight.apple.com/join/7H9qvHth](https://testflight.apple.com/join/7H9qvHth) | Y | 2025-08-17 00:16:08 |
+| Photo habit tracker | Momentum | [https://testflight.apple.com/join/7H9qvHth](https://testflight.apple.com/join/7H9qvHth) | Y | 2025-08-17 00:16:08 |
 | Photo Safe - private photos | --- | [https://testflight.apple.com/join/kLEbv33I](https://testflight.apple.com/join/kLEbv33I) | Y | 2025-08-17 00:18:06 |
 | PhotoCal: AI Calorie Tracker | --- | [https://testflight.apple.com/join/HBJaNsrm](https://testflight.apple.com/join/HBJaNsrm) | Y | 2025-08-17 00:14:12 |
 | PhotoPlann | --- | [https://testflight.apple.com/join/2sxawVZu](https://testflight.apple.com/join/2sxawVZu) | Y | 2025-08-17 00:12:58 |
@@ -3697,7 +3698,7 @@
 | Ravelia | --- | [https://testflight.apple.com/join/NWuCyT5S](https://testflight.apple.com/join/NWuCyT5S) | Y | 2025-08-17 00:16:11 |
 | Ravens | --- | [https://testflight.apple.com/join/TzVrvU1x](https://testflight.apple.com/join/TzVrvU1x) | Y | 2025-08-17 00:16:34 |
 | rawr – Water Reminder | --- | [https://testflight.apple.com/join/hFxGPhxM](https://testflight.apple.com/join/hFxGPhxM) | Y | 2025-08-17 00:14:45 |
-| RBCN | мобильное приложение | --- | [https://testflight.apple.com/join/iD4QcyCF](https://testflight.apple.com/join/iD4QcyCF) | Y | 2025-08-17 00:13:56 |
+| RBCN | мобильное приложение | [https://testflight.apple.com/join/iD4QcyCF](https://testflight.apple.com/join/iD4QcyCF) | Y | 2025-08-17 00:13:56 |
 | RC Racer - Real City Racer | --- | [https://testflight.apple.com/join/5GaaYyaq](https://testflight.apple.com/join/5GaaYyaq) | Y | 2025-08-17 00:15:52 |
 | RCD Hotel | --- | [https://testflight.apple.com/join/KhEB67Cm](https://testflight.apple.com/join/KhEB67Cm) | Y | 2025-08-17 00:14:39 |
 | rdaptastic – RDAP Lookup | --- | [https://testflight.apple.com/join/4nQ59YyR](https://testflight.apple.com/join/4nQ59YyR) | Y | 2025-08-17 00:16:02 |
@@ -3770,7 +3771,7 @@
 | Revolt | --- | [https://testflight.apple.com/join/mGSCJe13](https://testflight.apple.com/join/mGSCJe13) | Y | 2025-08-17 00:23:00 |
 | Revolut: Send, spend and save | --- | [https://testflight.apple.com/join/oqrinjQB](https://testflight.apple.com/join/oqrinjQB) | Y | 2025-08-17 00:15:55 |
 | Rewindly | --- | [https://testflight.apple.com/join/yYxxJmhV](https://testflight.apple.com/join/yYxxJmhV) | Y | 2025-08-17 00:14:25 |
-| RFLCT | Mental Performance | --- | [https://testflight.apple.com/join/CWQARufJ](https://testflight.apple.com/join/CWQARufJ) | Y | 2025-08-17 00:12:58 |
+| RFLCT | Mental Performance | [https://testflight.apple.com/join/CWQARufJ](https://testflight.apple.com/join/CWQARufJ) | Y | 2025-08-17 00:12:58 |
 | RideXP | --- | [https://testflight.apple.com/join/VRsKaxqQ](https://testflight.apple.com/join/VRsKaxqQ) | Y | 2025-08-17 00:14:03 |
 | RITCO | --- | [https://testflight.apple.com/join/AshDun63](https://testflight.apple.com/join/AshDun63) | Y | 2025-08-17 00:14:47 |
 | Ritim AXA | --- | [https://testflight.apple.com/join/QF3CjMha](https://testflight.apple.com/join/QF3CjMha) | Y | 2025-08-17 00:22:46 |
@@ -3952,7 +3953,7 @@
 | Shape Games Play | --- | [https://testflight.apple.com/join/B1mKCVub](https://testflight.apple.com/join/B1mKCVub) | Y | 2025-08-17 00:17:52 |
 | shapes inc: groupchats with ai | --- | [https://testflight.apple.com/join/fV3z5yz1](https://testflight.apple.com/join/fV3z5yz1) | Y | 2025-08-17 00:14:59 |
 | Sharezone - Schulplaner | --- | [https://testflight.apple.com/join/4luKeRNN](https://testflight.apple.com/join/4luKeRNN) | Y | 2025-08-17 00:17:35 |
-| SharPay | Wallet & Cards | --- | [https://testflight.apple.com/join/bUjQPXgh](https://testflight.apple.com/join/bUjQPXgh) | Y | 2025-08-17 00:26:40 |
+| SharPay | Wallet & Cards | [https://testflight.apple.com/join/bUjQPXgh](https://testflight.apple.com/join/bUjQPXgh) | Y | 2025-08-17 00:26:40 |
 | ShelfScan | --- | [https://testflight.apple.com/join/rhZAHudK](https://testflight.apple.com/join/rhZAHudK) | Y | 2025-08-17 00:13:09 |
 | Shelfy | --- | [https://testflight.apple.com/join/W9Pbzjcj](https://testflight.apple.com/join/W9Pbzjcj) | Y | 2025-08-17 00:15:45 |
 | Shell: Fuel, Charge & More | --- | [https://testflight.apple.com/join/8JgDJaEA](https://testflight.apple.com/join/8JgDJaEA) | Y | 2025-08-17 00:19:04 |
@@ -4344,8 +4345,8 @@
 | Tarmac Trainer | --- | [https://testflight.apple.com/join/HT6gSZKH](https://testflight.apple.com/join/HT6gSZKH) | Y | 2025-08-17 00:21:03 |
 | Task Assistant – To Do List | --- | [https://testflight.apple.com/join/UmghCMPr](https://testflight.apple.com/join/UmghCMPr) | Y | 2025-08-17 00:18:23 |
 | TaskFavour | --- | [https://testflight.apple.com/join/WrP21DNv](https://testflight.apple.com/join/WrP21DNv) | Y | 2025-08-17 00:13:57 |
-| TaskFrame | Task Manager | --- | [https://testflight.apple.com/join/DKQn1txn](https://testflight.apple.com/join/DKQn1txn) | Y | 2025-08-17 00:15:23 |
-| TaskFrame | Task Manager | --- | [https://testflight.apple.com/join/4svwY12K](https://testflight.apple.com/join/4svwY12K) | Y | 2025-08-17 00:17:40 |
+| TaskFrame | Task Manager | [https://testflight.apple.com/join/DKQn1txn](https://testflight.apple.com/join/DKQn1txn) | Y | 2025-08-17 00:15:23 |
+| TaskFrame | Task Manager | [https://testflight.apple.com/join/4svwY12K](https://testflight.apple.com/join/4svwY12K) | Y | 2025-08-17 00:17:40 |
 | TaskMate Provider | --- | [https://testflight.apple.com/join/5zCDw1BQ](https://testflight.apple.com/join/5zCDw1BQ) | Y | 2025-08-17 00:19:13 |
 | TaskMate User | --- | [https://testflight.apple.com/join/GxnwcJSj](https://testflight.apple.com/join/GxnwcJSj) | Y | 2025-08-17 00:20:21 |
 | Tasky AI - Guiding Teams Daily | --- | [https://testflight.apple.com/join/RQwRAC2v](https://testflight.apple.com/join/RQwRAC2v) | Y | 2025-08-17 00:13:14 |
@@ -4504,7 +4505,7 @@
 | ToyVisto Beta | --- | [https://testflight.apple.com/join/Fqn8ynag](https://testflight.apple.com/join/Fqn8ynag) | Y | 2025-08-17 00:16:13 |
 | TP-Link Aginet | --- | [https://testflight.apple.com/join/dO1nZKEQ](https://testflight.apple.com/join/dO1nZKEQ) | Y | 2025-08-17 00:34:07 |
 | TP-Link Deco | --- | [https://testflight.apple.com/join/2xC6J4zN](https://testflight.apple.com/join/2xC6J4zN) | Y | 2025-08-17 00:15:34 |
-| TPC | ThemeParkCompanion | --- | [https://testflight.apple.com/join/mCXFYM2V](https://testflight.apple.com/join/mCXFYM2V) | Y | 2025-08-17 00:13:38 |
+| TPC | ThemeParkCompanion | [https://testflight.apple.com/join/mCXFYM2V](https://testflight.apple.com/join/mCXFYM2V) | Y | 2025-08-17 00:13:38 |
 | TPN Go | --- | [https://testflight.apple.com/join/jTBi0klS](https://testflight.apple.com/join/jTBi0klS) | Y | 2025-08-17 00:17:25 |
 | Trace- Live, feed, short video | --- | [https://testflight.apple.com/join/8r2CQj9Z](https://testflight.apple.com/join/8r2CQj9Z) | Y | 2025-08-17 00:20:22 |
 | TracerouteX | --- | [https://testflight.apple.com/join/CYWPn6d2](https://testflight.apple.com/join/CYWPn6d2) | Y | 2025-08-17 00:16:45 |
@@ -4669,7 +4670,7 @@
 | Valiza | --- | [https://testflight.apple.com/join/rrvD8cJm](https://testflight.apple.com/join/rrvD8cJm) | Y | 2025-08-17 00:13:08 |
 | VALPAW | --- | [https://testflight.apple.com/join/eOgMk6SM](https://testflight.apple.com/join/eOgMk6SM) | Y | 2025-08-17 00:13:02 |
 | Vampire Survivors | --- | [https://testflight.apple.com/join/Q3eOYwKC](https://testflight.apple.com/join/Q3eOYwKC) | Y | 2025-08-17 00:22:05 |
-| Vana | Daily Habit Tracker | --- | [https://testflight.apple.com/join/tWSQ83au](https://testflight.apple.com/join/tWSQ83au) | Y | 2025-08-17 00:13:20 |
+| Vana | Daily Habit Tracker | [https://testflight.apple.com/join/tWSQ83au](https://testflight.apple.com/join/tWSQ83au) | Y | 2025-08-17 00:13:20 |
 | VanMoof | --- | [https://testflight.apple.com/join/TxUP41G4](https://testflight.apple.com/join/TxUP41G4) | Y | 2025-08-17 00:18:02 |
 | Vascularv01 | --- | [https://testflight.apple.com/join/Bq2sBAFe](https://testflight.apple.com/join/Bq2sBAFe) | Y | 2025-08-17 00:14:39 |
 | Vault of the Void | --- | [https://testflight.apple.com/join/a84d4UaL](https://testflight.apple.com/join/a84d4UaL) | Y | 2025-08-17 00:15:24 |
@@ -4777,7 +4778,7 @@
 | VVWallet | --- | [https://testflight.apple.com/join/eFU1dARx](https://testflight.apple.com/join/eFU1dARx) | Y | 2025-08-17 00:13:38 |
 | WA Toolbox | --- | [https://testflight.apple.com/join/5fegbMlR](https://testflight.apple.com/join/5fegbMlR) | Y | 2025-08-17 00:22:32 |
 | Wafrn | --- | [https://testflight.apple.com/join/k98B8bDq](https://testflight.apple.com/join/k98B8bDq) | Y | 2025-08-17 00:15:17 |
-| Wakeb|واكب | --- | [https://testflight.apple.com/join/a1BFQvav](https://testflight.apple.com/join/a1BFQvav) | Y | 2025-08-17 00:21:01 |
+| Wakeb|واكب  | [https://testflight.apple.com/join/a1BFQvav](https://testflight.apple.com/join/a1BFQvav) | Y | 2025-08-17 00:21:01 |
 | Walbi: AI Crypto Assistant | --- | [https://testflight.apple.com/join/QRbXi8u3](https://testflight.apple.com/join/QRbXi8u3) | Y | 2025-08-17 00:26:11 |
 | Walk the World: Virtual Trails | --- | [https://testflight.apple.com/join/7K8d7nvp](https://testflight.apple.com/join/7K8d7nvp) | Y | 2025-08-17 00:15:47 |
 | Walk2Gether | --- | [https://testflight.apple.com/join/YYgcC6m1](https://testflight.apple.com/join/YYgcC6m1) | Y | 2025-08-17 00:16:11 |
@@ -4787,7 +4788,7 @@
 | WalkLock reduces screentime | --- | [https://testflight.apple.com/join/aK5gwpPl](https://testflight.apple.com/join/aK5gwpPl) | Y | 2025-08-17 00:13:20 |
 | WalkMeow | --- | [https://testflight.apple.com/join/5rNhQ6aN](https://testflight.apple.com/join/5rNhQ6aN) | Y | 2025-08-17 00:13:43 |
 | Wallet by Kaza | --- | [https://testflight.apple.com/join/Z5mjFYdY](https://testflight.apple.com/join/Z5mjFYdY) | Y | 2025-08-17 00:17:07 |
-| Wallet Chat | Web3 | --- | [https://testflight.apple.com/join/ZfkTVrNe](https://testflight.apple.com/join/ZfkTVrNe) | Y | 2025-08-17 00:12:59 |
+| Wallet Chat | Web3 | [https://testflight.apple.com/join/ZfkTVrNe](https://testflight.apple.com/join/ZfkTVrNe) | Y | 2025-08-17 00:12:59 |
 | Wallpunch | --- | [https://testflight.apple.com/join/B3uRqpbk](https://testflight.apple.com/join/B3uRqpbk) | Y | 2025-08-17 00:24:26 |
 | Wally Nexa Wallet | --- | [https://testflight.apple.com/join/AznUHg38](https://testflight.apple.com/join/AznUHg38) | Y | 2025-08-17 00:23:04 |
 | Walmart: Shopping & Savings | --- | [https://testflight.apple.com/join/hDDYNJ6Z](https://testflight.apple.com/join/hDDYNJ6Z) | Y | 2025-08-17 00:13:12 |
@@ -5057,7 +5058,7 @@
 | РЖД ГМ dev | --- | [https://testflight.apple.com/join/Wj345pW5](https://testflight.apple.com/join/Wj345pW5) | Y | 2025-08-17 00:13:52 |
 | Ритм | --- | [https://testflight.apple.com/join/3xKd8Fpk](https://testflight.apple.com/join/3xKd8Fpk) | Y | 2025-08-17 00:17:14 |
 | СмартКардио | --- | [https://testflight.apple.com/join/ku8iGLOm](https://testflight.apple.com/join/ku8iGLOm) | Y | 2025-08-17 00:18:15 |
-| Суши-Даром | RUSSIA | --- | [https://testflight.apple.com/join/Usyhggc5](https://testflight.apple.com/join/Usyhggc5) | Y | 2025-08-17 00:17:01 |
+| Суши-Даром | RUSSIA | [https://testflight.apple.com/join/Usyhggc5](https://testflight.apple.com/join/Usyhggc5) | Y | 2025-08-17 00:17:01 |
 | Тrailcraft | --- | [https://testflight.apple.com/join/vDmjWUnH](https://testflight.apple.com/join/vDmjWUnH) | Y | 2025-08-17 00:14:09 |
 | Тихое | --- | [https://testflight.apple.com/join/bFYl5qE4](https://testflight.apple.com/join/bFYl5qE4) | Y | 2025-08-17 00:16:33 |
 | ФРМР dev | --- | [https://testflight.apple.com/join/iR6s0a7V](https://testflight.apple.com/join/iR6s0a7V) | Y | 2025-08-17 00:24:17 |
@@ -5077,7 +5078,7 @@
 | معابر الخطر | --- | [https://testflight.apple.com/join/8aY8kX9h](https://testflight.apple.com/join/8aY8kX9h) | Y | 2025-08-17 00:15:38 |
 | هزاع مفتاح للصرافة و التحويلات | --- | [https://testflight.apple.com/join/J7ztDcBX](https://testflight.apple.com/join/J7ztDcBX) | Y | 2025-08-17 00:23:08 |
 | هفـــ هشتاد | --- | [https://testflight.apple.com/join/bftR9X3W](https://testflight.apple.com/join/bftR9X3W) | Y | 2025-08-17 00:17:40 |
-| همراه کارت  | HamrahCard | --- | [https://testflight.apple.com/join/KFs7YqxD](https://testflight.apple.com/join/KFs7YqxD) | Y | 2025-08-17 00:14:55 |
+| همراه کارت  | HamrahCard | [https://testflight.apple.com/join/KFs7YqxD](https://testflight.apple.com/join/KFs7YqxD) | Y | 2025-08-17 00:14:55 |
 | อรุณสวัสดิ์ | --- | [https://testflight.apple.com/join/8sA3XObM](https://testflight.apple.com/join/8sA3XObM) | Y | 2025-08-17 00:33:51 |
 | 강펫T - 편하게 떠나는 펫택시 | --- | [https://testflight.apple.com/join/mSm63ree](https://testflight.apple.com/join/mSm63ree) | Y | 2025-08-17 00:21:14 |
 | 기비티 - 셀럽들의 기부플리마켓 | --- | [https://testflight.apple.com/join/GrWeWLPG](https://testflight.apple.com/join/GrWeWLPG) | Y | 2025-08-17 00:16:47 |
