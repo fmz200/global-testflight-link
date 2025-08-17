@@ -6,6 +6,13 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/fmz200/wool_scripts">
+    <img src="pictures/logo/logo02.png" alt="Logo" width="512" height="340">
+  </a>
+</p>
+
+
 ## 🥤 可用状态 / Available Status
 > 状态可能滞后，建议你点击testflight链接测试可用性。/ The status may lag, so we recommend you click the testflight link to test the availability.
 > 
@@ -20,7 +27,7 @@
 
 ## 🧃 App列表 / App List
 
-| App名称 / Name  | App描述 / App Description | TestFlight 链接 / TestFlight Link                                                          | 状态 / Status | 检测时间 / Last Updated (UTF + 8) |
+| App名称 / Name  | App描述 / Description | TestFlight 链接 / TestFlight Link                                                          | 状态 / Status | 检测时间 / Last Updated (UTF + 8) |
 |---------------|----------------------|------------------------------------------------------------------------------------------|-------------|-------------------------------|
 | .NET MAUI CRM | --- | [https://testflight.apple.com/join/R4YeuQ49](https://testflight.apple.com/join/R4YeuQ49) | Y | 2025-08-17 00:26:59 |
 | .ORCA4 | --- | [https://testflight.apple.com/join/jQnDfN7j](https://testflight.apple.com/join/jQnDfN7j) | Y | 2025-08-17 00:13:32 |
