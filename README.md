@@ -7,8 +7,8 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/fmz200/wool_scripts">
-    <img src="pictures/logo/logo02.png" alt="Logo" width="512" height="340">
+  <a href="https://github.com/fmz200/global-testflight-link">
+    <img src="pictures/logo/logo03.png" alt="Logo" width="900" height="383">
   </a>
 </p>
 
