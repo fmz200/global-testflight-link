@@ -8,10 +8,13 @@
 
 ## 🥤 可用状态 / Available Status
 > 状态可能滞后，建议你点击testflight链接测试可用性。/ The status may lag, so we recommend you click the testflight link to test the availability.
+> 
+> 总数量 / Total：26200。Y：5089，F：321，N：5962，D：1128，U：13701。
 * **Y: Yes** - 该App目前接受测试。/ Apps currently accepting new testers.
-* **F: Full** - 该App的的测试员已满。/ This beta is full.
+* **F: Full** - 该App的测试员已满。/ This beta is full.
 * **N: No** - 该App目前不接受任何新测试员。/ This beta isn't accepting any new testers right now.
 * **D: Removed** - 该App已从TestFlight删除。/ Apps that have been removed from TestFlight.
+* **U: Unknown** - 该App的状态尚未检测。/ The status of the App has not been detected.
 
 ---
 
