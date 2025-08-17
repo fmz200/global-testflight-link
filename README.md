@@ -12,6 +12,7 @@
   </a>
 </p>
 
+---
 
 ## 🥤 可用状态 / Available Status
 > 状态可能滞后，建议你点击testflight链接测试可用性。/ The status may lag, so we recommend you click the testflight link to test the availability.
