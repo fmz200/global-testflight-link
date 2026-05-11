@@ -17,7 +17,7 @@
 ## 🥤 可用状态 / Available Status
 > 状态可能滞后，建议你点击testflight链接测试可用性。/ The status may lag, so we recommend you click the testflight link to test the availability.
 > 
-> 总数量 / Total：33463。Y：7580，F：259，N：13306，D：3103，U：9203。
+> 总数量 / Total：33464。Y：8985，F：378，N：19681，D：4420，U：0。
 * **Y: Yes** - 该App目前接受测试。/ Apps currently accepting new testers.
 * **F: Full** - 该App的测试员已满。/ This beta is full.
 * **N: No** - 该App目前不接受任何新测试员。/ This beta isn't accepting any new testers right now.
@@ -86,8 +86,8 @@
   <td align="center"></td>
   <td align="center">Ａコープ九州アプリ</td>
   <td align="center"><a href="https://testflight.apple.com/join/Rp4e83xS">Rp4e83xS</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:29</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:38</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/14/76/1a147680-5c14-4d37-42c8-fb5e06c5ba52/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -108,7 +108,7 @@
   <td align="center">핑프라임</td>
   <td align="center"><a href="https://testflight.apple.com/join/YTDJ8can">YTDJ8can</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 23:00:22</td>
+  <td align="center">2026-05-11 23:42:08</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -121,22 +121,22 @@
   <td align="center"></td>
   <td align="center">판다VPN-pandavpn</td>
   <td align="center"><a href="https://testflight.apple.com/join/EgVWbK3e">EgVWbK3e</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:12:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:55:06</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">파스타(PASTA) - 스마트한 혈당 관리</td>
   <td align="center"><a href="https://testflight.apple.com/join/yhBI4UlH">yhBI4UlH</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:18:32</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:10</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">티키탁구</td>
   <td align="center"><a href="https://testflight.apple.com/join/BsZ5YVGe">BsZ5YVGe</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:00:16</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -149,8 +149,8 @@
   <td align="center"></td>
   <td align="center">타!이거</td>
   <td align="center"><a href="https://testflight.apple.com/join/W9VM8KhP">W9VM8KhP</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:12</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/58/05/9e58050e-5ca8-2e30-7989-6d74c6b918f0/SmartHelperAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -163,15 +163,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/c0/32/8dc03231-48fd-c4e1-8e37-860529836e0c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">컨설텝스</td>
   <td align="center"><a href="https://testflight.apple.com/join/1YiOYdID">1YiOYdID</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:40:40</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/ba/06/14ba0677-8388-24ef-4396-c8e015814002/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">캐시워크 - 돈 버는 만보기</td>
   <td align="center"><a href="https://testflight.apple.com/join/UZmPaJma">UZmPaJma</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:40:39</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -184,8 +184,8 @@
   <td align="center"></td>
   <td align="center">지지직</td>
   <td align="center"><a href="https://testflight.apple.com/join/BzdKB5sR">BzdKB5sR</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:40:40</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/c3/32/dfc33213-67c9-2d05-0cd5-89d2ba25793c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -233,8 +233,8 @@
   <td align="center"></td>
   <td align="center">우리알지 가계부 - 심플한 지출 기록 관리</td>
   <td align="center"><a href="https://testflight.apple.com/join/s7f8T62C">s7f8T62C</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:48:43</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -262,28 +262,28 @@
   <td align="center">에이더: N포인트 선물하기로 시작하는 작은 꿈 희망 앱</td>
   <td align="center"><a href="https://testflight.apple.com/join/nj1k5Fgp">nj1k5Fgp</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:16</td>
+  <td align="center">2026-05-11 23:40:39</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">아이언 로그 - AI기반 크로스핏 & 하이록스 기록</td>
   <td align="center"><a href="https://testflight.apple.com/join/VzsnSTTd">VzsnSTTd</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:00:23</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">쏙핀 - 나만의 SNS 맛집, 핫플 컬렉션</td>
   <td align="center"><a href="https://testflight.apple.com/join/bd3hzzC1">bd3hzzC1</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:57</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">심연탐사</td>
   <td align="center"><a href="https://testflight.apple.com/join/d5PMEC72">d5PMEC72</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:56</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -296,15 +296,15 @@
   <td align="center"></td>
   <td align="center">스킨핏AI - 내 피부 맞춤 화장품 적합도 분석</td>
   <td align="center"><a href="https://testflight.apple.com/join/4TXDPAHr">4TXDPAHr</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:39</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/11/39/48113993-840c-2991-391f-a4c8857fcec0/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">스마트병동 바이탈라이브</td>
   <td align="center"><a href="https://testflight.apple.com/join/9TJFY2N4">9TJFY2N4</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">2026-05-11 23:40:40</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -317,15 +317,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/81/ea/eb81eabb-e687-abaa-dd36-48dc55d857d1/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">서울전화수첩</td>
   <td align="center"><a href="https://testflight.apple.com/join/J91XtAlZ">J91XtAlZ</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:13:27</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:01:24</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">보리보리 - boribori</td>
   <td align="center"><a href="https://testflight.apple.com/join/D4Wv8abD">D4Wv8abD</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:24:59</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:25</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -338,57 +338,57 @@
   <td align="center"></td>
   <td align="center">미러링부스</td>
   <td align="center"><a href="https://testflight.apple.com/join/enKrknEr">enKrknEr</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:49:58</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/21/54/c42154c9-8ea4-8ff9-f53f-73f4ca20d4cf/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">무매무새</td>
   <td align="center"><a href="https://testflight.apple.com/join/wBtRGB72">wBtRGB72</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">2026-05-11 23:40:39</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/16/7f/ea167f14-9b55-71b1-2a7f-b68a33831eb8/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">모빌리언스카드</td>
   <td align="center"><a href="https://testflight.apple.com/join/CXpMPPds">CXpMPPds</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:40:39</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/17/85/9717858d-dd29-8f7e-e2f3-1c5ce50cb298/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">모동숲 마켓 - 동숲 아이템 거래해요!</td>
   <td align="center"><a href="https://testflight.apple.com/join/RBqVJ9GB">RBqVJ9GB</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:40:39</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">멜로밍 커미션</td>
   <td align="center"><a href="https://testflight.apple.com/join/h6d91cew">h6d91cew</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:29</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/af/aa/76afaaf7-f35e-5473-8262-94e10162e1e2/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">메디지</td>
   <td align="center"><a href="https://testflight.apple.com/join/Ra98ySDU">Ra98ySDU</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:40:39</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">링키고 ReengkiGo</td>
   <td align="center"><a href="https://testflight.apple.com/join/TZtCbZfC">TZtCbZfC</a></td>
   <td align="center">N</td>
-  <td align="center">2026-05-11 22:59:47</td>
+  <td align="center">2026-05-11 23:41:34</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">리콜렉트</td>
   <td align="center"><a href="https://testflight.apple.com/join/NZ8bqzmc">NZ8bqzmc</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-12 00:00:20</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/2a/26/e52a2668-8ba4-37c9-b5cc-5814da9aa1bd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -401,8 +401,8 @@
   <td align="center"></td>
   <td align="center">랭팟: 구독없는 AI 프리토킹</td>
   <td align="center"><a href="https://testflight.apple.com/join/HYVGJyV5">HYVGJyV5</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:27</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:56:10</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -430,7 +430,7 @@
   <td align="center">달보이스 플러스</td>
   <td align="center"><a href="https://testflight.apple.com/join/OJfvaCjH">OJfvaCjH</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">2026-05-11 23:40:39</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -471,8 +471,8 @@
   <td align="center"></td>
   <td align="center">끈 - 사람과 사람을 잇는 관계 분석</td>
   <td align="center"><a href="https://testflight.apple.com/join/Az1EZzVH">Az1EZzVH</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:48:57</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -485,15 +485,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/4e/51/d64e5121-b34a-9fb5-4fe9-1ac95ec034de/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">기비티 - 셀럽들의 기부플리마켓</td>
   <td align="center"><a href="https://testflight.apple.com/join/GrWeWLPG">GrWeWLPG</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:40:39</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">교주! 리바이브</td>
   <td align="center"><a href="https://testflight.apple.com/join/4z269yHP">4z269yHP</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:47:04</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -535,7 +535,7 @@
   <td align="center">강펫T - 편하게 떠나는 펫택시</td>
   <td align="center"><a href="https://testflight.apple.com/join/mSm63ree">mSm63ree</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">2026-05-11 23:40:38</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -548,22 +548,22 @@
   <td align="center"></td>
   <td align="center">龙华家医居民端</td>
   <td align="center"><a href="https://testflight.apple.com/join/ahHdYeJJ">ahHdYeJJ</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:43:44</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/7a/c7/e17ac78a-4f1b-1ed9-9b47-3678d5ad2254/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">龍石戰爭-馴龍出征!</td>
   <td align="center"><a href="https://testflight.apple.com/join/Ynu4CbEz">Ynu4CbEz</a></td>
   <td align="center">N</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:33:06</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/96/b5/9e96b55e-a711-bb56-2d9d-613712a5e14d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">鼎鼐</td>
   <td align="center"><a href="https://testflight.apple.com/join/JdoK12of">JdoK12of</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:32:55</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -653,8 +653,8 @@
   <td align="center"></td>
   <td align="center">鸡械绿洲</td>
   <td align="center"><a href="https://testflight.apple.com/join/XhR2rJ69">XhR2rJ69</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:57</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/00/2a/79002a51-01cc-24cb-20ca-6d98ba9d4d97/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -689,7 +689,7 @@
   <td align="center">魔力云播</td>
   <td align="center"><a href="https://testflight.apple.com/join/ywzcMKS3">ywzcMKS3</a></td>
   <td align="center">F</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">2026-05-11 23:33:08</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/52/3d/34523d89-ac9f-5dad-fdd3-09383cca28e7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -715,23 +715,23 @@
 <tr>
   <td align="center"></td>
   <td align="center">魂斗罗:归来-体验版</td>
-  <td align="center"><a href="https://testflight.apple.com/join/9TaGN7Oy">9TaGN7Oy</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:15:25</td>
+  <td align="center"><a href="https://testflight.apple.com/join/edJ4YWMp">edJ4YWMp</a></td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:45:12</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">魂斗罗:归来-体验版</td>
   <td align="center"><a href="https://testflight.apple.com/join/33HhtJbq">33HhtJbq</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:42:37</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">魂斗罗:归来-体验版</td>
-  <td align="center"><a href="https://testflight.apple.com/join/edJ4YWMp">edJ4YWMp</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center"><a href="https://testflight.apple.com/join/9TaGN7Oy">9TaGN7Oy</a></td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:56:50</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/8e/df/a48edf11-b284-fd7a-9875-85086ae0d60f/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -745,7 +745,7 @@
   <td align="center">高仙运维助手</td>
   <td align="center"><a href="https://testflight.apple.com/join/ZAFPCiVP">ZAFPCiVP</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:32:58</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/2b/2c/362b2c27-0f45-21b9-63f8-ab4f74bbafc1/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -758,8 +758,8 @@
   <td align="center"></td>
   <td align="center">骑骑单车</td>
   <td align="center"><a href="https://testflight.apple.com/join/qPXXGjTw">qPXXGjTw</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:30</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/91/a9/8491a992-9e0c-9c37-74e3-3a2ebb2a7a11/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -773,21 +773,21 @@
   <td align="center">驾驶伴侣</td>
   <td align="center"><a href="https://testflight.apple.com/join/wJTHOfJP">wJTHOfJP</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:01</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/00/ef/2500ef47-c2c4-57bf-fafb-9cad2e87d044/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">驻元技师端</td>
   <td align="center"><a href="https://testflight.apple.com/join/Lsomr9vj">Lsomr9vj</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:09</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:32</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/3f/05/e63f055f-5065-4cb3-9e30-1ca26b5996bb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">马克宇宙</td>
   <td align="center"><a href="https://testflight.apple.com/join/h83oO9xO">h83oO9xO</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:15</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:08</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -800,8 +800,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/3b/98/e63b9881-5834-7afc-5963-ebe6f244bf90/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">馬賽克英雄 - 兩週年慶典</td>
   <td align="center"><a href="https://testflight.apple.com/join/8KMNatSZ">8KMNatSZ</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:08</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/ca/8b/c3ca8b8f-d592-5f8a-74c4-ef27c1f3266b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -814,29 +814,29 @@
   <td align="center"></td>
   <td align="center">首阜次代商化系統</td>
   <td align="center"><a href="https://testflight.apple.com/join/hB7bjX27">hB7bjX27</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:26:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:59:08</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">首艺人</td>
   <td align="center"><a href="https://testflight.apple.com/join/axqYZq8Y">axqYZq8Y</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:13:34</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-12 00:01:29</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">馋香鸡</td>
   <td align="center"><a href="https://testflight.apple.com/join/xyzeBYgG">xyzeBYgG</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:47:11</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/3c/c2/d23cc2d1-36ef-c9f2-f7cd-d3231a02a243/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">饿了么-外卖放心点，美食准时达</td>
   <td align="center"><a href="https://testflight.apple.com/join/VNDGcHBB">VNDGcHBB</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:32:55</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -849,8 +849,8 @@
   <td align="center"></td>
   <td align="center">飲みゲ！｜飲み会の新定番</td>
   <td align="center"><a href="https://testflight.apple.com/join/ByunGMVY">ByunGMVY</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:07</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -863,15 +863,15 @@
   <td align="center"></td>
   <td align="center">食光机 - AI饮食卡路里记录</td>
   <td align="center"><a href="https://testflight.apple.com/join/SPPrf7wC">SPPrf7wC</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:00:38</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">飞鹰VPN</td>
   <td align="center"><a href="https://testflight.apple.com/join/sehsiR6S">sehsiR6S</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:15:05</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:56:36</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -884,8 +884,8 @@
   <td align="center"></td>
   <td align="center">飞连</td>
   <td align="center"><a href="https://testflight.apple.com/join/jmfmwn4G">jmfmwn4G</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:29</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -899,28 +899,28 @@
   <td align="center">飞狗专业版</td>
   <td align="center"><a href="https://testflight.apple.com/join/C11ep6gr">C11ep6gr</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:32:57</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">飞牛私有云</td>
   <td align="center"><a href="https://testflight.apple.com/join/7x5JdB9K">7x5JdB9K</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:12:47</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:55:23</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">飞梭VPN</td>
   <td align="center"><a href="https://testflight.apple.com/join/J43BQeuK">J43BQeuK</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:50:21</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">飞吧龙骑士</td>
   <td align="center"><a href="https://testflight.apple.com/join/3UuLxyxG">3UuLxyxG</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:41</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:42</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -947,8 +947,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/6e/02/806e02bd-6c6d-beb0-d891-3831afe3a76b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">风韵优行司机</td>
   <td align="center"><a href="https://testflight.apple.com/join/zR0i5Oh1">zR0i5Oh1</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:32:57</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -962,14 +962,14 @@
   <td align="center">风华宁大</td>
   <td align="center"><a href="https://testflight.apple.com/join/WshhxL0u">WshhxL0u</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">2026-05-11 23:32:56</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">风之痕迹</td>
   <td align="center"><a href="https://testflight.apple.com/join/NDSRuz4K">NDSRuz4K</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:18</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -997,7 +997,7 @@
   <td align="center">順成批發</td>
   <td align="center"><a href="https://testflight.apple.com/join/LMdoSkRJ">LMdoSkRJ</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:33:16</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/35/74/763574b3-f508-1cc1-0df1-ab5e026c7e52/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -1010,8 +1010,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/48/97/ee489729-eca4-5628-3bc5-0f65f628f5bf/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">靠谱骑兵</td>
   <td align="center"><a href="https://testflight.apple.com/join/1J8vtoyy">1J8vtoyy</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:05</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1039,7 +1039,7 @@
   <td align="center">青協內聯網</td>
   <td align="center"><a href="https://testflight.apple.com/join/eszGQtlo">eszGQtlo</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:13</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1053,7 +1053,7 @@
   <td align="center">青乐伴</td>
   <td align="center"><a href="https://testflight.apple.com/join/NyfYEJDH">NyfYEJDH</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">2026-05-11 23:33:12</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1088,14 +1088,14 @@
   <td align="center">雷神加速器-上亿玩家加速首选</td>
   <td align="center"><a href="https://testflight.apple.com/join/nBSJfvv7">nBSJfvv7</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:19</td>
+  <td align="center">2026-05-11 23:33:07</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">雪都跑跑</td>
   <td align="center"><a href="https://testflight.apple.com/join/ixN7m8SU">ixN7m8SU</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:48</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:47</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1108,15 +1108,15 @@
   <td align="center"></td>
   <td align="center">集中｜勉強時間の記録・スマホ依存対策、資格学習や受験に</td>
   <td align="center"><a href="https://testflight.apple.com/join/Em7RSxwa">Em7RSxwa</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:43:56</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">隧道之眼</td>
   <td align="center"><a href="https://testflight.apple.com/join/JQEsTpJF">JQEsTpJF</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:48:51</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/d6/37/9cd63742-2fad-848e-6c37-e2e6d8f997d3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -1129,15 +1129,15 @@
   <td align="center"></td>
   <td align="center">随拍鸭</td>
   <td align="center"><a href="https://testflight.apple.com/join/JFc8NDah">JFc8NDah</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:45:34</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">随心听书 - 离线有声书播放器</td>
   <td align="center"><a href="https://testflight.apple.com/join/FU3f8E84">FU3f8E84</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:42:33</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1164,8 +1164,8 @@
   <td align="center"></td>
   <td align="center">阿蜜</td>
   <td align="center"><a href="https://testflight.apple.com/join/INmINmH2">INmINmH2</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:13:23</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:55:30</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1221,14 +1221,14 @@
   <td align="center">闲鱼 - 神奇的闲鱼！</td>
   <td align="center"><a href="https://testflight.apple.com/join/JfpY3pHe">JfpY3pHe</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:22</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">闪电节点</td>
   <td align="center"><a href="https://testflight.apple.com/join/EGygKBAB">EGygKBAB</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:45:05</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1241,8 +1241,8 @@
   <td align="center"></td>
   <td align="center">闪亮的你-娱乐圈养成游戏</td>
   <td align="center"><a href="https://testflight.apple.com/join/PzyEBwo3">PzyEBwo3</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:56</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:58:52</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1262,15 +1262,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/8c/52/1a8c527a-4345-4ba1-66f3-d2a92eb4091a/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">长安启源</td>
   <td align="center"><a href="https://testflight.apple.com/join/XeOObmZy">XeOObmZy</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:30</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">长安启源</td>
   <td align="center"><a href="https://testflight.apple.com/join/LcYXoDxi">LcYXoDxi</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:25</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:58:35</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1304,22 +1304,22 @@
   <td align="center"></td>
   <td align="center">镜美人JMR</td>
   <td align="center"><a href="https://testflight.apple.com/join/FS3sqzMZ">FS3sqzMZ</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:13:34</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-12 00:01:29</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/eb/3b/2feb3bee-35fc-1314-c4e3-6976be619f0e/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">锐聊</td>
   <td align="center"><a href="https://testflight.apple.com/join/LNPJLd5t">LNPJLd5t</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:33:14</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">锐捷星耀家</td>
   <td align="center"><a href="https://testflight.apple.com/join/Fzh6q6jU">Fzh6q6jU</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:15</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:30</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1332,15 +1332,15 @@
   <td align="center"></td>
   <td align="center">锁屏词汇</td>
   <td align="center"><a href="https://testflight.apple.com/join/RgUN9Shj">RgUN9Shj</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:15</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/60/49/80604943-c7fc-c238-b51b-d91f11926043/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">销销乐</td>
   <td align="center"><a href="https://testflight.apple.com/join/ykmgMypu">ykmgMypu</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:13:30</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:01:27</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1353,15 +1353,15 @@
   <td align="center"></td>
   <td align="center">银魂集结</td>
   <td align="center"><a href="https://testflight.apple.com/join/BsxGxEsz">BsxGxEsz</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:15:59</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:14</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/19/aa/9719aa70-a49b-a2c8-f84c-9301db4f8531/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">银泰掌易宝</td>
   <td align="center"><a href="https://testflight.apple.com/join/3PeyCaD8">3PeyCaD8</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:27</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1388,8 +1388,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/f9/8d/49f98da8-ae5f-3288-0b31-a5a421a41f3c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">钱迹记账-无广告自动记账软件 & 预算 & 资产管理</td>
   <td align="center"><a href="https://testflight.apple.com/join/iMs1SfqD">iMs1SfqD</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:33:11</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1431,7 +1431,7 @@
   <td align="center">鎏金数据</td>
   <td align="center"><a href="https://testflight.apple.com/join/u2829niM">u2829niM</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:07</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/4b/e3/fc4be35d-7a66-6d53-d6f9-575eaaf730e9/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -1480,7 +1480,7 @@
   <td align="center">金太阳国际-港股美股投资交易平台</td>
   <td align="center"><a href="https://testflight.apple.com/join/2pJGmAhr">2pJGmAhr</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:03</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/59/72/85597276-7182-a77b-b3b7-1b5e3be67cba/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -1493,8 +1493,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/20/a6/d720a638-691e-95d7-9928-383a3f3d4748/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">金十TradingHero</td>
   <td align="center"><a href="https://testflight.apple.com/join/mMB4HU5F">mMB4HU5F</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:04</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1522,7 +1522,7 @@
   <td align="center">重返原始人</td>
   <td align="center"><a href="https://testflight.apple.com/join/7u485jwo">7u485jwo</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:32</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1539,6 +1539,20 @@
   <td align="center">2026-05-11 23:26:55</td>
 </tr>
 <tr>
+  <td align="center"></td>
+  <td align="center">采宝（caibao）</td>
+  <td align="center"><a href="https://testflight.apple.com/join/oTskMlaK">oTskMlaK</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:48:43</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/db/e5/c6dbe554-c092-badd-6861-18c59f430b8c/AppIconCaibaoOEM-1x_U007emarketing-0-5-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">采宝（caibao）</td>
+  <td align="center"><a href="https://testflight.apple.com/join/rLtFtxJK">rLtFtxJK</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:32:52</td>
+</tr>
+<tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/8e/e1/2f8ee12e-a874-2374-1114-fb6fec48ec2b/AppIconCaibaoOEM-1x_U007emarketing-0-5-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">采宝（caibao）</td>
   <td align="center"><a href="https://testflight.apple.com/join/fHjs0eRp">fHjs0eRp</a></td>
@@ -1546,32 +1560,18 @@
   <td align="center">2026-05-11 23:06:09</td>
 </tr>
 <tr>
-  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/db/e5/c6dbe554-c092-badd-6861-18c59f430b8c/AppIconCaibaoOEM-1x_U007emarketing-0-5-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
-  <td align="center">采宝（caibao）</td>
-  <td align="center"><a href="https://testflight.apple.com/join/rLtFtxJK">rLtFtxJK</a></td>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/42/97/ec4297fe-6e12-3f38-d5b1-f06b8367ff55/AppIconOEM-1x_U007emarketing-0-5-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">采宝联盟</td>
+  <td align="center"><a href="https://testflight.apple.com/join/TVeaBXUA">TVeaBXUA</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center">采宝（caibao）</td>
-  <td align="center"><a href="https://testflight.apple.com/join/oTskMlaK">oTskMlaK</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">2026-05-11 23:32:51</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/33/0e/8e330ebb-50dd-9177-e310-cf472fa4cb92/AppIconOEM-1x_U007emarketing-0-5-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">采宝联盟</td>
   <td align="center"><a href="https://testflight.apple.com/join/O3VZLvuu">O3VZLvuu</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/42/97/ec4297fe-6e12-3f38-d5b1-f06b8367ff55/AppIconOEM-1x_U007emarketing-0-5-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
-  <td align="center">采宝联盟</td>
-  <td align="center"><a href="https://testflight.apple.com/join/TVeaBXUA">TVeaBXUA</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:32:51</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1592,7 +1592,7 @@
   <td align="center">醒图 - 拍照&修图&修live神器</td>
   <td align="center"><a href="https://testflight.apple.com/join/uEyGl8DM">uEyGl8DM</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">2026-05-11 23:33:24</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1613,7 +1613,7 @@
   <td align="center">酷狗音乐-#大屏新体验#</td>
   <td align="center"><a href="https://testflight.apple.com/join/S4qHLhwv">S4qHLhwv</a></td>
   <td align="center">N</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:06</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/8a/d6/728ad6a4-a129-d142-7cf7-90733db1b8d7/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -1633,8 +1633,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/84/d7/3084d72f-1038-5d45-917b-90d7c3b92b3c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">酷狗概念版-酷狗音乐匠心出品</td>
   <td align="center"><a href="https://testflight.apple.com/join/DdscKm1S">DdscKm1S</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">F</td>
+  <td align="center">2026-05-11 23:33:05</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/84/d7/3084d72f-1038-5d45-917b-90d7c3b92b3c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -1646,16 +1646,16 @@
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/6a/df/676adf88-05a6-4ebb-d7e8-a9800d437b89/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">酷我音乐-好音质用酷我</td>
-  <td align="center"><a href="https://testflight.apple.com/join/XWYSZMaS">XWYSZMaS</a></td>
+  <td align="center"><a href="https://testflight.apple.com/join/ckShCX1T">ckShCX1T</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:07</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/6a/df/676adf88-05a6-4ebb-d7e8-a9800d437b89/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">酷我音乐-好音质用酷我</td>
-  <td align="center"><a href="https://testflight.apple.com/join/ckShCX1T">ckShCX1T</a></td>
+  <td align="center"><a href="https://testflight.apple.com/join/XWYSZMaS">XWYSZMaS</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:06</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/40/17/4e401743-2ef2-186f-92c5-29bd2f19ddbf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -1669,7 +1669,7 @@
   <td align="center">酒小二CTMS</td>
   <td align="center"><a href="https://testflight.apple.com/join/d56jYkzn">d56jYkzn</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:05</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1689,29 +1689,29 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/2c/c2/7d2cc2aa-3c23-77dd-b6da-93326d867857/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">郑州交建投OA</td>
   <td align="center"><a href="https://testflight.apple.com/join/09d8gAVk">09d8gAVk</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-08-24 12:01:09</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:31</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/a2/d4/22a2d4cb-4c1b-0b93-c6ff-10e3133d2625/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">郑好办</td>
   <td align="center"><a href="https://testflight.apple.com/join/z3rPE08U">z3rPE08U</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:30</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/64/0d/93640d0b-beda-2c21-337b-0295abea113c/AppIcon-1-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">邮储信用卡</td>
   <td align="center"><a href="https://testflight.apple.com/join/DRQIRrJ9">DRQIRrJ9</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:33:28</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/2f/38/e72f38d2-bb46-42d5-12d5-88edfc57af33/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">邮e保Beta</td>
   <td align="center"><a href="https://testflight.apple.com/join/vLZWuxac">vLZWuxac</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:28</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1724,8 +1724,8 @@
   <td align="center"></td>
   <td align="center">邑巴扫菲软件</td>
   <td align="center"><a href="https://testflight.apple.com/join/8pHmYIWO">8pHmYIWO</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:12:33</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-12 00:01:19</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/93/ff/4393ff20-73f6-f78d-0b3a-132ff387c0ee/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -1759,29 +1759,29 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/69/db/3269db4b-5050-49f8-30fd-e8cc5f9ecf26/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">逢客签</td>
   <td align="center"><a href="https://testflight.apple.com/join/H39dsyzG">H39dsyzG</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:18:22</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:58:02</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">速达浏览器</td>
   <td align="center"><a href="https://testflight.apple.com/join/Qsn4CfqS">Qsn4CfqS</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:24</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/b6/a5/b6b6a5c5-9ebc-13d6-5d4c-38b8f9e1247e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">速游VPN - Fast VPN Wifi Proxy</td>
   <td align="center"><a href="https://testflight.apple.com/join/umAtyVtu">umAtyVtu</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:16</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/37/f3/5137f362-dfa7-5f45-6ea4-939de5559d9f/AppIcon-1x_U007ephone-0-1-85-220-0.jpeg/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">通知さん</td>
   <td align="center"><a href="https://testflight.apple.com/join/uJwCBw6k">uJwCBw6k</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:16</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1794,8 +1794,8 @@
   <td align="center"></td>
   <td align="center">通宝VPN</td>
   <td align="center"><a href="https://testflight.apple.com/join/7q1QbK7T">7q1QbK7T</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:44:08</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1815,15 +1815,15 @@
   <td align="center"></td>
   <td align="center">逐句学</td>
   <td align="center"><a href="https://testflight.apple.com/join/ncc2Y7As">ncc2Y7As</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:02</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">追萝卜-记录你的追剧生活</td>
   <td align="center"><a href="https://testflight.apple.com/join/38NReF7S">38NReF7S</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:42:41</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1850,8 +1850,8 @@
   <td align="center"></td>
   <td align="center">远程互动课堂-AirTeach</td>
   <td align="center"><a href="https://testflight.apple.com/join/i9iMnbNT">i9iMnbNT</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:46</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:44</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1879,21 +1879,21 @@
   <td align="center">迅雷浏览器-主打纯净极简浏览</td>
   <td align="center"><a href="https://testflight.apple.com/join/TX6YlL2B">TX6YlL2B</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:27</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/d1/8f/fbd18f32-ccdd-7d93-4308-3f2e1b0e6d44/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">迅雷-随心搜，放心存，畅快看</td>
   <td align="center"><a href="https://testflight.apple.com/join/sRRIQyQs">sRRIQyQs</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:24</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">迅捷PDF转换器-全能pdf处理编辑</td>
   <td align="center"><a href="https://testflight.apple.com/join/VfksN5J0">VfksN5J0</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:13:51</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:55:44</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1906,15 +1906,15 @@
   <td align="center"></td>
   <td align="center">辰光</td>
   <td align="center"><a href="https://testflight.apple.com/join/RBKnEnO1">RBKnEnO1</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:24:47</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:19</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">辣条加速- VPN华人专属加速器</td>
   <td align="center"><a href="https://testflight.apple.com/join/u7DhzhS9">u7DhzhS9</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:21</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1942,7 +1942,7 @@
   <td align="center">輕安日照</td>
   <td align="center"><a href="https://testflight.apple.com/join/yB7QyJcz">yB7QyJcz</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:12</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/c8/f0/b1c8f0df-0053-00cc-2bb0-028933917502/AppIcon-0-0-1x_U007epad-0-11-0-85-220.jpeg/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -1963,7 +1963,7 @@
   <td align="center">路歌新大陆</td>
   <td align="center"><a href="https://testflight.apple.com/join/Qdt8CoW8">Qdt8CoW8</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">2026-05-11 23:33:06</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1977,7 +1977,7 @@
   <td align="center">跑跑钻石</td>
   <td align="center"><a href="https://testflight.apple.com/join/9U4ajvnS">9U4ajvnS</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:11</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2004,29 +2004,29 @@
   <td align="center"></td>
   <td align="center">趣蜂QF</td>
   <td align="center"><a href="https://testflight.apple.com/join/SnMREZxk">SnMREZxk</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:16:42</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:39</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/51/00/8651000d-f976-4cc3-2eec-8a59c0cf463c/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">趣来达骑手端</td>
   <td align="center"><a href="https://testflight.apple.com/join/YgDCecB9">YgDCecB9</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:13</td>
+  <td align="center">2026-05-11 23:33:13</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/b6/f6/abb6f6be-9601-6f03-c466-fc24c7e54be5/AppIcon-0-0-1x_U007ephone-0-11-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">趣来达商家端</td>
   <td align="center"><a href="https://testflight.apple.com/join/jcknCYvX">jcknCYvX</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:13</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:12</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">趣享券-每日精选数万好商品的优惠券导购App</td>
   <td align="center"><a href="https://testflight.apple.com/join/SAQ6xVJV">SAQ6xVJV</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:00:22</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2039,22 +2039,22 @@
   <td align="center"></td>
   <td align="center">超自然行動組-和趙露思一起玩</td>
   <td align="center"><a href="https://testflight.apple.com/join/Gua5xT38">Gua5xT38</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:46:07</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/a4/9f/74a49fc7-2461-f02d-d567-3fcd46c828fd/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-GLES2_U002c0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">起点读书-看小说听书追漫画的阅读神器</td>
   <td align="center"><a href="https://testflight.apple.com/join/NWQWHLbl">NWQWHLbl</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:12</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/2e/0d/8b2e0d62-35fe-fd38-0457-e09fae87921e/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">赣标通</td>
   <td align="center"><a href="https://testflight.apple.com/join/n2g6qlRF">n2g6qlRF</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:05</td>
+  <td align="center">2026-05-11 23:32:57</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/90/8d/0c908d3d-cbe8-4117-b5aa-1db1af176d0d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -2081,8 +2081,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/0a/e1/f80ae17c-f2f4-9c21-614d-769c108c1a6c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">资产巡检</td>
   <td align="center"><a href="https://testflight.apple.com/join/nVjWlkGt">nVjWlkGt</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:18:48</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:58:19</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2110,7 +2110,7 @@
   <td align="center">货拉拉-轩辕</td>
   <td align="center"><a href="https://testflight.apple.com/join/29U8h54r">29U8h54r</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">2026-05-11 23:33:01</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/8e/90/c38e9022-7111-b9aa-0e60-17d5f2886ad8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -2124,14 +2124,14 @@
   <td align="center">货拉拉-拉拉助手</td>
   <td align="center"><a href="https://testflight.apple.com/join/6kW4hQYm">6kW4hQYm</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:10</td>
+  <td align="center">2026-05-11 23:33:01</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/99/9a/5d999ae4-f469-6db8-46a5-47640c283479/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">货光光</td>
   <td align="center"><a href="https://testflight.apple.com/join/Pw6azJBk">Pw6azJBk</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">2026-05-11 23:33:01</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2145,21 +2145,21 @@
   <td align="center">财运亨通测试</td>
   <td align="center"><a href="https://testflight.apple.com/join/WGwvZb0W">WGwvZb0W</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:32:51</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/04/ca/0a04caa8-4f22-2f95-45cd-bd77e966ea53/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">财达理财师</td>
   <td align="center"><a href="https://testflight.apple.com/join/3drGboje">3drGboje</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:32:51</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">财瑞宝new</td>
   <td align="center"><a href="https://testflight.apple.com/join/wA7EVwMh">wA7EVwMh</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:47:52</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/7f/1d/277f1d50-24a8-1bbe-d9f3-0ea995d55ade/AppIcon-1x_U007emarketing-0-9-0-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -2173,7 +2173,14 @@
   <td align="center">豆瓣阅读</td>
   <td align="center"><a href="https://testflight.apple.com/join/Bh2Bo9ab">Bh2Bo9ab</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:32:56</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/0d/9f/fa0d9f1f-92fa-f0ca-df3b-e3709d8aa548/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">豆瓣</td>
+  <td align="center"><a href="https://testflight.apple.com/join/cyaKFpOu">cyaKFpOu</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:32:56</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/0d/9f/fa0d9f1f-92fa-f0ca-df3b-e3709d8aa548/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -2181,13 +2188,6 @@
   <td align="center"><a href="https://testflight.apple.com/join/w5En3SPV">w5En3SPV</a></td>
   <td align="center">Y</td>
   <td align="center">2026-05-11 23:06:20</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/0d/9f/fa0d9f1f-92fa-f0ca-df3b-e3709d8aa548/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
-  <td align="center">豆瓣</td>
-  <td align="center"><a href="https://testflight.apple.com/join/cyaKFpOu">cyaKFpOu</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2201,42 +2201,42 @@
   <td align="center">豆包输入法 - 豆包同款语音输入</td>
   <td align="center"><a href="https://testflight.apple.com/join/wUz8czx3">wUz8czx3</a></td>
   <td align="center">F</td>
-  <td align="center">2026-05-11 23:00:11</td>
+  <td align="center">2026-05-11 23:42:00</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/90/0e/20900e3f-15fc-205e-094f-9f193cf5e040/AppIcon-0-0-1x_U007epad-0-8-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">豆包 - 字节跳动旗下 AI 助手</td>
+  <td align="center"><a href="https://testflight.apple.com/join/mAE3jS7i">mAE3jS7i</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:01:12</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/44/f9/4244f931-4d67-4815-cdad-b5b4be155149/AppIcon-0-0-1x_U007epad-0-8-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">豆包 - 字节跳动旗下 AI 助手</td>
   <td align="center"><a href="https://testflight.apple.com/join/YthnpWFf">YthnpWFf</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/90/0e/20900e3f-15fc-205e-094f-9f193cf5e040/AppIcon-0-0-1x_U007epad-0-8-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
-  <td align="center">豆包 - 字节跳动旗下 AI 助手</td>
-  <td align="center"><a href="https://testflight.apple.com/join/mAE3jS7i">mAE3jS7i</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:12:13</td>
+  <td align="center">2026-05-11 23:32:56</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">谈信</td>
   <td align="center"><a href="https://testflight.apple.com/join/eTPe37rR">eTPe37rR</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 22:59:40</td>
+  <td align="center">2026-05-11 23:41:27</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/9f/52/ab9f52aa-6b38-2c5d-bc60-375312605345/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">读不舍手</td>
   <td align="center"><a href="https://testflight.apple.com/join/5wFCDpYF">5wFCDpYF</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:32:56</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">诺德物业</td>
   <td align="center"><a href="https://testflight.apple.com/join/dBjVjgKX">dBjVjgKX</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:26</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:36</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2284,29 +2284,29 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/7b/c8/0c7bc835-bad1-1678-4bf1-769353152fc2/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">诚e宝UAT</td>
   <td align="center"><a href="https://testflight.apple.com/join/f2GvQn5v">f2GvQn5v</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:17</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:32:52</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/23/40/38234098-aff0-5940-43df-baa9b049ee61/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">词迹</td>
   <td align="center"><a href="https://testflight.apple.com/join/K85GQ24b">K85GQ24b</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:32:52</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/7d/eb/177deb69-8376-3359-674a-6116665abe8d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">词汇宝</td>
   <td align="center"><a href="https://testflight.apple.com/join/uPggS41R">uPggS41R</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:32:52</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">记趣 Kicho - Ai小账本</td>
   <td align="center"><a href="https://testflight.apple.com/join/MDYUsbUX">MDYUsbUX</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:00:18</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2319,8 +2319,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/fe/8d/ddfe8dc8-f4c9-4500-4af7-baba89cb6f00/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">记账伴侣</td>
   <td align="center"><a href="https://testflight.apple.com/join/q9yUcV8n">q9yUcV8n</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:13:13</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:55:25</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/fe/8d/ddfe8dc8-f4c9-4500-4af7-baba89cb6f00/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -2333,15 +2333,15 @@
   <td align="center"></td>
   <td align="center">记忆花园</td>
   <td align="center"><a href="https://testflight.apple.com/join/XSdkH7mP">XSdkH7mP</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:14</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/5b/05/e75b0579-f4e7-9df0-73db-620f6e33f94e/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">记密码</td>
   <td align="center"><a href="https://testflight.apple.com/join/jhcpVNMw">jhcpVNMw</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 19:00:32</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:40:46</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/92/a6/3292a6ec-2001-8310-fb54-55b0b5df9eca/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -2389,8 +2389,8 @@
   <td align="center"></td>
   <td align="center">解体匠兔赏</td>
   <td align="center"><a href="https://testflight.apple.com/join/8rgaaZN9">8rgaaZN9</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:27</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:37</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2411,7 +2411,7 @@
   <td align="center">视频盛宴</td>
   <td align="center"><a href="https://testflight.apple.com/join/jWjYJrM7">jWjYJrM7</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:15</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2425,7 +2425,7 @@
   <td align="center">觀舌辨食</td>
   <td align="center"><a href="https://testflight.apple.com/join/4RDWEpsV">4RDWEpsV</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">2026-05-11 23:32:58</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2435,32 +2435,32 @@
   <td align="center">2026-05-11 23:22:57</td>
 </tr>
 <tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/50/de/5550de24-22b5-50ca-3edd-8d95f4a5b770/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">西部证券-开户炒股基金理财投顾</td>
+  <td align="center"><a href="https://testflight.apple.com/join/B85WDE9s">B85WDE9s</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:57:31</td>
+</tr>
+<tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/8f/7b/158f7b5e-eadd-7861-a476-f974f9dc07d6/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">西部证券-开户炒股基金理财投顾</td>
   <td align="center"><a href="https://testflight.apple.com/join/VsBZ6zgL">VsBZ6zgL</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:20</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/2c/16/d72c163a-3aa9-a74d-9bfa-1069579c7a0b/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">西部证券-开户炒股基金理财投顾</td>
   <td align="center"><a href="https://testflight.apple.com/join/X6luRwEK">X6luRwEK</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/50/de/5550de24-22b5-50ca-3edd-8d95f4a5b770/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
-  <td align="center">西部证券-开户炒股基金理财投顾</td>
-  <td align="center"><a href="https://testflight.apple.com/join/B85WDE9s">B85WDE9s</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:16:27</td>
+  <td align="center">2026-05-11 23:33:20</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/98/f9/2d98f9d0-9eaa-a028-2fa4-77464d1e2ab8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">西瓜视频</td>
   <td align="center"><a href="https://testflight.apple.com/join/ZkSx6V4m">ZkSx6V4m</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:20</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2474,7 +2474,7 @@
   <td align="center">西宝狼</td>
   <td align="center"><a href="https://testflight.apple.com/join/FcJPGTIG">FcJPGTIG</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">2026-05-11 23:33:20</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2487,22 +2487,22 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/a1/15/1da115eb-a00f-1098-e967-7c63003a03c6/AppIcon-0-0-1x_U007ephone-0-11-0-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">装修摩方</td>
   <td align="center"><a href="https://testflight.apple.com/join/oErU92Ln">oErU92Ln</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:33</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/ae/ce/75aece52-a57d-b14a-a87e-f4717bca9258/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">袖縁β</td>
   <td align="center"><a href="https://testflight.apple.com/join/1tILYU4U">1tILYU4U</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:24</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/03/5f/6f035f1b-8d01-b6f3-528d-1dd28b4f06fd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">袋鼠参谋</td>
   <td align="center"><a href="https://testflight.apple.com/join/EjwB8jpZ">EjwB8jpZ</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:32:53</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2515,15 +2515,15 @@
   <td align="center"></td>
   <td align="center">街机三国</td>
   <td align="center"><a href="https://testflight.apple.com/join/ogxPz9Lb">ogxPz9Lb</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:51</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:58:48</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">街机三国</td>
   <td align="center"><a href="https://testflight.apple.com/join/omtRMwtN">omtRMwtN</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:57</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:56:30</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2536,15 +2536,15 @@
   <td align="center"></td>
   <td align="center">行者户外-骑行徒步跑步工具</td>
   <td align="center"><a href="https://testflight.apple.com/join/5c4kjGWI">5c4kjGWI</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:43:44</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/ba/70/8dba70fd-dd2e-ffca-134a-4929420df973/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">行動自然人憑證(UAT)</td>
   <td align="center"><a href="https://testflight.apple.com/join/hgJK6hK4">hgJK6hK4</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:09</td>
+  <td align="center">2026-05-11 23:33:23</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/71/28/347128dd-141e-9f6b-91a6-0fbe68be2e2f/AppIcon-0-1x_U007emarketing-0-8-0-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -2558,35 +2558,35 @@
   <td align="center">蜜蜂记账 - 简洁记账本</td>
   <td align="center"><a href="https://testflight.apple.com/join/Eaw2rWxa">Eaw2rWxa</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 23:00:04</td>
+  <td align="center">2026-05-11 23:41:50</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">蜜桔出行</td>
   <td align="center"><a href="https://testflight.apple.com/join/26ZMPrZA">26ZMPrZA</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:47:30</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">蜂鸟网</td>
   <td align="center"><a href="https://testflight.apple.com/join/wu4et7dx">wu4et7dx</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:27</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">蛋播星球4</td>
   <td align="center"><a href="https://testflight.apple.com/join/bDb7WBtD">bDb7WBtD</a></td>
   <td align="center">F</td>
-  <td align="center">2026-05-11 23:00:10</td>
+  <td align="center">2026-05-11 23:41:58</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">蛋播星球2</td>
   <td align="center"><a href="https://testflight.apple.com/join/rwEncmX3">rwEncmX3</a></td>
   <td align="center">F</td>
-  <td align="center">2026-05-11 22:59:57</td>
+  <td align="center">2026-05-11 23:41:45</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/9e/47/669e4793-275e-4a40-1803-1d1ec84bc47d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -2599,15 +2599,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/a1/19/95a1192f-018a-d866-30f7-7e287a8a2a93/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">蛋仔派对（PENG）</td>
   <td align="center"><a href="https://testflight.apple.com/join/Hsq9fxZP">Hsq9fxZP</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:32:52</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/04/5a/ee045ac9-dc17-88eb-52de-78e6c623cbad/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">蛋仔星球</td>
   <td align="center"><a href="https://testflight.apple.com/join/U1uy34cq">U1uy34cq</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">2026-05-11 23:32:54</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2620,22 +2620,22 @@
   <td align="center"></td>
   <td align="center">虹ぶら</td>
   <td align="center"><a href="https://testflight.apple.com/join/va3gyNyf">va3gyNyf</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:45:38</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">虫みっけ！</td>
   <td align="center"><a href="https://testflight.apple.com/join/zyWAuRVd">zyWAuRVd</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:12:43</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:55:19</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/df/ae/5cdfae6c-6030-3287-17e0-258032e20313/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">虎扑-评分篮球足球游戏影视</td>
   <td align="center"><a href="https://testflight.apple.com/join/50AM6zvs">50AM6zvs</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">2026-05-11 23:33:01</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2684,7 +2684,7 @@
   <td align="center">蓄電コントローラー</td>
   <td align="center"><a href="https://testflight.apple.com/join/YVXby6Co">YVXby6Co</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:24</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2705,7 +2705,7 @@
   <td align="center">落格智聊 Chat AI</td>
   <td align="center"><a href="https://testflight.apple.com/join/PajKoiW7">PajKoiW7</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:07</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/ee/c9/b1eec9e2-edb0-8356-3846-c913b0f8034f/AppIcon-1x_U007emarketing-0-8-0-0-sRGB-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -2746,8 +2746,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/9f/21/b89f21ae-cf3d-ea1a-195a-925f9566c566/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">萝卜AI</td>
   <td align="center"><a href="https://testflight.apple.com/join/cxzrpzvW">cxzrpzvW</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:08</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2767,8 +2767,8 @@
   <td align="center"></td>
   <td align="center">萌寵puzzle</td>
   <td align="center"><a href="https://testflight.apple.com/join/TnwaxjvL">TnwaxjvL</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:16:05</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:17</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2824,7 +2824,7 @@
   <td align="center">苗木江湖</td>
   <td align="center"><a href="https://testflight.apple.com/join/fgpxfWyF">fgpxfWyF</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">2026-05-11 23:33:08</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2837,36 +2837,36 @@
   <td align="center"></td>
   <td align="center">花花与幕间剧</td>
   <td align="center"><a href="https://testflight.apple.com/join/P6bvMfhj">P6bvMfhj</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:16:25</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:29</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">花溪小记</td>
   <td align="center"><a href="https://testflight.apple.com/join/DRaKptMd">DRaKptMd</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:43:07</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/c5/b3/cec5b3fc-f2e7-28d4-a158-8b6a8518aaea/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">花朵talk</td>
   <td align="center"><a href="https://testflight.apple.com/join/Sq63CyPG">Sq63CyPG</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:00</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">节点小宝-远程助手</td>
   <td align="center"><a href="https://testflight.apple.com/join/yBB6bJeR">yBB6bJeR</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:06</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">艾斯文创</td>
   <td align="center"><a href="https://testflight.apple.com/join/YORfd8Kj">YORfd8Kj</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:18:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:03</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/f9/ab/94f9ab86-e1dc-9898-04c3-8d669392cc79/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -2880,7 +2880,7 @@
   <td align="center">船讯网-全球船舶位置动态实时查询</td>
   <td align="center"><a href="https://testflight.apple.com/join/RzewpgXv">RzewpgXv</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:32:52</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/53/bd/9953bdf7-c6e6-ae2b-cd3f-559637024445/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -2894,7 +2894,7 @@
   <td align="center">致景全布办公</td>
   <td align="center"><a href="https://testflight.apple.com/join/5YYPCypA">5YYPCypA</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:33:31</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2907,15 +2907,15 @@
   <td align="center"></td>
   <td align="center">至优英培 - 内部</td>
   <td align="center"><a href="https://testflight.apple.com/join/r85WCSBk">r85WCSBk</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:24</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/6a/d5/616ad530-bb69-c538-684d-4cb85531323e/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">自在安居</td>
   <td align="center"><a href="https://testflight.apple.com/join/DpEXZmQ8">DpEXZmQ8</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:34</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2943,7 +2943,7 @@
   <td align="center">腾讯自选股-在线炒股票证券交易</td>
   <td align="center"><a href="https://testflight.apple.com/join/7tPfWALw">7tPfWALw</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:16</td>
+  <td align="center">2026-05-11 23:33:16</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2962,16 +2962,16 @@
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/41/a3/ff41a3c3-b469-027e-06e6-faa7832dd808/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">腾讯地图-AI路线规划,导航公交打车地铁出行</td>
-  <td align="center"><a href="https://testflight.apple.com/join/I13vNH5h">I13vNH5h</a></td>
-  <td align="center">F</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center"><a href="https://testflight.apple.com/join/N1MkckuA">N1MkckuA</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:33:17</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/41/a3/ff41a3c3-b469-027e-06e6-faa7832dd808/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">腾讯地图-AI路线规划,导航公交打车地铁出行</td>
-  <td align="center"><a href="https://testflight.apple.com/join/N1MkckuA">N1MkckuA</a></td>
-  <td align="center">F</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center"><a href="https://testflight.apple.com/join/I13vNH5h">I13vNH5h</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:33:15</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2984,15 +2984,15 @@
   <td align="center"></td>
   <td align="center">腾讯iOA-SaaS</td>
   <td align="center"><a href="https://testflight.apple.com/join/F16c1aTM">F16c1aTM</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:42:40</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">腕上浏览器</td>
   <td align="center"><a href="https://testflight.apple.com/join/9E5zWJmb">9E5zWJmb</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:44:43</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/23/5d/6b235de2-97fe-7b64-5bef-3d52fb8f5da7/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -3005,8 +3005,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/f8/5b/01f85be2-3562-71ab-e35c-0fdf7a2cf370/AppIconStg-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">脂質異常症治療補助アプリ(STG)</td>
   <td align="center"><a href="https://testflight.apple.com/join/PL6nXdrF">PL6nXdrF</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:44</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:43</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3020,28 +3020,28 @@
   <td align="center">胡桃卡</td>
   <td align="center"><a href="https://testflight.apple.com/join/2grHvSk8">2grHvSk8</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 23:00:10</td>
+  <td align="center">2026-05-11 23:41:57</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">育之有道</td>
   <td align="center"><a href="https://testflight.apple.com/join/We2misG4">We2misG4</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:26:07</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:58:58</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/0c/6b/4c0c6b27-d60a-542e-bce7-eea93c879a81/AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">聯新行動掛號</td>
   <td align="center"><a href="https://testflight.apple.com/join/6OwEkFqb">6OwEkFqb</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:08</td>
+  <td align="center">2026-05-11 23:33:07</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/d1/fb/abd1fba0-1073-ec5c-f323-0abe3f2dc279/AssetsGtpSDGJ-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">联福金融</td>
   <td align="center"><a href="https://testflight.apple.com/join/89n9qO0S">89n9qO0S</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:12:11</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-12 00:01:11</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3089,8 +3089,8 @@
   <td align="center"></td>
   <td align="center">聊球-jhbhja</td>
   <td align="center"><a href="https://testflight.apple.com/join/BpesQ7de">BpesQ7de</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:18:28</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:58:07</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3118,7 +3118,7 @@
   <td align="center">耐火検査(AI版)</td>
   <td align="center"><a href="https://testflight.apple.com/join/xDqhY7Zt">xDqhY7Zt</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">2026-05-11 23:33:09</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/98/39/b6983980-9252-08a1-a93c-731bbfbce1aa/AppIcon-1x_U007ephone-0-1-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -3132,7 +3132,7 @@
   <td align="center">老虎国际-投资全球</td>
   <td align="center"><a href="https://testflight.apple.com/join/nGKe3E8R">nGKe3E8R</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">2026-05-11 23:33:07</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/12/c2/2c12c27b-0197-3771-c2a6-3854771b0fc8/AppIcon-1x_U007ephone-0-1-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -3146,14 +3146,14 @@
   <td align="center">老板帮</td>
   <td align="center"><a href="https://testflight.apple.com/join/WFAV5K8C">WFAV5K8C</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:05</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/98/49/dc98493a-cdc7-1080-541b-ef554c75b2bd/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">翼支付</td>
   <td align="center"><a href="https://testflight.apple.com/join/nRiAaxNf">nRiAaxNf</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:33:27</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3166,22 +3166,22 @@
   <td align="center"></td>
   <td align="center">羽體通 FWB.hk</td>
   <td align="center"><a href="https://testflight.apple.com/join/N39qv79z">N39qv79z</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:45:40</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">群益超i贏</td>
   <td align="center"><a href="https://testflight.apple.com/join/qbsOLH2C">qbsOLH2C</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:11:58</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-12 00:01:06</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/e5/00/cfe500ee-7f43-2647-0aa2-abfd2a54ad59/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">群益行動贏家</td>
   <td align="center"><a href="https://testflight.apple.com/join/UcqTdnHF">UcqTdnHF</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:16</td>
+  <td align="center">2026-05-11 23:33:14</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/fd/00/ecfd00aa-dab5-4ade-d844-d914dfe2ed13/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -3236,8 +3236,8 @@
   <td align="center"></td>
   <td align="center">美的光伏</td>
   <td align="center"><a href="https://testflight.apple.com/join/RQp7qj8v">RQp7qj8v</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:32</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/b2/44/0fb244fa-fbca-ee2a-91d4-77295f0ad569/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -3251,14 +3251,14 @@
   <td align="center">美丽记账-安全好用多人共享的日常收支随手财务记账本</td>
   <td align="center"><a href="https://testflight.apple.com/join/WMhnrSPJ">WMhnrSPJ</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:15</td>
+  <td align="center">2026-05-11 23:33:09</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/49/3f/c6493f3f-0e82-2898-2058-1fe4d4923dbb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">罗湖石器</td>
   <td align="center"><a href="https://testflight.apple.com/join/5486FhX6">5486FhX6</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:06</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3271,15 +3271,15 @@
   <td align="center"></td>
   <td align="center">罕见病患者端</td>
   <td align="center"><a href="https://testflight.apple.com/join/3uLzTOOh">3uLzTOOh</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:47</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:58:45</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">网络魔法箱 - 全能网络工具合集</td>
   <td align="center"><a href="https://testflight.apple.com/join/adfss7fj">adfss7fj</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:46:04</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/d9/7b/cdd97b72-7a70-9b8e-ce50-954faf5447fd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -3292,22 +3292,22 @@
   <td align="center"></td>
   <td align="center">网络小帮手</td>
   <td align="center"><a href="https://testflight.apple.com/join/xn4uBBhj">xn4uBBhj</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:16:41</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:57:37</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/b5/23/78b5231e-47d9-420b-4ed9-61f9ea96131e/AppIcon.release-0-0-1x_U007epad-0-1-0-85-220.jpeg/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">网易爆米花-智能媒体库，全能云盘网盘播放器</td>
   <td align="center"><a href="https://testflight.apple.com/join/sIj5iOoj">sIj5iOoj</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:19</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">网易爆米花-智能媒体库，全能云盘&网盘播放器</td>
   <td align="center"><a href="https://testflight.apple.com/join/xFzk8KQd">xFzk8KQd</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:11</td>
+  <td align="center">2026-05-11 23:33:18</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/8b/13/588b1380-83e8-ea7d-4c7f-94f0e26b7c9e/AppIcon-1x_U007ephone-0-1-0-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -3341,8 +3341,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/41/3a/93413af0-507f-efd8-bb27-5e9757528f02/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">绿植成长记录</td>
   <td align="center"><a href="https://testflight.apple.com/join/kJfhV7cP">kJfhV7cP</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:33:06</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3363,7 +3363,7 @@
   <td align="center">维信金科</td>
   <td align="center"><a href="https://testflight.apple.com/join/WzbDgnjH">WzbDgnjH</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:18</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/a6/b0/75a6b041-f3f1-d98c-f159-070b627c1625/AppIcon-1x_U007emarketing-0-6-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -3411,8 +3411,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/02/a7/b002a7d4-2c41-8157-85a3-bb6922f8b9c5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">纵横小说-上纵横小说看大神之作</td>
   <td align="center"><a href="https://testflight.apple.com/join/ivBfxRJv">ivBfxRJv</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:33</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3425,15 +3425,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/1b/2a/db1b2a57-9d09-4a7b-d5da-f42c5add782d/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">纭毅运输</td>
   <td align="center"><a href="https://testflight.apple.com/join/KEd2M9yE">KEd2M9yE</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:33:29</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/44/92/ea449240-dacb-d1a9-9c77-a7e3478096d2/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">约战：精灵再临（怀旧版）</td>
   <td align="center"><a href="https://testflight.apple.com/join/Zno7x8pc">Zno7x8pc</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">2026-05-11 23:33:29</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/46/91/d44691ab-8e41-3975-34aa-d96f6b3772e5/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -3447,14 +3447,14 @@
   <td align="center">红薯云加速器</td>
   <td align="center"><a href="https://testflight.apple.com/join/d9MTjmhw">d9MTjmhw</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">2026-05-11 23:33:00</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/00/0e/ad000e17-5f7a-dad5-efdb-1a79c0301884/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">红果短剧 - 海量热门短剧随心看</td>
   <td align="center"><a href="https://testflight.apple.com/join/Rfr1mzqS">Rfr1mzqS</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:32:59</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3468,7 +3468,7 @@
   <td align="center">红旗智联</td>
   <td align="center"><a href="https://testflight.apple.com/join/SSsAgFVk">SSsAgFVk</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:00</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/c0/1d/5cc01d91-0205-ebe6-adb7-57159ef78506/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -3481,8 +3481,8 @@
   <td align="center"></td>
   <td align="center">編みアシ - 編み物アシスタント</td>
   <td align="center"><a href="https://testflight.apple.com/join/YURUNyt5">YURUNyt5</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:47:32</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/02/e9/4502e940-7940-c59c-7522-08fd54a9d561/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -3496,7 +3496,7 @@
   <td align="center">經典石器</td>
   <td align="center"><a href="https://testflight.apple.com/join/Y4zperCp">Y4zperCp</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:04</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3509,57 +3509,57 @@
   <td align="center"></td>
   <td align="center">紫癜精灵</td>
   <td align="center"><a href="https://testflight.apple.com/join/dZQy4fKN">dZQy4fKN</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:23</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">糖葫芦浏览器</td>
   <td align="center"><a href="https://testflight.apple.com/join/QWne6G6V">QWne6G6V</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:43:19</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">糖葫芦TV</td>
   <td align="center"><a href="https://testflight.apple.com/join/EVsAuvZn">EVsAuvZn</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:48:20</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">糖葫芦PDF</td>
   <td align="center"><a href="https://testflight.apple.com/join/4kqbe61s">4kqbe61s</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:17</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/6a/eb/e86aeb94-5b87-8d43-d304-b71adfbf0940/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">精靈的召喚</td>
   <td align="center"><a href="https://testflight.apple.com/join/1Qyr8ybF">1Qyr8ybF</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:33:05</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/dd/1b/fedd1bab-6023-7274-9d80-d7e54469b273/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">精灵王石器</td>
   <td align="center"><a href="https://testflight.apple.com/join/GgczvEfe">GgczvEfe</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:04</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/53/7f/df537fcc-3c17-cb2c-999a-af4916757769/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">精灵王传说se</td>
   <td align="center"><a href="https://testflight.apple.com/join/8L6BucTJ">8L6BucTJ</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:05</td>
+  <td align="center">2026-05-11 23:33:03</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/96/1d/87961d33-90cd-e2cc-37a0-1c70016ffca7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">精灵王之约</td>
   <td align="center"><a href="https://testflight.apple.com/join/DwvoKiFd">DwvoKiFd</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:05</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/95/e2/9b95e294-d71d-986e-a053-f88a29f3733a/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -3573,7 +3573,7 @@
   <td align="center">粵拼 - 粵語輸入法廣東話輸入法鍵盤字典發音翻譯學習</td>
   <td align="center"><a href="https://testflight.apple.com/join/AG1Zkx7G">AG1Zkx7G</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:28</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3601,7 +3601,7 @@
   <td align="center">粤商通TF</td>
   <td align="center"><a href="https://testflight.apple.com/join/dsmrDxKs">dsmrDxKs</a></td>
   <td align="center">N</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:29</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/70/98/1b7098b8-fe6a-46e1-2cd4-edbdabb88d9e/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -3622,7 +3622,7 @@
   <td align="center">米莱体育</td>
   <td align="center"><a href="https://testflight.apple.com/join/JLitkD5B">JLitkD5B</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:09</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3663,8 +3663,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/7f/b7/f27fb75b-b40b-5a59-2fe5-2a8fac7f6640/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">米奥数据</td>
   <td align="center"><a href="https://testflight.apple.com/join/rrUSM47J">rrUSM47J</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:08</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3674,25 +3674,25 @@
   <td align="center">2026-05-11 23:26:37</td>
 </tr>
 <tr>
-  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/9a/b2/a69ab2c3-ac03-6ce0-c585-8fc6ffb82e41/MituAppIcon-1x_U007emarketing-0-4-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
-  <td align="center">米兔手表-可以打电话的手表</td>
-  <td align="center"><a href="https://testflight.apple.com/join/Szw5STVX">Szw5STVX</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
-</tr>
-<tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/1c/72/1f1c7297-9624-a4e0-1536-0a094c2d9459/MituAppIcon-1x_U007emarketing-0-4-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">米兔手表-可以打电话的手表</td>
   <td align="center"><a href="https://testflight.apple.com/join/XplPxabZ">XplPxabZ</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:12</td>
+  <td align="center">2026-05-11 23:33:08</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/9a/b2/a69ab2c3-ac03-6ce0-c585-8fc6ffb82e41/MituAppIcon-1x_U007emarketing-0-4-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">米兔手表-可以打电话的手表</td>
+  <td align="center"><a href="https://testflight.apple.com/join/Szw5STVX">Szw5STVX</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:33:08</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/c8/dd/35c8dd95-e2a3-6bee-b43d-1d2a4b3a2e14/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">简易物理</td>
   <td align="center"><a href="https://testflight.apple.com/join/5wCe1B8E">5wCe1B8E</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:02</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/c6/f7/4bc6f72f-8126-6c83-1188-7de325b28b6f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -3705,8 +3705,8 @@
   <td align="center"></td>
   <td align="center">简单记牌</td>
   <td align="center"><a href="https://testflight.apple.com/join/fSMpTzwT">fSMpTzwT</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:43:58</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3719,15 +3719,15 @@
   <td align="center"></td>
   <td align="center">简·历 / Calendo</td>
   <td align="center"><a href="https://testflight.apple.com/join/qUpJanBk">qUpJanBk</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:45:34</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">筑会Meeting</td>
   <td align="center"><a href="https://testflight.apple.com/join/Cmnlhzia">Cmnlhzia</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:11:58</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-12 00:01:06</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3741,7 +3741,7 @@
   <td align="center">笑容加 - 智能口腔健康管理，刷牙护齿好管家</td>
   <td align="center"><a href="https://testflight.apple.com/join/8JqhoCar">8JqhoCar</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:19</td>
+  <td align="center">2026-05-11 23:33:22</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3755,7 +3755,7 @@
   <td align="center">童綜合e點通</td>
   <td align="center"><a href="https://testflight.apple.com/join/1E6BICXS">1E6BICXS</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:17</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/f6/db/74f6db60-a124-8d20-cebf-ba2e9d750318/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -3768,8 +3768,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/40/5e/61405ef0-60bd-4091-93fc-fb1c8d5d78c3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">穿梭Transocks-海外回国追剧听歌</td>
   <td align="center"><a href="https://testflight.apple.com/join/xolZYrr6">xolZYrr6</a></td>
-  <td align="center">N</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:32:53</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3783,7 +3783,7 @@
   <td align="center">移动千里眼-行千里护平安</td>
   <td align="center"><a href="https://testflight.apple.com/join/OLtAHpIz">OLtAHpIz</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">2026-05-11 23:33:26</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3818,21 +3818,21 @@
   <td align="center">移动云SmartVPN</td>
   <td align="center"><a href="https://testflight.apple.com/join/kKvzsmuk">kKvzsmuk</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:19</td>
+  <td align="center">2026-05-11 23:33:25</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/43/21/65432193-6948-b09f-cf79-faa6ff015d44/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">租手机-在线手机</td>
   <td align="center"><a href="https://testflight.apple.com/join/31HTr10D">31HTr10D</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:11:27</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:54:41</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/56/3a/10563a3c-7635-8285-a7cd-1b83dfd3f168/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">秒剪 - 视频创作 & Live 实况制作</td>
   <td align="center"><a href="https://testflight.apple.com/join/QiS1oD2Q">QiS1oD2Q</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:09</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/6e/20/e86e20ba-1aa3-6df7-b1ff-dda28384fae3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -3894,8 +3894,8 @@
   <td align="center"></td>
   <td align="center">福蓓</td>
   <td align="center"><a href="https://testflight.apple.com/join/fEmttQ1w">fEmttQ1w</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:44:12</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3909,7 +3909,7 @@
   <td align="center">福田e家</td>
   <td align="center"><a href="https://testflight.apple.com/join/8Vvj9FdX">8Vvj9FdX</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">2026-05-11 23:32:56</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3943,8 +3943,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/1c/4f/5b1c4f12-eb2d-21d4-b6ee-2a899748578d/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">神眸</td>
   <td align="center"><a href="https://testflight.apple.com/join/cdes2VSR">cdes2VSR</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:14</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3993,35 +3993,35 @@
   <td align="center">硅基传感</td>
   <td align="center"><a href="https://testflight.apple.com/join/MEsPkZlg">MEsPkZlg</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:09</td>
+  <td align="center">2026-05-11 23:32:59</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">硅么- AI虚拟聊天</td>
   <td align="center"><a href="https://testflight.apple.com/join/uO4IwNq0">uO4IwNq0</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:52</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:50</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">破碎之地</td>
   <td align="center"><a href="https://testflight.apple.com/join/GZDJznfo">GZDJznfo</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:16:24</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:29</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">研游社漫画</td>
   <td align="center"><a href="https://testflight.apple.com/join/Q6jYWv14">Q6jYWv14</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:43</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">研游漫画</td>
   <td align="center"><a href="https://testflight.apple.com/join/pPZepfKa">pPZepfKa</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:45:24</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4035,14 +4035,14 @@
   <td align="center">码库</td>
   <td align="center"><a href="https://testflight.apple.com/join/zBxoamDF">zBxoamDF</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">2026-05-11 23:33:09</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/17/bc/2617bc3e-b919-cd1a-fe71-65cd20113e4f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">码友邦 AI</td>
   <td align="center"><a href="https://testflight.apple.com/join/n6bZ1dWi">n6bZ1dWi</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:08</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4062,15 +4062,15 @@
   <td align="center"></td>
   <td align="center">石慧行</td>
   <td align="center"><a href="https://testflight.apple.com/join/FHYMWg0D">FHYMWg0D</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:15:38</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:56:58</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/75/b5/f475b524-5cea-9fe4-58c4-1e96cc374674/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">石头新部落</td>
   <td align="center"><a href="https://testflight.apple.com/join/8TebJL2u">8TebJL2u</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:15</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4084,7 +4084,7 @@
   <td align="center">知更助手</td>
   <td align="center"><a href="https://testflight.apple.com/join/bwaUUeUc">bwaUUeUc</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:33:30</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/bc/f9/7cbcf949-f342-0eb5-e15d-0520b0e7f471/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -4111,15 +4111,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/5d/3f/735d3f32-cc23-6253-ee71-6f36abd69922/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">睿瓴云</td>
   <td align="center"><a href="https://testflight.apple.com/join/hbORY75x">hbORY75x</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:09</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:14</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/c7/1f/77c71f4c-0d4b-bdeb-acf4-9f13d08f2c8d/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">睿捷期权-您身边的专业期权老师</td>
   <td align="center"><a href="https://testflight.apple.com/join/BZYrUX3P">BZYrUX3P</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:14</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4132,8 +4132,8 @@
   <td align="center"></td>
   <td align="center">真的</td>
   <td align="center"><a href="https://testflight.apple.com/join/LOtxjpz8">LOtxjpz8</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:00:09</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4154,7 +4154,7 @@
   <td align="center">相逢数智-喜宝</td>
   <td align="center"><a href="https://testflight.apple.com/join/Wm49FeRt">Wm49FeRt</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:08</td>
+  <td align="center">2026-05-11 23:33:21</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4168,14 +4168,14 @@
   <td align="center">相信-创造有价值的沟通</td>
   <td align="center"><a href="https://testflight.apple.com/join/dcHea3eL">dcHea3eL</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">2026-05-11 23:33:20</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/2b/5c/c92b5cea-7ad1-7ffb-c579-f994fea6f3d4/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">直达国际</td>
   <td align="center"><a href="https://testflight.apple.com/join/2KKTsOZz">2KKTsOZz</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:32</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4195,22 +4195,22 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/dd/d2/c6ddd2b7-bf69-4bff-ab25-9d49f2301ad5/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">盛云猫Pro</td>
   <td align="center"><a href="https://testflight.apple.com/join/lnXXOHMK">lnXXOHMK</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:11:57</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:01:06</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/3b/4f/0c3b4fef-7513-35f7-1200-6797b753abe6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">益澜巡店</td>
   <td align="center"><a href="https://testflight.apple.com/join/p0HpvUMR">p0HpvUMR</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:33:26</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/b8/af/52b8aff8-3fd3-b51f-39a9-1f7fbcf2ea85/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">盈寶證券-以幫助用戶盈利為目標的股票app</td>
   <td align="center"><a href="https://testflight.apple.com/join/s6AUc1HR">s6AUc1HR</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:16</td>
+  <td align="center">2026-05-11 23:33:26</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/01/05/0d01052d-7a59-84bf-3dc3-b149077f53ff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -4230,8 +4230,8 @@
   <td align="center"></td>
   <td align="center">皮咔皮咔-遇见ta</td>
   <td align="center"><a href="https://testflight.apple.com/join/psldHMSg">psldHMSg</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:16:25</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:57:28</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4245,14 +4245,14 @@
   <td align="center">皮克方</td>
   <td align="center"><a href="https://testflight.apple.com/join/w56Tn0MT">w56Tn0MT</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:15</td>
+  <td align="center">2026-05-11 23:33:11</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">皖企通</td>
   <td align="center"><a href="https://testflight.apple.com/join/HoeiuTiS">HoeiuTiS</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:16:10</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:20</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4272,8 +4272,8 @@
   <td align="center"></td>
   <td align="center">百绘千画</td>
   <td align="center"><a href="https://testflight.apple.com/join/a8xEnww3">a8xEnww3</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:57</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4294,49 +4294,49 @@
   <td align="center">百度输入法-语音表情斗图输入法</td>
   <td align="center"><a href="https://testflight.apple.com/join/tZIfgySI">tZIfgySI</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:32:50</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/69/25/d9692528-c99c-bcf9-f961-39845ac44255/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">百度贴吧-聊兴趣，上贴吧</td>
   <td align="center"><a href="https://testflight.apple.com/join/GgBqXAqm">GgBqXAqm</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:12:38</td>
+  <td align="center">F</td>
+  <td align="center">2026-05-11 23:55:17</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">百度网盘-释放手机空间</td>
   <td align="center"><a href="https://testflight.apple.com/join/xs6kr2Uj">xs6kr2Uj</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:12:07</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-12 00:01:10</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">百度文库-AI专业文档总结报告资料库</td>
   <td align="center"><a href="https://testflight.apple.com/join/NgUXUE72">NgUXUE72</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:45:09</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/cb/1e/eecb1e6f-3873-4d0d-d5ea-e9f5d2d4e1ed/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">百度地图-路线规划,出行必备</td>
   <td align="center"><a href="https://testflight.apple.com/join/WjgWQPVG">WjgWQPVG</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:18:36</td>
+  <td align="center">F</td>
+  <td align="center">2026-05-11 23:58:13</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">百度VR播放器</td>
   <td align="center"><a href="https://testflight.apple.com/join/laumvzLa">laumvzLa</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:11:55</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-12 00:01:05</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/43/4d/b9434daa-9431-ce04-a05e-06c2595b59ce/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">百佳会议</td>
   <td align="center"><a href="https://testflight.apple.com/join/PV3a3FCq">PV3a3FCq</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:32:49</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4356,29 +4356,29 @@
   <td align="center"></td>
   <td align="center">疆全Pro</td>
   <td align="center"><a href="https://testflight.apple.com/join/GVPHSa2R">GVPHSa2R</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:26</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">番茄畅听-海量小说音乐评书全场畅听</td>
   <td align="center"><a href="https://testflight.apple.com/join/v78cEF3W">v78cEF3W</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:56</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/f3/e3/ebf3e3cf-312d-0398-d972-37fe5e154974/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">番茄小说 - 热门短剧全本小说电子书阅读器</td>
   <td align="center"><a href="https://testflight.apple.com/join/dTUO1uyt">dTUO1uyt</a></td>
-  <td align="center">F</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:32:56</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/62/b7/fc62b73c-ea6d-1775-2640-e3dde7e5fab2/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">番茄助眠</td>
   <td align="center"><a href="https://testflight.apple.com/join/CNeMrOox">CNeMrOox</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:32:56</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/c3/11/8dc31159-7f33-1e13-c5d2-1622c6231d73/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -4398,8 +4398,8 @@
   <td align="center"></td>
   <td align="center">电波谷子</td>
   <td align="center"><a href="https://testflight.apple.com/join/XfCWV7AF">XfCWV7AF</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:11:26</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-12 00:00:56</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/37/b9/0d37b9b3-09bc-3338-4ea2-b51ab313140d/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -4412,22 +4412,22 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/78/8f/e9788fc5-9e02-f099-b3c8-3650e528c7ab/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">电建港航</td>
   <td align="center"><a href="https://testflight.apple.com/join/Sh4uAOWU">Sh4uAOWU</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:32:53</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">电建4EMP</td>
   <td align="center"><a href="https://testflight.apple.com/join/NveDuob1">NveDuob1</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:33</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:56:13</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">电子墓</td>
   <td align="center"><a href="https://testflight.apple.com/join/muesFVTX">muesFVTX</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:08</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/58/a9/3c58a9d9-e0aa-57df-2851-3cd9f80737ee/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -4441,21 +4441,21 @@
   <td align="center">申港同花顺</td>
   <td align="center"><a href="https://testflight.apple.com/join/quPPxdPL">quPPxdPL</a></td>
   <td align="center">N</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">2026-05-11 23:33:14</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/ac/a7/b7aca7e5-a89b-a8fc-ba89-e2197bd6b333/AppIcon_InHouse-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">用戶端測試版</td>
   <td align="center"><a href="https://testflight.apple.com/join/nfpzmtan">nfpzmtan</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:33:28</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/66/f2/3f66f239-14f8-a5b8-cd09-e128bfcd8f75/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">用心读书</td>
   <td align="center"><a href="https://testflight.apple.com/join/T5iPf4Fo">T5iPf4Fo</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:04:25</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:00:57</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4468,15 +4468,15 @@
   <td align="center"></td>
   <td align="center">甜觅娱乐</td>
   <td align="center"><a href="https://testflight.apple.com/join/zbrU4CKG">zbrU4CKG</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:45:17</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">甜甜圈数字空间</td>
   <td align="center"><a href="https://testflight.apple.com/join/SjhhOO2G">SjhhOO2G</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:56:04</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4489,8 +4489,8 @@
   <td align="center"></td>
   <td align="center">瑞福德汽金</td>
   <td align="center"><a href="https://testflight.apple.com/join/daRU33pU">daRU33pU</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:26:06</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:58</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4537,13 +4537,6 @@
 <tr>
   <td align="center"></td>
   <td align="center">理想汽车-为家庭打造的智能电动车</td>
-  <td align="center"><a href="https://testflight.apple.com/join/ywpVy51c">ywpVy51c</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:11:44</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center">理想汽车-为家庭打造的智能电动车</td>
   <td align="center"><a href="https://testflight.apple.com/join/3ts9ic98">3ts9ic98</a></td>
   <td align="center">N</td>
   <td align="center">2026-05-11 23:27:33</td>
@@ -4554,6 +4547,13 @@
   <td align="center"><a href="https://testflight.apple.com/join/19P9MnJG">19P9MnJG</a></td>
   <td align="center">N</td>
   <td align="center">2026-05-11 23:21:51</td>
+</tr>
+<tr>
+  <td align="center"></td>
+  <td align="center">理想汽车-为家庭打造的智能电动车</td>
+  <td align="center"><a href="https://testflight.apple.com/join/ywpVy51c">ywpVy51c</a></td>
+  <td align="center">D</td>
+  <td align="center">2026-05-12 00:01:02</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4573,8 +4573,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/c6/93/bbc69399-b2a7-9a1a-d02a-0666465606d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">环信语聊</td>
   <td align="center"><a href="https://testflight.apple.com/join/wmJGRdLh">wmJGRdLh</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:08</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:01</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4595,21 +4595,21 @@
   <td align="center">环信</td>
   <td align="center"><a href="https://testflight.apple.com/join/4EysoaNN">4EysoaNN</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:02</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">玫瑰克隆 2</td>
   <td align="center"><a href="https://testflight.apple.com/join/cN5RSDec">cN5RSDec</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:47:10</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">玫瑰克隆</td>
   <td align="center"><a href="https://testflight.apple.com/join/Q9Wm6ZZF">Q9Wm6ZZF</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 23:00:07</td>
+  <td align="center">2026-05-11 23:41:55</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4623,7 +4623,7 @@
   <td align="center">玩具帝国</td>
   <td align="center"><a href="https://testflight.apple.com/join/GQZ1v6vN">GQZ1v6vN</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:33:18</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4644,7 +4644,7 @@
   <td align="center">王者传奇beta版</td>
   <td align="center"><a href="https://testflight.apple.com/join/99FnT1KK">99FnT1KK</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:09</td>
+  <td align="center">2026-05-11 23:33:18</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4658,14 +4658,14 @@
   <td align="center">王煤通</td>
   <td align="center"><a href="https://testflight.apple.com/join/AE48QT6U">AE48QT6U</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:18</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/54/53/9a54538a-da15-ea79-c701-ec6b01d28f73/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">王力CRM</td>
   <td align="center"><a href="https://testflight.apple.com/join/bwNf9itB">bwNf9itB</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">2026-05-11 23:33:17</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/ef/74/abef7422-d284-9dae-80b2-7fb9718f2d28/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -4678,8 +4678,8 @@
   <td align="center"></td>
   <td align="center">猴儿家V2</td>
   <td align="center"><a href="https://testflight.apple.com/join/1SMASehg">1SMASehg</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:44:11</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/41/84/d3418479-5113-7073-66f8-b8775169e292/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -4692,8 +4692,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/37/2e/df372e67-08c1-c535-7f3e-014c6c068f4b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">猫情怀</td>
   <td align="center"><a href="https://testflight.apple.com/join/8otQPb1E">8otQPb1E</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:13:27</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:01:26</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4706,8 +4706,8 @@
   <td align="center"></td>
   <td align="center">猫东南亚</td>
   <td align="center"><a href="https://testflight.apple.com/join/ogUVw9F9">ogUVw9F9</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:18:09</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:57</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4748,15 +4748,15 @@
   <td align="center"></td>
   <td align="center">特特管家-特斯拉车主必备</td>
   <td align="center"><a href="https://testflight.apple.com/join/BxGZb5Pg">BxGZb5Pg</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:44:08</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/6c/10/966c10ad-d9ca-2b3b-a322-ad88f6091541/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">物联千里眼</td>
   <td align="center"><a href="https://testflight.apple.com/join/GlUMnqmU">GlUMnqmU</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:20</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4790,8 +4790,8 @@
   <td align="center"></td>
   <td align="center">爱快</td>
   <td align="center"><a href="https://testflight.apple.com/join/jPw7yFVH">jPw7yFVH</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:55</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:56:32</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/fc/85/52fc859e-0a0c-82d4-bbb1-f8ccb4457eef/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -4804,8 +4804,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/3a/a6/3c3aa6b0-d7c8-0a16-7733-4332cb5a2e6e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">爱山东</td>
   <td align="center"><a href="https://testflight.apple.com/join/iJhW4VQS">iJhW4VQS</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:15:20</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:56:47</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/10/a3/9b10a3a4-a909-8225-6808-acf063f3e10a/AppIcon-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -4818,15 +4818,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/4b/74/354b7463-d7f2-2a5d-b334-e29dc61653a3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">爱兔宝</td>
   <td align="center"><a href="https://testflight.apple.com/join/VnWb0LXh">VnWb0LXh</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:32:50</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/44/48/b0444860-cfab-740f-8038-7edf6099e911/mission_mapnew5-sit-0-1x_U007emarketing-0-6-0-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">爱信sit</td>
   <td align="center"><a href="https://testflight.apple.com/join/n1p1U8uX">n1p1U8uX</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:32:49</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4839,8 +4839,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/2f/e7/212fe76f-9d9a-87e0-80b0-a855f00dcbce/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">爆量神器</td>
   <td align="center"><a href="https://testflight.apple.com/join/we7dTmaw">we7dTmaw</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:27</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:56:10</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4881,8 +4881,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/55/86/1e55864c-e9f2-8824-3bae-e14c3c9f9e26/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">無極将棋</td>
   <td align="center"><a href="https://testflight.apple.com/join/nag7VBM4">nag7VBM4</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:19</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/8d/0a/088d0a9d-488b-e8e9-5695-480a7d69c323/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -4902,8 +4902,8 @@
   <td align="center"></td>
   <td align="center">烈焰飞雪：征战</td>
   <td align="center"><a href="https://testflight.apple.com/join/ZNjUfxBh">ZNjUfxBh</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:59</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/3b/41/3b3b4198-d1ae-1eb9-92b5-94e4e12e5e13/AppIcon-Test-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -4924,7 +4924,7 @@
   <td align="center">点点开黑-连麦交友语音开黑软件</td>
   <td align="center"><a href="https://testflight.apple.com/join/ZGzQlUbu">ZGzQlUbu</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:32:55</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/83/b1/af83b10f-9e92-89cc-6b01-52e890685327/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -4945,14 +4945,14 @@
   <td align="center">火信-聊懂区块链</td>
   <td align="center"><a href="https://testflight.apple.com/join/EKcUxful">EKcUxful</a></td>
   <td align="center">D</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">2026-05-11 23:31:52</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/81/f7/b681f7cb-500f-d256-5ff0-88acba9345c6/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">澳門公共服務一戶通</td>
   <td align="center"><a href="https://testflight.apple.com/join/lmTk9bUz">lmTk9bUz</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:15:21</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:56:47</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4973,7 +4973,7 @@
   <td align="center">满天星评</td>
   <td align="center"><a href="https://testflight.apple.com/join/8ZFR7Ttq">8ZFR7Ttq</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:09</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4993,8 +4993,8 @@
   <td align="center"></td>
   <td align="center">湘财证券-百宝湘</td>
   <td align="center"><a href="https://testflight.apple.com/join/RpwQa5bQ">RpwQa5bQ</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:18:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:01</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/8d/85/358d8509-80d2-604a-0481-cde8a05ae8a9/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -5008,21 +5008,21 @@
   <td align="center">湖北科技馆</td>
   <td align="center"><a href="https://testflight.apple.com/join/y0eZhOMM">y0eZhOMM</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:02</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/3c/0f/033c0f14-2fc7-c427-849b-ff2c7827fa8f/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">游泳邦·教练</td>
   <td align="center"><a href="https://testflight.apple.com/join/hJAueZjf">hJAueZjf</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:16:38</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:57:37</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/fd/1e/0afd1e40-068a-7553-3807-d9afa41fa668/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">港險表哥</td>
   <td align="center"><a href="https://testflight.apple.com/join/MmqZfZ1l">MmqZfZ1l</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:13</td>
+  <td align="center">2026-05-11 23:32:57</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5057,7 +5057,7 @@
   <td align="center">渡星河 Stariver</td>
   <td align="center"><a href="https://testflight.apple.com/join/DJEEr2kd">DJEEr2kd</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 22:59:43</td>
+  <td align="center">2026-05-11 23:41:31</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5085,7 +5085,7 @@
   <td align="center">清玖</td>
   <td align="center"><a href="https://testflight.apple.com/join/6DM4TPAv">6DM4TPAv</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">2026-05-11 23:33:12</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5099,14 +5099,14 @@
   <td align="center">深蓝汽车</td>
   <td align="center"><a href="https://testflight.apple.com/join/zfzepr74">zfzepr74</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:15</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/e6/f3/02e6f3cf-5277-f7f6-eea3-aa6ecbbb58c4/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">深蓝汽车</td>
   <td align="center"><a href="https://testflight.apple.com/join/Rw7vMyaV">Rw7vMyaV</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:13</td>
+  <td align="center">2026-05-11 23:33:14</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5134,14 +5134,14 @@
   <td align="center">淘露</td>
   <td align="center"><a href="https://testflight.apple.com/join/YAOnk6Uw">YAOnk6Uw</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">2026-05-11 23:33:16</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/25/17/c22517c6-8539-f793-d78d-254e7f112556/AppIcon-0-1x_U007emarketing-0-11-0-0-sRGB-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">淘宝主播</td>
   <td align="center"><a href="https://testflight.apple.com/join/xSOP5d7s">xSOP5d7s</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:17</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/55/1a/87551a59-988c-eef5-dcf0-13a3b3a9bf8f/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -5161,15 +5161,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/34/98/be349858-dbf3-bf83-86ee-48bb51adbc19/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">润曜心</td>
   <td align="center"><a href="https://testflight.apple.com/join/uu4hc5lE">uu4hc5lE</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:13</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">润工作3.0</td>
   <td align="center"><a href="https://testflight.apple.com/join/FQdkZTaV">FQdkZTaV</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:42:42</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5190,21 +5190,21 @@
   <td align="center">涂鸦面板</td>
   <td align="center"><a href="https://testflight.apple.com/join/VdPzsEpR">VdPzsEpR</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:17</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/3d/7a/863d7a2d-97ee-73a8-917d-f30ec0fbb8c7/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">涂鸦小智</td>
   <td align="center"><a href="https://testflight.apple.com/join/oBa3ZWCD">oBa3ZWCD</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:10</td>
+  <td align="center">2026-05-11 23:33:17</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/0b/4f/ac0b4f07-b049-7a50-f390-bbeae702c976/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">涂涂大湿</td>
   <td align="center"><a href="https://testflight.apple.com/join/VQTwf3Sd">VQTwf3Sd</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:17</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5232,7 +5232,7 @@
   <td align="center">海尔智家</td>
   <td align="center"><a href="https://testflight.apple.com/join/CAvfaozw">CAvfaozw</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">2026-05-11 23:32:59</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5245,15 +5245,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/17/6c/bf176cd1-1fc9-5cd7-63a2-91f5dc680f66/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">海信爱家</td>
   <td align="center"><a href="https://testflight.apple.com/join/0reAomD2">0reAomD2</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:34</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:56:15</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">浮生忆玲珑</td>
   <td align="center"><a href="https://testflight.apple.com/join/RJ0wF73A">RJ0wF73A</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:23</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:33</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5266,8 +5266,8 @@
   <td align="center"></td>
   <td align="center">浙江农商人测试版</td>
   <td align="center"><a href="https://testflight.apple.com/join/ncv0PuxK">ncv0PuxK</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:46</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:45</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5281,7 +5281,7 @@
   <td align="center">浙江CA互认</td>
   <td align="center"><a href="https://testflight.apple.com/join/zS3K0nDI">zS3K0nDI</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:30</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5294,8 +5294,8 @@
   <td align="center"></td>
   <td align="center">浑水摸鱼</td>
   <td align="center"><a href="https://testflight.apple.com/join/aFGEjhm5">aFGEjhm5</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:26</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5323,21 +5323,21 @@
   <td align="center">派来帮您</td>
   <td align="center"><a href="https://testflight.apple.com/join/rzeIzjmZ">rzeIzjmZ</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:10</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/e2/fa/f3e2fac6-6fdf-674d-45b3-68fe4323518c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">洛塔足球</td>
   <td align="center"><a href="https://testflight.apple.com/join/f26HeGmX">f26HeGmX</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:08</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/cd/51/87cd517e-7b5b-9e31-e7bd-2e3eb49901c5/AppIcon-prod-1x_U007emarketing-0-8-0-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">泰隆银行</td>
   <td align="center"><a href="https://testflight.apple.com/join/6H5wrJoT">6H5wrJoT</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:54</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:58:51</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5357,8 +5357,8 @@
   <td align="center"></td>
   <td align="center">泡泡聊天</td>
   <td align="center"><a href="https://testflight.apple.com/join/h8H81aXd">h8H81aXd</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:23</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5371,29 +5371,29 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/8b/ae/098baefa-efaa-cc75-2853-d52ed11f7030/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">泛海三江CRM</td>
   <td align="center"><a href="https://testflight.apple.com/join/BcOl6Sr2">BcOl6Sr2</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 19:00:58</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:41:13</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/d7/4f/19d74fce-5170-1bf7-5983-6bb4d88fe748/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">泛华双录</td>
   <td align="center"><a href="https://testflight.apple.com/join/5rDF66Ec">5rDF66Ec</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:32:57</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/01/f9/1601f939-2488-b41d-8472-84068129415f/AppIcon-0-1x_U007emarketing-0-8-0-0-sRGB-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">河小象点评</td>
   <td align="center"><a href="https://testflight.apple.com/join/sfPPM75h">sfPPM75h</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:05</td>
+  <td align="center">2026-05-11 23:33:01</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/85/1e/c1851eb4-0011-f380-7340-c1a95993009e/AppIcon-0-0-1x_U007emarketing-0-3-0-0-85-220.jpeg/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">河北公车</td>
   <td align="center"><a href="https://testflight.apple.com/join/ZHQg4JVA">ZHQg4JVA</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:32:59</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5410,18 +5410,18 @@
   <td align="center">2026-05-11 23:06:02</td>
 </tr>
 <tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/73/1b/63731b60-1ad8-ba5a-012c-b8043572b3c1/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">沃尔沃汽车</td>
+  <td align="center"><a href="https://testflight.apple.com/join/Mtj9J0kd">Mtj9J0kd</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:33:18</td>
+</tr>
+<tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/23/ba/0f23ba22-0310-3476-9302-e6388a55afb4/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">沃尔沃汽车</td>
   <td align="center"><a href="https://testflight.apple.com/join/PZ1waX4c">PZ1waX4c</a></td>
   <td align="center">Y</td>
   <td align="center">2026-05-11 23:20:31</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/73/1b/63731b60-1ad8-ba5a-012c-b8043572b3c1/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
-  <td align="center">沃尔沃汽车</td>
-  <td align="center"><a href="https://testflight.apple.com/join/Mtj9J0kd">Mtj9J0kd</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/5c/2c/cb5c2c3f-6528-b7d3-4a65-617e1ada276e/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -5434,8 +5434,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/b2/eb/beb2eb3d-d1d3-2f6e-ee82-753b42b3907e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">汽车实验室</td>
   <td align="center"><a href="https://testflight.apple.com/join/KRAFMBvp">KRAFMBvp</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:11</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5448,8 +5448,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/09/15/cc091567-eccd-adb3-5c9f-8095effdbcf6/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">汉家江湖</td>
   <td align="center"><a href="https://testflight.apple.com/join/4yK8GNMR">4yK8GNMR</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:13:37</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:55:36</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5483,8 +5483,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/47/a7/6247a784-96f6-a536-2031-b165b4435cde/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">汇旺(DEV)</td>
   <td align="center"><a href="https://testflight.apple.com/join/oEUeqGeZ">oEUeqGeZ</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:56:03</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5511,15 +5511,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/97/2b/48972b49-6a26-d0da-b43d-0b6385f42a78/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">永赢金租快乐永赢APP系统</td>
   <td align="center"><a href="https://testflight.apple.com/join/OMiaYFS8">OMiaYFS8</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:13:20</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:01:23</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/86/c3/9786c354-57ad-6ca4-2d9d-11ce251769e7/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">永豐餘生技 [ UAT ]</td>
   <td align="center"><a href="https://testflight.apple.com/join/tAUdspR1">tAUdspR1</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:27</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5532,8 +5532,8 @@
   <td align="center"></td>
   <td align="center">永恒与星辰与日常</td>
   <td align="center"><a href="https://testflight.apple.com/join/WhSFZtfT">WhSFZtfT</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:46:03</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5574,8 +5574,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/29/6c/0e296cdf-0ef9-2a55-d164-a3fd2bf29917/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">毛怪俱乐部</td>
   <td align="center"><a href="https://testflight.apple.com/join/jcKVduQS">jcKVduQS</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:08</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/e9/30/d8e93039-6146-a515-080e-26a6eca2b250/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -5609,8 +5609,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/c5/6f/86c56fcc-093a-a23e-29fb-6670336c3b93/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">正品惠农宝</td>
   <td align="center"><a href="https://testflight.apple.com/join/nBfJyi6h">nBfJyi6h</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:23</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:56:07</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/3b/e6/313be670-f30b-a8e4-e169-16c938eed949/AppIcon-1x_U007emarketing-0-5-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -5637,8 +5637,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/b5/ee/aeb5ee55-2930-1c59-4a3f-b5472790d9b7/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">次神：光之觉醒-动作冒险休闲闯关游戏</td>
   <td align="center"><a href="https://testflight.apple.com/join/Ns3E603U">Ns3E603U</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:16:38</td>
+  <td align="center">F</td>
+  <td align="center">2026-05-11 23:57:38</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5658,8 +5658,8 @@
   <td align="center"></td>
   <td align="center">楓葉島~</td>
   <td align="center"><a href="https://testflight.apple.com/join/9YYlQDGR">9YYlQDGR</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:53</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:56:27</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5693,8 +5693,8 @@
   <td align="center"></td>
   <td align="center">棋路-象棋课堂</td>
   <td align="center"><a href="https://testflight.apple.com/join/s9SdLije">s9SdLije</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:18:44</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:17</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5707,8 +5707,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/64/f5/2f64f532-4220-7884-a96f-78998b6e5de6/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">梦幻岛娱乐</td>
   <td align="center"><a href="https://testflight.apple.com/join/dnHa7R5b">dnHa7R5b</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:08</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5742,8 +5742,8 @@
   <td align="center"></td>
   <td align="center">格瑞梦享家T</td>
   <td align="center"><a href="https://testflight.apple.com/join/QI4MlpZ8">QI4MlpZ8</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:26:00</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:54</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5777,15 +5777,15 @@
   <td align="center"></td>
   <td align="center">栗子课表</td>
   <td align="center"><a href="https://testflight.apple.com/join/S2na5W2x">S2na5W2x</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:17:23</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:44</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/eb/d7/39ebd7ae-b284-e4d9-d9b6-544fab4afc34/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">标证通项目</td>
   <td align="center"><a href="https://testflight.apple.com/join/6F18B2WG">6F18B2WG</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:32:50</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/a1/47/88a1478f-1249-4897-d281-0916faaee630/AppIcon-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -5805,8 +5805,8 @@
   <td align="center"></td>
   <td align="center">柚YoYo</td>
   <td align="center"><a href="https://testflight.apple.com/join/oh3AJNRf">oh3AJNRf</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:13:47</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:55:42</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5847,8 +5847,8 @@
   <td align="center"></td>
   <td align="center">极速智连 - 智能网络诊断与加速</td>
   <td align="center"><a href="https://testflight.apple.com/join/5NQdFWzq">5NQdFWzq</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:53</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5869,14 +5869,14 @@
   <td align="center">极简记物</td>
   <td align="center"><a href="https://testflight.apple.com/join/3bWrub1P">3bWrub1P</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:17</td>
+  <td align="center">2026-05-11 23:33:01</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">极空间TV</td>
   <td align="center"><a href="https://testflight.apple.com/join/M6yUrfIm">M6yUrfIm</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:03</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5890,7 +5890,7 @@
   <td align="center">极氪家充服务</td>
   <td align="center"><a href="https://testflight.apple.com/join/z225k0VS">z225k0VS</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:02</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5903,15 +5903,15 @@
   <td align="center"></td>
   <td align="center">极光之恋</td>
   <td align="center"><a href="https://testflight.apple.com/join/K5UNsgbv">K5UNsgbv</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:52</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/68/9f/41689f80-20b8-eb9a-e5d3-618a2f7d8163/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">東方Visionオンライン</td>
   <td align="center"><a href="https://testflight.apple.com/join/56qVFMEa">56qVFMEa</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:16</td>
+  <td align="center">2026-05-11 23:32:55</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/5a/62/005a6244-ed28-540d-8cdf-c3aabc49da94/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -5924,22 +5924,22 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/45/8a/25458ab2-8a42-3785-5253-707bcae5f404/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">杭州美屋美居</td>
   <td align="center"><a href="https://testflight.apple.com/join/1iefliCm">1iefliCm</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:39</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:56:19</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/6a/fd/de6afdae-72ac-0f02-db4d-689b9ccb0762/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">杭州工商CRM</td>
   <td align="center"><a href="https://testflight.apple.com/join/m62Fjrrx">m62Fjrrx</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:32:59</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">杭州亚运行</td>
   <td align="center"><a href="https://testflight.apple.com/join/Re41gZRV">Re41gZRV</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:42</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:42</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5952,8 +5952,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/60/0e/5c600eee-f8cb-1c21-bf8a-2c91c50fb949/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">来薅</td>
   <td align="center"><a href="https://testflight.apple.com/join/z8Qnq5t5">z8Qnq5t5</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:33:07</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5974,7 +5974,7 @@
   <td align="center">朴朴超市-30分钟快送</td>
   <td align="center"><a href="https://testflight.apple.com/join/KUFpjlUl">KUFpjlUl</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">2026-05-11 23:33:10</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5994,15 +5994,15 @@
   <td align="center"></td>
   <td align="center">木棉花11</td>
   <td align="center"><a href="https://testflight.apple.com/join/oJ8I3JcD">oJ8I3JcD</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:24:50</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:58:21</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">木星加速-海外华人回国加速器</td>
   <td align="center"><a href="https://testflight.apple.com/join/sLAyCNTN">sLAyCNTN</a></td>
   <td align="center">D</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">2026-05-11 23:32:03</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6012,18 +6012,18 @@
   <td align="center">2026-05-11 23:14:24</td>
 </tr>
 <tr>
-  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/91/e2/2191e2bd-d81c-e5a7-df82-f81c9af1564e/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
-  <td align="center">期货智能掌厅</td>
-  <td align="center"><a href="https://testflight.apple.com/join/E17ySdsN">E17ySdsN</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
-</tr>
-<tr>
   <td align="center"></td>
   <td align="center">期货智能掌厅</td>
   <td align="center"><a href="https://testflight.apple.com/join/vc9RCw5f">vc9RCw5f</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:42:59</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/91/e2/2191e2bd-d81c-e5a7-df82-f81c9af1564e/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">期货智能掌厅</td>
+  <td align="center"><a href="https://testflight.apple.com/join/E17ySdsN">E17ySdsN</a></td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:11</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6037,21 +6037,21 @@
   <td align="center">有道智选联调工具</td>
   <td align="center"><a href="https://testflight.apple.com/join/LdBFIET6">LdBFIET6</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:28</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/87/11/4787115a-662d-e788-a289-1f2206594f8e/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">有录网企业版</td>
   <td align="center"><a href="https://testflight.apple.com/join/9pEdBAT5">9pEdBAT5</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:28</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">月食-MBTI性格测试,心理情感咨询</td>
   <td align="center"><a href="https://testflight.apple.com/join/5HSfK713">5HSfK713</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:26:00</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:58:53</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6064,8 +6064,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/7d/f8/f37df8ee-c012-548b-6fd1-638c51a5ef2f/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">月光云VPN - Clash加速器</td>
   <td align="center"><a href="https://testflight.apple.com/join/x2X2QUQ3">x2X2QUQ3</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 19:00:38</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:40:52</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/a9/d8/d3a9d89a-15d9-d7b5-d75f-8a4aabff4b63/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -6085,8 +6085,8 @@
   <td align="center"></td>
   <td align="center">最短で記事をサマリー | Sumric</td>
   <td align="center"><a href="https://testflight.apple.com/join/yvWQc1Qh">yvWQc1Qh</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:49:02</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6100,7 +6100,7 @@
   <td align="center">智能录音本</td>
   <td align="center"><a href="https://testflight.apple.com/join/WsCI4XZY">WsCI4XZY</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:33</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6113,15 +6113,15 @@
   <td align="center"></td>
   <td align="center">智能云-创投孵化平台</td>
   <td align="center"><a href="https://testflight.apple.com/join/0RCLIonZ">0RCLIonZ</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:13:53</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:55:45</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/e9/b1/dde9b1e4-4941-4d55-af37-7e5109122a8e/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">智派云</td>
   <td align="center"><a href="https://testflight.apple.com/join/Ht47ulRg">Ht47ulRg</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:32</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6135,49 +6135,49 @@
   <td align="center">智慧通用</td>
   <td align="center"><a href="https://testflight.apple.com/join/tcksntQC">tcksntQC</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:32</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/49/94/8d4994cb-a5e6-3139-d2dd-988a7d29aa1b/AppIcon-0-0-1x_U007ephone-0-11-0-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">智慧苏州 - 苏州市民卡</td>
   <td align="center"><a href="https://testflight.apple.com/join/bWtmNKzJ">bWtmNKzJ</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:32</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/9b/4c/e19b4c7a-e683-d39b-751d-a34b31f7550f/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">智慧网格系统（新网格通）</td>
   <td align="center"><a href="https://testflight.apple.com/join/7vDyrxOY">7vDyrxOY</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:32</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">智慧牧原Pro</td>
   <td align="center"><a href="https://testflight.apple.com/join/EREiZ6Em">EREiZ6Em</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:43:18</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/b2/e8/b5b2e8a8-9997-74b4-7cc1-4efbd87f2a7f/AppIcon_zhcm-1x_U007epad-0-11-0-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">智慧川煤</td>
   <td align="center"><a href="https://testflight.apple.com/join/GRx39tPd">GRx39tPd</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:08</td>
+  <td align="center">2026-05-11 23:33:31</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/20/77/862077b8-dd48-0eb2-c236-6678d736088f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">智慧安全管理</td>
   <td align="center"><a href="https://testflight.apple.com/join/3hlCc0yp">3hlCc0yp</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:31</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">智慧国控</td>
   <td align="center"><a href="https://testflight.apple.com/join/n33asUux">n33asUux</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:44:27</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6197,8 +6197,8 @@
   <td align="center"></td>
   <td align="center">智慧兴农</td>
   <td align="center"><a href="https://testflight.apple.com/join/HVsA8BWd">HVsA8BWd</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:16:05</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:17</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6225,22 +6225,22 @@
   <td align="center"></td>
   <td align="center">智己销售终端</td>
   <td align="center"><a href="https://testflight.apple.com/join/EPj2ZbQu">EPj2ZbQu</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:16:26</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:29</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/12/40/0e1240d9-ff8a-7959-0569-7203d2a288ba/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">智学V</td>
   <td align="center"><a href="https://testflight.apple.com/join/9VIJO3SO">9VIJO3SO</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">2026-05-11 23:33:32</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/1f/74/db1f7463-0fcd-d6f0-5171-581b17c810c8/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">智兔-印尼</td>
   <td align="center"><a href="https://testflight.apple.com/join/9CWBAmyS">9CWBAmyS</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:26:04</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:58:57</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/bc/b6/12bcb6c3-3c67-4e04-667c-e97fbb060373/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -6254,7 +6254,7 @@
   <td align="center">智九描</td>
   <td align="center"><a href="https://testflight.apple.com/join/DAFi5Cp0">DAFi5Cp0</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:31</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6274,8 +6274,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/2a/8f/fc2a8f58-0c4e-dbcf-52e7-db10afff9b24/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">晖致CRM</td>
   <td align="center"><a href="https://testflight.apple.com/join/qLGMoIGc">qLGMoIGc</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:01</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6303,35 +6303,35 @@
   <td align="center">星途星纪元</td>
   <td align="center"><a href="https://testflight.apple.com/join/mdPgvtmm">mdPgvtmm</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:10</td>
+  <td align="center">2026-05-11 23:33:24</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">星途星纪元</td>
   <td align="center"><a href="https://testflight.apple.com/join/nxymwEU5">nxymwEU5</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:27</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/0d/a1/b10da1c1-8448-d4ea-1162-9aa2a05dbe45/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
-  <td align="center">星途助手</td>
-  <td align="center"><a href="https://testflight.apple.com/join/D3SpZ6cZ">D3SpZ6cZ</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:56:10</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/02/62/0d02627b-27d5-904c-ebfa-5192176295e6/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">星途助手</td>
   <td align="center"><a href="https://testflight.apple.com/join/5o4uDXMv">5o4uDXMv</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:08</td>
+  <td align="center">2026-05-11 23:33:24</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/0d/a1/b10da1c1-8448-d4ea-1162-9aa2a05dbe45/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">星途助手</td>
+  <td align="center"><a href="https://testflight.apple.com/join/D3SpZ6cZ">D3SpZ6cZ</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:33:23</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/29/df/6d29df37-a730-f0c8-2502-e121e49bb339/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">星财富-一站式全球综合财富管理平台</td>
   <td align="center"><a href="https://testflight.apple.com/join/xpTMfxS7">xpTMfxS7</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:13:29</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:01:25</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6358,15 +6358,15 @@
   <td align="center"></td>
   <td align="center">星聊OS</td>
   <td align="center"><a href="https://testflight.apple.com/join/UPaV6FN1">UPaV6FN1</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:02:46</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:54:37</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/87/52/3c8752db-8662-bcfd-f84e-5cffb68a5248/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">星空组网</td>
   <td align="center"><a href="https://testflight.apple.com/join/Ekfzye6i">Ekfzye6i</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:19</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:22</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6379,8 +6379,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/9d/b6/699db623-b955-2c32-6be5-5f8ed17ae806/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">星球加速器-网络加速器</td>
   <td align="center"><a href="https://testflight.apple.com/join/xbs7GSWZ">xbs7GSWZ</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:33:22</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6401,21 +6401,21 @@
   <td align="center">星欢</td>
   <td align="center"><a href="https://testflight.apple.com/join/hDu5fjJN">hDu5fjJN</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">2026-05-11 23:33:23</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">星月到家技师端</td>
   <td align="center"><a href="https://testflight.apple.com/join/nJ18dMQG">nJ18dMQG</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:48:28</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">星月到家</td>
   <td align="center"><a href="https://testflight.apple.com/join/SdvG7SXK">SdvG7SXK</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:48:16</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/49/d5/3a49d5ee-1aa7-ddab-95fc-11ce02d9ca8a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -6435,15 +6435,15 @@
   <td align="center"></td>
   <td align="center">易迈云医端</td>
   <td align="center"><a href="https://testflight.apple.com/join/tYssbN7C">tYssbN7C</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:55</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/bf/de/19bfdeaa-411a-4259-77fc-d46b4eb09b28/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">易车务</td>
   <td align="center"><a href="https://testflight.apple.com/join/ess5Tw1o">ess5Tw1o</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:26</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6470,8 +6470,8 @@
   <td align="center"></td>
   <td align="center">易推-易推数据助手</td>
   <td align="center"><a href="https://testflight.apple.com/join/z0RrwLcn">z0RrwLcn</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:26:08</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:59</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/71/5a/88715a58-f370-816e-f3d8-3ed75af1876e/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -6491,8 +6491,8 @@
   <td align="center"></td>
   <td align="center">易出行-您的出行好帮手</td>
   <td align="center"><a href="https://testflight.apple.com/join/8Q39jv2G">8Q39jv2G</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:08</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6505,36 +6505,36 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/a7/96/d0a796e0-2156-eaf9-530a-b993e6411262/MinHuiTong_AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">易信-行业版-测试专用</td>
   <td align="center"><a href="https://testflight.apple.com/join/cjIA6xHp">cjIA6xHp</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:27</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/99/8f/10998f0a-1e87-462f-b01a-06fba254c16f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">明讯现场管理</td>
   <td align="center"><a href="https://testflight.apple.com/join/eYLP7q2H">eYLP7q2H</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:05</td>
+  <td align="center">2026-05-11 23:33:10</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">明珠三国</td>
   <td align="center"><a href="https://testflight.apple.com/join/dqJJQZOE">dqJJQZOE</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:16:42</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:39</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/7b/5b/2e7b5b33-00c9-c33d-1a85-31e0d7f8da13/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">明日旋律</td>
   <td align="center"><a href="https://testflight.apple.com/join/eLZ4u5aY">eLZ4u5aY</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:08</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/10/1f/9c101f95-e692-38ef-3ee9-f63a9099edb1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">明仁药业</td>
   <td align="center"><a href="https://testflight.apple.com/join/YsG7NE5F">YsG7NE5F</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:13</td>
+  <td align="center">2026-05-11 23:33:09</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6548,7 +6548,7 @@
   <td align="center">昂码MOM</td>
   <td align="center"><a href="https://testflight.apple.com/join/CZcSPF5x">CZcSPF5x</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:32:50</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6561,15 +6561,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/66/2f/c8662f83-86a2-2dbf-5f7d-b5e8caa465c1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">时间日志-时间块时间管理待办项日程番茄钟提醒计划自律</td>
   <td align="center"><a href="https://testflight.apple.com/join/RkvyiiZW">RkvyiiZW</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:13</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/f0/70/7af070d0-f174-39c9-6b7e-a44d11d48284/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">时色</td>
   <td align="center"><a href="https://testflight.apple.com/join/xFwqvWqx">xFwqvWqx</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:14</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6590,7 +6590,7 @@
   <td align="center">无聊Chat</td>
   <td align="center"><a href="https://testflight.apple.com/join/fPeg8xFZ">fPeg8xFZ</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:20</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/11/93/38119325-9eea-5521-ec63-f6e9345be5e1/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -6603,8 +6603,8 @@
   <td align="center"></td>
   <td align="center">无悔华夏</td>
   <td align="center"><a href="https://testflight.apple.com/join/rb7hayws">rb7hayws</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:31</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6618,21 +6618,21 @@
   <td align="center">无尽消除</td>
   <td align="center"><a href="https://testflight.apple.com/join/TwxJOA28">TwxJOA28</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:19</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">无尽梦回</td>
   <td align="center"><a href="https://testflight.apple.com/join/pl6ViUAg">pl6ViUAg</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:42</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:56:22</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">无名骑士团</td>
   <td align="center"><a href="https://testflight.apple.com/join/znMBWvnC">znMBWvnC</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:43:32</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6652,8 +6652,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/85/a7/7785a77e-0e3f-1bf1-b071-91de9a5e17f1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">方程豹汽车</td>
   <td align="center"><a href="https://testflight.apple.com/join/Cz7hoFpu">Cz7hoFpu</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:32:56</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/8b/8f/038b8f88-599a-8279-181a-501607bda613/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -6666,22 +6666,22 @@
   <td align="center"></td>
   <td align="center">方格单词²</td>
   <td align="center"><a href="https://testflight.apple.com/join/GNLAGys8">GNLAGys8</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:42:43</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/f9/4f/2cf94f63-c2fa-9e5f-668d-2934266b209a/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">方太幸福家</td>
   <td align="center"><a href="https://testflight.apple.com/join/Kh2Dft7l">Kh2Dft7l</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:32:57</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/9d/23/e49d2344-1737-1b41-014b-810c567b1d76/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">新零售掌柜</td>
   <td align="center"><a href="https://testflight.apple.com/join/kTBQHFaT">kTBQHFaT</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:33:22</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6701,8 +6701,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/a0/12/66a012c3-0770-7128-c268-5cf9d88fea6f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">新维日语</td>
   <td align="center"><a href="https://testflight.apple.com/join/fnxMnDtS">fnxMnDtS</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:22</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/13/e7/7913e79e-25de-2f20-d3d6-a6bc0f2f10e1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -6737,7 +6737,7 @@
   <td align="center">新湖宝</td>
   <td align="center"><a href="https://testflight.apple.com/join/dbR27Yup">dbR27Yup</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:23</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6751,21 +6751,21 @@
   <td align="center">新吉致管家</td>
   <td align="center"><a href="https://testflight.apple.com/join/rc5Lq7k7">rc5Lq7k7</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">2026-05-11 23:33:22</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">新博助手家长版</td>
   <td align="center"><a href="https://testflight.apple.com/join/z4jTjp6n">z4jTjp6n</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:26:02</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:55</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/99/36/579936e0-19f9-dc21-1506-fed5b9fcb648/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">新北愛 BOOK</td>
   <td align="center"><a href="https://testflight.apple.com/join/1qxELbl0">1qxELbl0</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:21</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6799,15 +6799,15 @@
   <td align="center"></td>
   <td align="center">新betrendアプリ</td>
   <td align="center"><a href="https://testflight.apple.com/join/xbrdjzpy">xbrdjzpy</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:12:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-12 00:01:15</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/14/2c/4c142ca0-662a-25f7-359d-3519f19359db/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">斯瑞</td>
   <td align="center"><a href="https://testflight.apple.com/join/krokL7bg">krokL7bg</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">2026-05-11 23:33:15</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6835,14 +6835,14 @@
   <td align="center">文山智能工厂</td>
   <td align="center"><a href="https://testflight.apple.com/join/Y8Z45YCo">Y8Z45YCo</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:18</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/0c/8c/f60c8cfc-f5b1-e85c-b95e-de407de2505c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">數位憑證皮夾</td>
   <td align="center"><a href="https://testflight.apple.com/join/gxr3mQFj">gxr3mQFj</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:15</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/f4/29/15f429af-904c-a741-8c46-b9e51491ba0b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -6855,22 +6855,22 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/83/bb/9683bbb7-4bb9-9f5a-c939-e583909ec911/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">数智青发</td>
   <td align="center"><a href="https://testflight.apple.com/join/9FOywxrc">9FOywxrc</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:09</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:15</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/fc/10/23fc1040-28b4-de29-0002-005fcdc2dbe0/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">数智和州</td>
   <td align="center"><a href="https://testflight.apple.com/join/P1uL7gJ2">P1uL7gJ2</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:09</td>
+  <td align="center">2026-05-11 23:33:15</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/81/bb/0081bb6d-4a4f-12f1-a93c-26cec7f86eca/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">数据彩虹桥</td>
   <td align="center"><a href="https://testflight.apple.com/join/U5yUCFD6">U5yUCFD6</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">2026-05-11 23:33:15</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/45/02/3c45024b-36db-f511-2ae2-835ff6b27de7/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -6890,29 +6890,29 @@
   <td align="center"></td>
   <td align="center">数字潮汐</td>
   <td align="center"><a href="https://testflight.apple.com/join/Jt6yI3Yr">Jt6yI3Yr</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:18:36</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:12</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/2a/67/542a6733-c0e6-6fa7-da7f-ddffca0a17a7/ZhaoPinHui_AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">数字昭通APP</td>
   <td align="center"><a href="https://testflight.apple.com/join/yYfkqM0y">yYfkqM0y</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:15</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">数字化</td>
   <td align="center"><a href="https://testflight.apple.com/join/K0hwBCKt">K0hwBCKt</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:49</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:46</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">收藏家 - 你的赛博博物馆</td>
   <td align="center"><a href="https://testflight.apple.com/join/TkWqyhMJ">TkWqyhMJ</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:13:49</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:55:41</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6933,7 +6933,7 @@
   <td align="center">搭伙保险</td>
   <td align="center"><a href="https://testflight.apple.com/join/VcFcuBfT">VcFcuBfT</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:12</td>
+  <td align="center">2026-05-11 23:32:53</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/1d/de/551dde6e-5af1-2c8f-5652-d3a8d250ff59/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -6945,16 +6945,16 @@
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/ff/be/a0ffbe1b-8b12-b920-6f60-06c351490ff5/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">搜狗输入法-Emoji Art&Funny Sticker</td>
-  <td align="center"><a href="https://testflight.apple.com/join/FV2s35tB">FV2s35tB</a></td>
-  <td align="center">F</td>
-  <td align="center">2026-05-11 23:01:49</td>
+  <td align="center"><a href="https://testflight.apple.com/join/lSZdpEPH">lSZdpEPH</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:33:16</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/ff/be/a0ffbe1b-8b12-b920-6f60-06c351490ff5/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">搜狗输入法-Emoji Art&Funny Sticker</td>
-  <td align="center"><a href="https://testflight.apple.com/join/lSZdpEPH">lSZdpEPH</a></td>
+  <td align="center"><a href="https://testflight.apple.com/join/FV2s35tB">FV2s35tB</a></td>
   <td align="center">F</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:01:49</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6974,8 +6974,8 @@
   <td align="center"></td>
   <td align="center">推しカ</td>
   <td align="center"><a href="https://testflight.apple.com/join/PgWgkat7">PgWgkat7</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:46:45</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -7003,7 +7003,7 @@
   <td align="center">掌上四海通</td>
   <td align="center"><a href="https://testflight.apple.com/join/U2NnOOFW">U2NnOOFW</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:33:30</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -7016,8 +7016,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/d2/43/e5d24357-59a7-f636-945a-bcc2a1c7b12e/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">掌上UBMP</td>
   <td align="center"><a href="https://testflight.apple.com/join/RcOlg4Gx">RcOlg4Gx</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:30</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -7031,7 +7031,7 @@
   <td align="center">捷利交易宝-港美股行情证券交易软件</td>
   <td align="center"><a href="https://testflight.apple.com/join/e5QF9iyC">e5QF9iyC</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:33:03</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -7051,8 +7051,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/20/08/cc20080d-f94d-d3f6-3710-943a22b5900c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">指间山海</td>
   <td align="center"><a href="https://testflight.apple.com/join/VXBjypE6">VXBjypE6</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:33:31</td>
 </tr>
 <tr>
   <td align="center"></td>

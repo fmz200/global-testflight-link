@@ -48,25 +48,116 @@
 </thead>
 <tbody>
 <tr>
+  <td align="center"></td>
+  <td align="center">Tour Us Travel</td>
+  <td align="center"><a href="https://testflight.apple.com/join/638bd1Gg">638bd1Gg</a></td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:06:36</td>
+</tr>
+<tr>
+  <td align="center"></td>
+  <td align="center">Tour Trader</td>
+  <td align="center"><a href="https://testflight.apple.com/join/1Cio8M64">1Cio8M64</a></td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:08:14</td>
+</tr>
+<tr>
+  <td align="center"></td>
+  <td align="center">Touhou Mix: A Touhou Game</td>
+  <td align="center"><a href="https://testflight.apple.com/join/fM6ung3w">fM6ung3w</a></td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:09:03</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/bc/b3/c1bcb344-6f39-17ff-b8d5-62f185c65b31/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">Touchpix · Photo & Video Booth</td>
+  <td align="center"><a href="https://testflight.apple.com/join/YxlRld1T">YxlRld1T</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:10:22</td>
+</tr>
+<tr>
+  <td align="center"></td>
+  <td align="center">TouchTunes: Music in pubs</td>
+  <td align="center"><a href="https://testflight.apple.com/join/qHiVzRk3">qHiVzRk3</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:14:32</td>
+</tr>
+<tr>
+  <td align="center"></td>
+  <td align="center">TouchGUI</td>
+  <td align="center"><a href="https://testflight.apple.com/join/G0JVs4IQ">G0JVs4IQ</a></td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:21:21</td>
+</tr>
+<tr>
+  <td align="center"></td>
+  <td align="center">TouchDirector Mini</td>
+  <td align="center"><a href="https://testflight.apple.com/join/VPnLGtdj">VPnLGtdj</a></td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:31:14</td>
+</tr>
+<tr>
+  <td align="center"></td>
+  <td align="center">TouchDirector</td>
+  <td align="center"><a href="https://testflight.apple.com/join/RcvAqWtS">RcvAqWtS</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:18:38</td>
+</tr>
+<tr>
+  <td align="center"></td>
+  <td align="center">TouchDesk - Desktop Canvas</td>
+  <td align="center"><a href="https://testflight.apple.com/join/WGMkDK3H">WGMkDK3H</a></td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:05:39</td>
+</tr>
+<tr>
+  <td align="center"></td>
+  <td align="center">TouchAndConnect</td>
+  <td align="center"><a href="https://testflight.apple.com/join/yWqJaNFu">yWqJaNFu</a></td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:42:55</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/5f/1f/105f1f00-e4e9-dbd2-fdf2-b4b5e6700eb8/AppIcon-1x_U007epad-0-1-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">Touch-N-Stars</td>
+  <td align="center"><a href="https://testflight.apple.com/join/9vyFVsF1">9vyFVsF1</a></td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:46</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/5c/d7/d85cd7a7-192c-1710-fad1-23dcacd9609e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">Touch&</td>
+  <td align="center"><a href="https://testflight.apple.com/join/g7Edi10N">g7Edi10N</a></td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:47</td>
+</tr>
+<tr>
+  <td align="center"></td>
+  <td align="center">Touch Portal</td>
+  <td align="center"><a href="https://testflight.apple.com/join/i8aEpxE4">i8aEpxE4</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:07:33</td>
+</tr>
+<tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/17/49/cd1749c5-060e-efc8-6a38-4bdd421efa49/AppIcon-1-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Touch Fin RPN</td>
   <td align="center"><a href="https://testflight.apple.com/join/BU8HZwUg">BU8HZwUg</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:39:46</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tote - Save & Find Anything</td>
   <td align="center"><a href="https://testflight.apple.com/join/Zv3ythEd">Zv3ythEd</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:47:01</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Totalüberschussprognose</td>
   <td align="center"><a href="https://testflight.apple.com/join/sQgVj4Fx">sQgVj4Fx</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:47:40</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -79,22 +170,22 @@
   <td align="center"></td>
   <td align="center">Total Gym Home Fitness</td>
   <td align="center"><a href="https://testflight.apple.com/join/OBeRPvG6">OBeRPvG6</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:11</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:55:57</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/fb/6b/37fb6b33-cc67-822f-c102-a8bae3b969c3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Total Connect 2.0</td>
   <td align="center"><a href="https://testflight.apple.com/join/std5T04P">std5T04P</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:08</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:46</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/ac/01/81ac01a6-c8f1-e669-facd-1af41eb3c65e/AppIcon-0-0-85-220-0-0-5-0-2x-sRGB-0-0-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tot</td>
   <td align="center"><a href="https://testflight.apple.com/join/Nj8aKRvl">Nj8aKRvl</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:46</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -107,29 +198,29 @@
   <td align="center"></td>
   <td align="center">Tortija Demo</td>
   <td align="center"><a href="https://testflight.apple.com/join/D6Q61ROW">D6Q61ROW</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:12:13</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-12 00:01:12</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/75/f5/6e75f54c-cdaf-e816-cb07-8d484dd289c5/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Torque Drift</td>
   <td align="center"><a href="https://testflight.apple.com/join/44Y4Radb">44Y4Radb</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:18:41</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:16</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Torqs</td>
   <td align="center"><a href="https://testflight.apple.com/join/WQR7sNqX">WQR7sNqX</a></td>
   <td align="center">N</td>
-  <td align="center">2026-05-11 22:59:35</td>
+  <td align="center">2026-05-11 23:41:22</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Torq Tribe: Gamified Fitness</td>
   <td align="center"><a href="https://testflight.apple.com/join/kJ3k95ew">kJ3k95ew</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:57</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/be/15/6bbe1594-3707-f23c-cfa6-0104000ca043/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -142,8 +233,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/6b/35/366b356d-6ed4-e327-ef41-4bbe199a5b0c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">ToroVPartner</td>
   <td align="center"><a href="https://testflight.apple.com/join/gNej4apu">gNej4apu</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:46</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -156,8 +247,8 @@
   <td align="center"></td>
   <td align="center">Torn Tools</td>
   <td align="center"><a href="https://testflight.apple.com/join/E8SyyVwM">E8SyyVwM</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:15:30</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:56:52</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -184,15 +275,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/47/ca/a747cae1-643a-d684-42a8-06ac5742e546/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Torey</td>
   <td align="center"><a href="https://testflight.apple.com/join/41YZWkCp">41YZWkCp</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:45</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/e8/77/28e8775a-7ad4-3ada-0396-2574c2872cab/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TorGuard V2ray Proxy</td>
   <td align="center"><a href="https://testflight.apple.com/join/a92sVzKq">a92sVzKq</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:15</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:45</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -205,8 +296,8 @@
   <td align="center"></td>
   <td align="center">Topsidian</td>
   <td align="center"><a href="https://testflight.apple.com/join/wzeEGVSD">wzeEGVSD</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:46:17</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/f9/d9/9cf9d9bc-6059-507f-3ff8-02c8504c652b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -226,8 +317,8 @@
   <td align="center"></td>
   <td align="center">Topo − 近くの情報ストリーム</td>
   <td align="center"><a href="https://testflight.apple.com/join/rFWhCws2">rFWhCws2</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:48:06</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/4f/87/cb4f874a-66ab-7c47-06ec-f434ba4319cf/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -261,15 +352,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/aa/2b/75aa2b65-c400-87d2-4ecd-2e1c8a4b1da6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TopVault</td>
   <td align="center"><a href="https://testflight.apple.com/join/a3u2CbKa">a3u2CbKa</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:45</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TopThis!® - Be Untoppable™</td>
   <td align="center"><a href="https://testflight.apple.com/join/I1T6IrbQ">I1T6IrbQ</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:16:04</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:17</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -282,22 +373,22 @@
   <td align="center"></td>
   <td align="center">TopLine: Metrics Dashboard</td>
   <td align="center"><a href="https://testflight.apple.com/join/5nREeWbn">5nREeWbn</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:15</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Top Tracks</td>
   <td align="center"><a href="https://testflight.apple.com/join/XDV4B65x">XDV4B65x</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:13:48</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:55:43</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/ca/74/67ca74ce-9fe2-f29a-e65e-c30234755566/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Top Sticker Maker - WaSticker</td>
   <td align="center"><a href="https://testflight.apple.com/join/VYSzYtOq">VYSzYtOq</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:39:46</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -317,8 +408,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/8f/09/0a8f0949-8c14-35a4-d6d0-73f2ac5723bf/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Top Diner Kitchen</td>
   <td align="center"><a href="https://testflight.apple.com/join/3w7iRslW">3w7iRslW</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:44</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/0c/36/5b0c367a-399a-d6c1-8c80-7beffa1a0bec/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -345,15 +436,15 @@
   <td align="center"></td>
   <td align="center">Toool - Music Production</td>
   <td align="center"><a href="https://testflight.apple.com/join/GsiUnCXb">GsiUnCXb</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:51</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:49</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/53/42/4e53422f-7a8e-d249-f11a-740793bc3b05/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">ToolBox Pal</td>
   <td align="center"><a href="https://testflight.apple.com/join/dBSfNkgP">dBSfNkgP</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:44</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -373,8 +464,8 @@
   <td align="center"></td>
   <td align="center">Toodledo</td>
   <td align="center"><a href="https://testflight.apple.com/join/YV3Mvh12">YV3Mvh12</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:29</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:56:11</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -388,7 +479,7 @@
   <td align="center">Tonspur</td>
   <td align="center"><a href="https://testflight.apple.com/join/E92V6bRM">E92V6bRM</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">2026-05-11 23:39:45</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/37/e3/9637e3b8-4c7d-cb75-df73-b39b3c80cd0b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -401,8 +492,8 @@
   <td align="center"></td>
   <td align="center">Tonkeeper — TON Wallet</td>
   <td align="center"><a href="https://testflight.apple.com/join/xAbgNWXG">xAbgNWXG</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:11:32</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:54:43</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/d1/a9/e6d1a906-9fd2-c8f5-3b3c-169b99d39225/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -416,14 +507,14 @@
   <td align="center">Tongue Light</td>
   <td align="center"><a href="https://testflight.apple.com/join/n8q2YRhZ">n8q2YRhZ</a></td>
   <td align="center">N</td>
-  <td align="center">2026-05-11 22:59:30</td>
+  <td align="center">2026-05-11 23:41:17</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tonebank</td>
   <td align="center"><a href="https://testflight.apple.com/join/CwUrKXgw">CwUrKXgw</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:47:11</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -436,8 +527,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/fe/27/10fe27e0-5f8b-8256-116a-666918580a0e/ToneBarrierAppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">ToneBarrier</td>
   <td align="center"><a href="https://testflight.apple.com/join/LqGKPwdG">LqGKPwdG</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:45</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -450,22 +541,22 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/8c/8d/b48c8d45-4ee7-a403-fd4b-72103093366e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tone Podcast Player & Notes</td>
   <td align="center"><a href="https://testflight.apple.com/join/S1FBNvhC">S1FBNvhC</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:45</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tonarii - 隣にいる時間がわかるSNS</td>
   <td align="center"><a href="https://testflight.apple.com/join/ZnTJ9VXe">ZnTJ9VXe</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:47:12</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/7d/d8/867dd8c8-7845-dad3-2f2a-cd3a3e6502da/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tonari</td>
   <td align="center"><a href="https://testflight.apple.com/join/XdMfvgHM">XdMfvgHM</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:44</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -492,15 +583,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/fc/f9/dafcf9cd-86d5-d176-0051-7d2f24dc65e0/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TomoNow 2</td>
   <td align="center"><a href="https://testflight.apple.com/join/HEqPjPGT">HEqPjPGT</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:44</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tomo Sandbox</td>
   <td align="center"><a href="https://testflight.apple.com/join/B8hdWcvh">B8hdWcvh</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:09</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -521,21 +612,21 @@
   <td align="center">Tomes: Library Search</td>
   <td align="center"><a href="https://testflight.apple.com/join/K9Q3e4j6">K9Q3e4j6</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">2026-05-11 23:39:44</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tome: social reading tracker</td>
   <td align="center"><a href="https://testflight.apple.com/join/Vtge9VJV">Vtge9VJV</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 22:59:39</td>
+  <td align="center">2026-05-11 23:41:25</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/8d/4a/578d4a88-1295-8c79-445b-b79f867899d3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TomasCards</td>
   <td align="center"><a href="https://testflight.apple.com/join/B4yxMGKJ">B4yxMGKJ</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 19:00:34</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:40:48</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -549,28 +640,28 @@
   <td align="center">TomTom: GPS Maps & Traffic</td>
   <td align="center"><a href="https://testflight.apple.com/join/IOxARzyI">IOxARzyI</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/22/51/0e225128-3e3c-51b6-4821-fde3cd19fe8c/AppIconBeta-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
-  <td align="center">TomTom: GPS Maps & Traffic</td>
-  <td align="center"><a href="https://testflight.apple.com/join/fzwNchUs">fzwNchUs</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/ea/55/4dea55a6-95b5-a9f2-844a-e9be3c411f9a/AppIconAlpha-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
-  <td align="center">TomTom: GPS Maps & Traffic</td>
-  <td align="center"><a href="https://testflight.apple.com/join/udcY58FH">udcY58FH</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:39:45</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/22/51/0e225128-3e3c-51b6-4821-fde3cd19fe8c/AppIconBeta-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TomTom: GPS Maps & Traffic</td>
   <td align="center"><a href="https://testflight.apple.com/join/DbDl1UWW">DbDl1UWW</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:13</td>
+  <td align="center">2026-05-11 23:39:45</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/ea/55/4dea55a6-95b5-a9f2-844a-e9be3c411f9a/AppIconAlpha-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">TomTom: GPS Maps & Traffic</td>
+  <td align="center"><a href="https://testflight.apple.com/join/udcY58FH">udcY58FH</a></td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:45</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/22/51/0e225128-3e3c-51b6-4821-fde3cd19fe8c/AppIconBeta-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">TomTom: GPS Maps & Traffic</td>
+  <td align="center"><a href="https://testflight.apple.com/join/fzwNchUs">fzwNchUs</a></td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:43</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -583,8 +674,8 @@
   <td align="center"></td>
   <td align="center">Tokybook Membership New</td>
   <td align="center"><a href="https://testflight.apple.com/join/LQDHdZE5">LQDHdZE5</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:18:35</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:58:12</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -597,8 +688,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/cd/01/a3cd0142-e409-c6b1-af32-e02ba166a99b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tokki: For Language Learners</td>
   <td align="center"><a href="https://testflight.apple.com/join/1R8NhqBc">1R8NhqBc</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:44</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -618,8 +709,8 @@
   <td align="center"></td>
   <td align="center">Tokeru</td>
   <td align="center"><a href="https://testflight.apple.com/join/LaDGDUKa">LaDGDUKa</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:15:46</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:05</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -632,8 +723,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/9c/1e/949c1e39-c3df-abfb-bcdb-50b07eae8539/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TokenX</td>
   <td align="center"><a href="https://testflight.apple.com/join/KSSmtna3">KSSmtna3</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:09</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:43</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -667,8 +758,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/6d/92/de6d9266-09bc-5cf2-75e2-24be703a1861/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Togother 一起看电影</td>
   <td align="center"><a href="https://testflight.apple.com/join/xk6vZNpD">xk6vZNpD</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:39:43</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -682,7 +773,7 @@
   <td align="center">Toggl Track: Hours & Time Log</td>
   <td align="center"><a href="https://testflight.apple.com/join/8od30iFa">8od30iFa</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:39:43</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/1e/57/401e57a6-928e-b57c-c567-1774b01e8581/AppIcon-0-0-85-220-0-4-0-2x.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -695,8 +786,8 @@
   <td align="center"></td>
   <td align="center">Together is Better</td>
   <td align="center"><a href="https://testflight.apple.com/join/CZxeDfZi">CZxeDfZi</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:32</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:56:13</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -709,8 +800,8 @@
   <td align="center"></td>
   <td align="center">Toebeans</td>
   <td align="center"><a href="https://testflight.apple.com/join/RBfKew17">RBfKew17</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:54</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/4d/34/224d345e-96ec-fb5f-1bc2-7e4f0ed51af5/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -737,29 +828,29 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/9c/1f/619c1f1f-cbcb-ad77-20ee-76942c2afe1f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Todo list & Task Manager: Revo</td>
   <td align="center"><a href="https://testflight.apple.com/join/KztPk4wW">KztPk4wW</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:43</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Toddli</td>
   <td align="center"><a href="https://testflight.apple.com/join/apFBytdr">apFBytdr</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:48:21</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Today: Trading Made Social</td>
   <td align="center"><a href="https://testflight.apple.com/join/t1tScCfd">t1tScCfd</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:45:56</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Today: Timebox for human</td>
   <td align="center"><a href="https://testflight.apple.com/join/3HhpECf5">3HhpECf5</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:07:02</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:54:39</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -793,22 +884,22 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/21/67/232167c5-9368-8951-cfcd-2babef2e9182/appicon-orange-vibrant-0-1x_U007ephone-0-0-0-1-0-P3-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Today – Plan. Do. Repeat.</td>
   <td align="center"><a href="https://testflight.apple.com/join/snuJAVgs">snuJAVgs</a></td>
-  <td align="center">F</td>
-  <td align="center">2025-09-01 08:16:20</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/22/d1/3722d180-8c9e-7c6f-6816-c10f112b5acb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
-  <td align="center">Toast Now</td>
-  <td align="center"><a href="https://testflight.apple.com/join/O2iSXotz">O2iSXotz</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:44</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/22/d1/3722d180-8c9e-7c6f-6816-c10f112b5acb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Toast Now</td>
   <td align="center"><a href="https://testflight.apple.com/join/WVAitnD3">WVAitnD3</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:13</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:43</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/22/d1/3722d180-8c9e-7c6f-6816-c10f112b5acb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">Toast Now</td>
+  <td align="center"><a href="https://testflight.apple.com/join/O2iSXotz">O2iSXotz</a></td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:43</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -857,14 +948,14 @@
   <td align="center">To do cards by Frido</td>
   <td align="center"><a href="https://testflight.apple.com/join/bcv7beHS">bcv7beHS</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:19</td>
+  <td align="center">2026-05-11 23:39:43</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/85/10/db8510df-69a2-1fa5-d32a-55fa0b5f6659/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">To Grow</td>
   <td align="center"><a href="https://testflight.apple.com/join/K8spxRjF">K8spxRjF</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:16</td>
+  <td align="center">2026-05-11 23:39:43</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/d9/09/36d90905-d212-6506-577b-f00252e27d96/AppIcon-1x_U007emarketing-0-11-0-0-sRGB-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -892,7 +983,7 @@
   <td align="center">Tmates</td>
   <td align="center"><a href="https://testflight.apple.com/join/4Txh236c">4Txh236c</a></td>
   <td align="center">N</td>
-  <td align="center">2026-05-11 23:00:24</td>
+  <td align="center">2026-05-11 23:42:12</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -905,8 +996,8 @@
   <td align="center"></td>
   <td align="center">Tivity</td>
   <td align="center"><a href="https://testflight.apple.com/join/g3zpug6X">g3zpug6X</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:42:59</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/5a/27/d05a27d8-f4f4-dcfa-dc15-9913d6a9ee8a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -919,15 +1010,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/6f/ae/e36fae85-93e2-9fe6-8516-e345ed2e8fb0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Titus' 2do</td>
   <td align="center"><a href="https://testflight.apple.com/join/XBhyre3W">XBhyre3W</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:43</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Titta</td>
   <td align="center"><a href="https://testflight.apple.com/join/MgQB29yU">MgQB29yU</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:00:41</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -975,8 +1066,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/a0/b2/b3a0b22b-6e93-5e97-317c-9d375248abf5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tippgeber24</td>
   <td align="center"><a href="https://testflight.apple.com/join/4yF4dWDq">4yF4dWDq</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:43</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -996,8 +1087,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/e3/e4/dce3e41e-7241-75ee-7c42-459aebfb3b8b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tipify</td>
   <td align="center"><a href="https://testflight.apple.com/join/WFOUCd1q">WFOUCd1q</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:43</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1039,14 +1130,14 @@
   <td align="center">TinyHoopers</td>
   <td align="center"><a href="https://testflight.apple.com/join/kAGUUAN7">kAGUUAN7</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:39:43</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TinyGarden - Grow Happy Plants</td>
   <td align="center"><a href="https://testflight.apple.com/join/SRBjxXBN">SRBjxXBN</a></td>
   <td align="center">N</td>
-  <td align="center">2026-05-11 23:00:17</td>
+  <td align="center">2026-05-11 23:42:04</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1059,8 +1150,8 @@
   <td align="center"></td>
   <td align="center">Tiny Tanks: Base Defense</td>
   <td align="center"><a href="https://testflight.apple.com/join/wXn5FPFQ">wXn5FPFQ</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:46:12</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1087,29 +1178,29 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/16/87/34168700-fc21-461d-e9bf-3bd30164a32b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tiny Crawler</td>
   <td align="center"><a href="https://testflight.apple.com/join/VFDMn3y3">VFDMn3y3</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:41</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tiny Clips</td>
   <td align="center"><a href="https://testflight.apple.com/join/rDaaX9CD">rDaaX9CD</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:26</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tiny - Fetal Heartbeat</td>
   <td align="center"><a href="https://testflight.apple.com/join/sHZ4FgyN">sHZ4FgyN</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:46</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tinpot Transcripts</td>
   <td align="center"><a href="https://testflight.apple.com/join/vRk7c2YR">vRk7c2YR</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:02</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1129,8 +1220,8 @@
   <td align="center"></td>
   <td align="center">TiniAid</td>
   <td align="center"><a href="https://testflight.apple.com/join/gZnd1yy4">gZnd1yy4</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:45:14</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1144,7 +1235,7 @@
   <td align="center">Tinh Nghia Giang Ho</td>
   <td align="center"><a href="https://testflight.apple.com/join/oXZdC9qv">oXZdC9qv</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:39:42</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1158,7 +1249,7 @@
   <td align="center">Tingle Vibes</td>
   <td align="center"><a href="https://testflight.apple.com/join/SBCh67mk">SBCh67mk</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">2026-05-11 23:39:42</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1171,8 +1262,8 @@
   <td align="center"></td>
   <td align="center">Tinge: AI Photo Color Editor</td>
   <td align="center"><a href="https://testflight.apple.com/join/iJwiO7Z6">iJwiO7Z6</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:30</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:39</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1185,8 +1276,8 @@
   <td align="center"></td>
   <td align="center">Tineo</td>
   <td align="center"><a href="https://testflight.apple.com/join/1Xp65ved">1Xp65ved</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:04</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1206,8 +1297,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/cd/3c/0acd3c15-cb71-eb40-ded1-04d1ef140c8a/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TinT: tillnexttime</td>
   <td align="center"><a href="https://testflight.apple.com/join/MaYsSuFv">MaYsSuFv</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:43</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/9f/73/469f7379-c6f0-5cdf-9874-8a2a74eb146f/AppIcon-0-0-1x_U007epad-0-10-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -1220,15 +1311,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/3b/3d/ac3b3d86-c7cd-8d91-e8d7-1f88aeb00d42/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tim极速版</td>
   <td align="center"><a href="https://testflight.apple.com/join/FWrXQDAa">FWrXQDAa</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:15</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:41</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/da/e8/27dae8a6-bce7-948f-f86e-fec140c9b6b5/AppIcon-0-1x_U007epad-0-1-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Timix – Omni Timer for All</td>
   <td align="center"><a href="https://testflight.apple.com/join/3hZ55dw7">3hZ55dw7</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:41</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1242,7 +1333,7 @@
   <td align="center">Timing: Hack the life</td>
   <td align="center"><a href="https://testflight.apple.com/join/cH4J7p5E">cH4J7p5E</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 22:59:45</td>
+  <td align="center">2026-05-11 23:41:32</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/bd/94/89bd947b-8f6f-9783-aef1-3e44739f5431/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -1262,15 +1353,15 @@
   <td align="center"></td>
   <td align="center">Timesys</td>
   <td align="center"><a href="https://testflight.apple.com/join/CejsB3Yd">CejsB3Yd</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:49</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:45</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/b8/3f/d8b83f0d-61c5-3c97-05ac-5dde366516e9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Timeshot: Screenshot Events</td>
   <td align="center"><a href="https://testflight.apple.com/join/5BPg7dJf">5BPg7dJf</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:42</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/a4/d6/07a4d60c-b740-0721-6800-ea19c17f856d/AppIcon-0-1x_U007epad-0-0-0-1-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -1283,8 +1374,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/74/e0/ca74e0b8-27ee-2381-9df8-8459031bcb58/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Times of My Life</td>
   <td align="center"><a href="https://testflight.apple.com/join/QUPseuc3">QUPseuc3</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:41</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1297,8 +1388,8 @@
   <td align="center"></td>
   <td align="center">Timer Fantasy</td>
   <td align="center"><a href="https://testflight.apple.com/join/mqQrQFHC">mqQrQFHC</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:45:57</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1311,36 +1402,36 @@
   <td align="center"></td>
   <td align="center">Timely - Countdown Alarms</td>
   <td align="center"><a href="https://testflight.apple.com/join/CYV2z5kZ">CYV2z5kZ</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:55</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Timely - Clock Widget</td>
   <td align="center"><a href="https://testflight.apple.com/join/4wMbGyM0">4wMbGyM0</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:18:15</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:59</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/01/fa/ec01fab9-ae77-2837-5d1c-2f601543703b/AppIcon-18-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Timelines Time Tracking</td>
   <td align="center"><a href="https://testflight.apple.com/join/zxFgcULE">zxFgcULE</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">F</td>
+  <td align="center">2026-05-11 23:39:41</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Timeki: Geofence Time Tracker</td>
   <td align="center"><a href="https://testflight.apple.com/join/MMWwsgTw">MMWwsgTw</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:43:21</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Timekeepur: TECH LIT DAILY</td>
   <td align="center"><a href="https://testflight.apple.com/join/aqUsb6DS">aqUsb6DS</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:33</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1353,36 +1444,36 @@
   <td align="center"></td>
   <td align="center">Timed Mile Master</td>
   <td align="center"><a href="https://testflight.apple.com/join/PzyNyHHW">PzyNyHHW</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:00:24</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/75/b1/3675b147-7992-fbf9-b16b-525bd4e9f10d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Timecard - Employees Version</td>
   <td align="center"><a href="https://testflight.apple.com/join/YR4TTZaS">YR4TTZaS</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:39:41</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Timeboxd - Watch Collection</td>
   <td align="center"><a href="https://testflight.apple.com/join/ZJTHDGmE">ZJTHDGmE</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:48</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/34/9a/72349a64-c457-bd1d-7676-950f1aaaa117/TimeWaveIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TimeWave - Timer Chains</td>
   <td align="center"><a href="https://testflight.apple.com/join/FadGspC6">FadGspC6</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 19:00:33</td>
+  <td align="center">2026-05-11 23:40:47</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TimeVise</td>
   <td align="center"><a href="https://testflight.apple.com/join/aXMntKTh">aXMntKTh</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:06</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:29</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1395,15 +1486,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/f6/87/27f6870f-c914-68ba-d8f2-bdb5ab3c4894/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TimeThief in Moon</td>
   <td align="center"><a href="https://testflight.apple.com/join/Qy4pXMCA">Qy4pXMCA</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:42</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/52/2f/cd522fa8-e93f-4798-a407-ceb7fb148e7a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TimeTailor AI</td>
   <td align="center"><a href="https://testflight.apple.com/join/VR6TfWbe">VR6TfWbe</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:42</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/ea/81/d6ea8144-e1f1-642c-e94e-59280e45f3fa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -1437,22 +1528,22 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/01/bf/3701bff3-ef2f-642b-e0ea-becaaede0490/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TimeCapsule Memories</td>
   <td align="center"><a href="https://testflight.apple.com/join/cSPaj9Rf">cSPaj9Rf</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:41</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/76/4e/01764eab-9bd5-323a-1520-025285f15465/AppIcon-0-0-85-220-0-0-5-0-2x.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TimeBill – Invoices & Time</td>
   <td align="center"><a href="https://testflight.apple.com/join/mBecXxph">mBecXxph</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:41</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Time4bets</td>
   <td align="center"><a href="https://testflight.apple.com/join/5YszawHF">5YszawHF</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:46:50</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1466,14 +1557,14 @@
   <td align="center">Time for Coffee!</td>
   <td align="center"><a href="https://testflight.apple.com/join/ACkjB1Xh">ACkjB1Xh</a></td>
   <td align="center">N</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:32:37</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Time Out - Break Reminders</td>
   <td align="center"><a href="https://testflight.apple.com/join/qdgseWJX">qdgseWJX</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:00:22</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1494,35 +1585,35 @@
   <td align="center">Time Feel</td>
   <td align="center"><a href="https://testflight.apple.com/join/xmmCAaS6">xmmCAaS6</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 23:00:35</td>
+  <td align="center">2026-05-11 23:42:24</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/ce/6f/7bce6f24-6a56-c07e-02dd-420aeeb5a1b7/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Time Blocking Planner: Align</td>
   <td align="center"><a href="https://testflight.apple.com/join/xptsHBhV">xptsHBhV</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:41</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Time Blind</td>
   <td align="center"><a href="https://testflight.apple.com/join/TXMVpCcB">TXMVpCcB</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:42:49</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Time 2 Craft</td>
   <td align="center"><a href="https://testflight.apple.com/join/HCZjkSFh">HCZjkSFh</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:51:07</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Timbre: AI Audio/Video Editor</td>
   <td align="center"><a href="https://testflight.apple.com/join/b6bTcYXH">b6bTcYXH</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">F</td>
+  <td align="center">2026-05-12 00:00:37</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1535,22 +1626,22 @@
   <td align="center"></td>
   <td align="center">Timai - Zeiterfassung</td>
   <td align="center"><a href="https://testflight.apple.com/join/8mJ5BYAq">8mJ5BYAq</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:40</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/ab/8c/e0ab8c98-9142-8365-c890-382061e530c6/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tima Internal</td>
   <td align="center"><a href="https://testflight.apple.com/join/d9d9ZCcg">d9d9ZCcg</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:39:42</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tim's Wine App</td>
   <td align="center"><a href="https://testflight.apple.com/join/Y71vvUj6">Y71vvUj6</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:45:29</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1563,36 +1654,36 @@
   <td align="center"></td>
   <td align="center">TiltSync</td>
   <td align="center"><a href="https://testflight.apple.com/join/SdQQEtrg">SdQQEtrg</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:45:36</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tilt Pay</td>
   <td align="center"><a href="https://testflight.apple.com/join/qfcdjXdh">qfcdjXdh</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:47:04</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TilliT.cc</td>
   <td align="center"><a href="https://testflight.apple.com/join/9QFM35GD">9QFM35GD</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:23</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tiles: Unlock your world</td>
   <td align="center"><a href="https://testflight.apple.com/join/qmCJFYrt">qmCJFYrt</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:42:42</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tiles: Unlock your world</td>
   <td align="center"><a href="https://testflight.apple.com/join/5RDNwMtm">5RDNwMtm</a></td>
   <td align="center">D</td>
-  <td align="center">2026-05-11 23:00:22</td>
+  <td align="center">2026-05-11 23:42:09</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1619,15 +1710,15 @@
   <td align="center"></td>
   <td align="center">Tile Wipeout</td>
   <td align="center"><a href="https://testflight.apple.com/join/3sstMjRK">3sstMjRK</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:51</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tile & Error: Words and Chaos</td>
   <td align="center"><a href="https://testflight.apple.com/join/KEMzK5NA">KEMzK5NA</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:48:42</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/2c/b2/9d2cb2fb-2364-e604-7145-ae76e8a8e70b/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -1672,32 +1763,32 @@
   <td align="center">2026-05-11 23:00:47</td>
 </tr>
 <tr>
-  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/7f/0c/f87f0c58-8705-53c2-a012-fccef7470a6a/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
-  <td align="center">TikTok - Videos, Shop & LIVE</td>
-  <td align="center"><a href="https://testflight.apple.com/join/Gty5bPSD">Gty5bPSD</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:17</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center">TikTok - Videos, Shop & LIVE</td>
-  <td align="center"><a href="https://testflight.apple.com/join/RH2HErDR">RH2HErDR</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:17</td>
-</tr>
-<tr>
   <td align="center"></td>
   <td align="center">TikTok - Videos, Shop & LIVE</td>
   <td align="center"><a href="https://testflight.apple.com/join/xp4NSQ8G">xp4NSQ8G</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">F</td>
+  <td align="center">2026-05-11 23:51:22</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TikTok - Videos, Shop & LIVE</td>
   <td align="center"><a href="https://testflight.apple.com/join/xKNZpkQW">xKNZpkQW</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">F</td>
+  <td align="center">2026-05-11 23:43:58</td>
+</tr>
+<tr>
+  <td align="center"></td>
+  <td align="center">TikTok - Videos, Shop & LIVE</td>
+  <td align="center"><a href="https://testflight.apple.com/join/RH2HErDR">RH2HErDR</a></td>
+  <td align="center">F</td>
+  <td align="center">2026-05-11 23:43:08</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/7f/0c/f87f0c58-8705-53c2-a012-fccef7470a6a/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">TikTok - Videos, Shop & LIVE</td>
+  <td align="center"><a href="https://testflight.apple.com/join/Gty5bPSD">Gty5bPSD</a></td>
+  <td align="center">F</td>
+  <td align="center">2026-05-11 23:39:41</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/3b/ff/cc3bffe5-2793-4c22-0020-acad97a94fa9/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -1717,15 +1808,15 @@
   <td align="center"></td>
   <td align="center">TikTakTaxi</td>
   <td align="center"><a href="https://testflight.apple.com/join/uagNgdHU">uagNgdHU</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:12:04</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-12 00:01:11</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/0a/3b/b90a3bf9-3546-8a55-1e19-6bfb8520393f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TikShot - Short Video App</td>
   <td align="center"><a href="https://testflight.apple.com/join/G0xH20Aq">G0xH20Aq</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:39:40</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1738,8 +1829,8 @@
   <td align="center"></td>
   <td align="center">TiiHub</td>
   <td align="center"><a href="https://testflight.apple.com/join/3p6fP6NN">3p6fP6NN</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:44</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1760,28 +1851,28 @@
   <td align="center">TigerTag RFID Connect</td>
   <td align="center"><a href="https://testflight.apple.com/join/jVHhmK4C">jVHhmK4C</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">2026-05-11 23:39:41</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TigerDine for RIT Students</td>
   <td align="center"><a href="https://testflight.apple.com/join/wedER4BT">wedER4BT</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:48:18</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/bd/d7/55bdd79f-7518-ee68-6882-1e810d5f316f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TigerControl</td>
   <td align="center"><a href="https://testflight.apple.com/join/zYPY7qVz">zYPY7qVz</a></td>
-  <td align="center">N</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:39:40</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/4e/80/aa4e802b-49a0-30a8-8e08-f6d7d76e9914/AppIcon-1x_U007ephone-0-1-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tiger Trade: Invest Globally</td>
   <td align="center"><a href="https://testflight.apple.com/join/uFeIGcx0">uFeIGcx0</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:39:40</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1794,22 +1885,22 @@
   <td align="center"></td>
   <td align="center">Tiera</td>
   <td align="center"><a href="https://testflight.apple.com/join/gmzNGcUb">gmzNGcUb</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:45:32</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TidySpace</td>
   <td align="center"><a href="https://testflight.apple.com/join/LTRXOgPX">LTRXOgPX</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:15:36</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:56:58</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tidy Steward</td>
   <td align="center"><a href="https://testflight.apple.com/join/WD4cPhyY">WD4cPhyY</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:59:24</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1822,15 +1913,15 @@
   <td align="center"></td>
   <td align="center">Tidescribe</td>
   <td align="center"><a href="https://testflight.apple.com/join/K2dCRxwC">K2dCRxwC</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:47</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/ee/81/b7ee8130-38cd-acf6-5da2-d0782c229aee/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tides Journal</td>
   <td align="center"><a href="https://testflight.apple.com/join/FAjdCMsa">FAjdCMsa</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:19</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:40</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1843,36 +1934,36 @@
   <td align="center"></td>
   <td align="center">Tidbit Guide</td>
   <td align="center"><a href="https://testflight.apple.com/join/AArsFUcN">AArsFUcN</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:12:46</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:55:22</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/b7/f4/f2b7f4a7-17f4-c58d-99c7-2e333fd9bdff/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tidalzam</td>
   <td align="center"><a href="https://testflight.apple.com/join/xGMef5Xf">xGMef5Xf</a></td>
   <td align="center">F</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">2026-05-11 23:39:40</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/2b/c0/4d2bc04c-371d-58c9-0a6a-40f01e0a25c8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tickshot - Moments in photos</td>
   <td align="center"><a href="https://testflight.apple.com/join/AytC7qWa">AytC7qWa</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:40</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tickjoy</td>
   <td align="center"><a href="https://testflight.apple.com/join/Ds7AVHvK">Ds7AVHvK</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:11:46</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:54:51</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/4b/25/5f4b25f5-2f75-3c0f-d368-5e3e15efa14a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Ticking</td>
   <td align="center"><a href="https://testflight.apple.com/join/l1e6wUP4">l1e6wUP4</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:40</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1885,8 +1976,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/bf/53/b4bf532f-95d4-351c-7981-8468fee9e165/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TicketBook: Ticket2Ride score</td>
   <td align="center"><a href="https://testflight.apple.com/join/ZB6QPNyk">ZB6QPNyk</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:40</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1927,8 +2018,8 @@
   <td align="center"></td>
   <td align="center">Tickemo - チケット管理 & 推し活ライブ記録</td>
   <td align="center"><a href="https://testflight.apple.com/join/7stWmpEk">7stWmpEk</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:59:18</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1976,8 +2067,8 @@
   <td align="center"></td>
   <td align="center">Ticci Tabs</td>
   <td align="center"><a href="https://testflight.apple.com/join/E8ZVI98w">E8ZVI98w</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:41</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:56:20</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -1990,8 +2081,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/d1/e2/dbd1e2ed-8d68-17a0-9f71-b713885b0195/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TiTum</td>
   <td align="center"><a href="https://testflight.apple.com/join/N6qigwAa">N6qigwAa</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:43</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2011,8 +2102,8 @@
   <td align="center"></td>
   <td align="center">Thập Đại PK</td>
   <td align="center"><a href="https://testflight.apple.com/join/ddG8C5cv">ddG8C5cv</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:58</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/88/5e/5e885ea2-17d2-3adb-0787-6a065cc5bc94/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -2039,8 +2130,8 @@
   <td align="center"></td>
   <td align="center">Thần Tướng Origin</td>
   <td align="center"><a href="https://testflight.apple.com/join/qUr3Z6By">qUr3Z6By</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:51</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2053,29 +2144,29 @@
   <td align="center"></td>
   <td align="center">Thăm gặp</td>
   <td align="center"><a href="https://testflight.apple.com/join/xsQdEPPx">xsQdEPPx</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:43:27</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Thymio Suite Mobile</td>
   <td align="center"><a href="https://testflight.apple.com/join/4e9IecNC">4e9IecNC</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:18:36</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:13</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Thwip: Soundboard</td>
   <td align="center"><a href="https://testflight.apple.com/join/v7gLf7VC">v7gLf7VC</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:51</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:48</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/3b/e7/333be7bf-67fd-108f-bbc2-7eee62674300/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Thursday: Thrift & Curate</td>
   <td align="center"><a href="https://testflight.apple.com/join/NeUMuD4w">NeUMuD4w</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:17</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:39</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2095,29 +2186,29 @@
   <td align="center"></td>
   <td align="center">Thunderbird: Free Your Inbox</td>
   <td align="center"><a href="https://testflight.apple.com/join/ER3hRBSz">ER3hRBSz</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:43:36</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/97/fe/4d97fed4-cd4c-86b2-18f4-9008443c8ea9/AppIcon-production-0-0-1x_U007emarketing-0-11-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Thunder for Lemmy</td>
   <td align="center"><a href="https://testflight.apple.com/join/9n8xrqvH">9n8xrqvH</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:16:11</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:57:21</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/ff/c5/4bffc523-ae3d-06e1-20db-67673de33f85/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Thumbwarrior: 1-Thumb Card RPG</td>
   <td align="center"><a href="https://testflight.apple.com/join/FbYgXr5M">FbYgXr5M</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:40</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Thumbly - Instant Honesty</td>
   <td align="center"><a href="https://testflight.apple.com/join/ptBbr6FU">ptBbr6FU</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:43:09</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2138,21 +2229,21 @@
   <td align="center">Thru: Virtually Hike the PCT</td>
   <td align="center"><a href="https://testflight.apple.com/join/4qjpx99M">4qjpx99M</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 22:59:31</td>
+  <td align="center">2026-05-11 23:41:19</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Throned</td>
   <td align="center"><a href="https://testflight.apple.com/join/Bm5peMfQ">Bm5peMfQ</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:42:43</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Throne Science</td>
   <td align="center"><a href="https://testflight.apple.com/join/wPoHXnj3">wPoHXnj3</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:42:39</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/4c/df/034cdfbf-b138-debd-895c-c0fe0b0aa5d0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -2192,44 +2283,44 @@
 <tr>
   <td align="center"></td>
   <td align="center">Thrift & Hiss</td>
-  <td align="center"><a href="https://testflight.apple.com/join/2966FzWS">2966FzWS</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center"><a href="https://testflight.apple.com/join/kKX4PPTU">kKX4PPTU</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:45:19</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Thrift & Hiss</td>
-  <td align="center"><a href="https://testflight.apple.com/join/kKX4PPTU">kKX4PPTU</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center"><a href="https://testflight.apple.com/join/2966FzWS">2966FzWS</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:43:26</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Thribble</td>
   <td align="center"><a href="https://testflight.apple.com/join/scdteEh7">scdteEh7</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:45:36</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/c9/06/9ac906b2-d374-6e05-3b00-91ad107e27f6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Threshold Care App</td>
   <td align="center"><a href="https://testflight.apple.com/join/8P9Kt2NW">8P9Kt2NW</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:39:39</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Threshold</td>
   <td align="center"><a href="https://testflight.apple.com/join/rCKVsZMN">rCKVsZMN</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:51:13</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Thremark</td>
   <td align="center"><a href="https://testflight.apple.com/join/JKTCcvRZ">JKTCcvRZ</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:48:58</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/77/55/117755af-2f17-5d20-19c6-a479007ca701/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -2243,14 +2334,14 @@
   <td align="center">Threema Work. For Companies</td>
   <td align="center"><a href="https://testflight.apple.com/join/0c69vzrf">0c69vzrf</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:39:40</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">ThreeDeePrinceGAME</td>
   <td align="center"><a href="https://testflight.apple.com/join/jasZdF5j">jasZdF5j</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:44:53</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/48/71/5e4871e1-484e-0987-2b12-d0c2ee41dc06/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -2264,7 +2355,7 @@
   <td align="center">ThreatLocker Admin</td>
   <td align="center"><a href="https://testflight.apple.com/join/aLB99qXx">aLB99qXx</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:39:40</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2291,8 +2382,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/be/ce/63bece32-45df-157f-808d-06c07603f48b/AppIcon-0-0-85-220-0-5-0-2x-P3.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">ThreadChat</td>
   <td align="center"><a href="https://testflight.apple.com/join/77xtZNBd">77xtZNBd</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:39:40</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2305,43 +2396,43 @@
   <td align="center"></td>
   <td align="center">Thread Forge</td>
   <td align="center"><a href="https://testflight.apple.com/join/kuU7XQqp">kuU7XQqp</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:42:52</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/46/d6/7b46d66c-3edc-4096-3edc-bb7aa5f38969/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Thoughts Cove</td>
   <td align="center"><a href="https://testflight.apple.com/join/9EzgZQbW">9EzgZQbW</a></td>
-  <td align="center">N</td>
-  <td align="center">2025-09-01 08:16:09</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:39:39</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Thoughtful AI</td>
   <td align="center"><a href="https://testflight.apple.com/join/9XqW9KE8">9XqW9KE8</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:36</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/d5/77/29d57751-5511-57f9-348b-533d3b570fba/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Thoughtful - Journal & Reflect</td>
   <td align="center"><a href="https://testflight.apple.com/join/XzfJBSBt">XzfJBSBt</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:40</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">ThoughtMirrorApp</td>
   <td align="center"><a href="https://testflight.apple.com/join/V1pyTdD8">V1pyTdD8</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:35</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">ThoughtBites</td>
   <td align="center"><a href="https://testflight.apple.com/join/TDYu6xbH">TDYu6xbH</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:45:51</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2355,14 +2446,14 @@
   <td align="center">Thortspace</td>
   <td align="center"><a href="https://testflight.apple.com/join/bxJg7Cz3">bxJg7Cz3</a></td>
   <td align="center">N</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">2026-05-11 23:32:04</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Thorium Reader</td>
   <td align="center"><a href="https://testflight.apple.com/join/2NhKXjSU">2NhKXjSU</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:46:54</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2382,78 +2473,78 @@
   <td align="center"></td>
   <td align="center">Thiên Đỉnh Kiếm</td>
   <td align="center"><a href="https://testflight.apple.com/join/vRpBSKvx">vRpBSKvx</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:42:50</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">This Just In News</td>
   <td align="center"><a href="https://testflight.apple.com/join/1TuCtw3N">1TuCtw3N</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:43:11</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Thirty One Paris</td>
   <td align="center"><a href="https://testflight.apple.com/join/n0pAEydN">n0pAEydN</a></td>
   <td align="center">N</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">2026-05-11 23:32:11</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">ThirstTrapp: Screen Time Block</td>
   <td align="center"><a href="https://testflight.apple.com/join/makUF8wH">makUF8wH</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:46:32</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/e0/96/02e096b7-dc06-b7a0-f074-a7bd04d440cc/AppIcon-production-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Third Try</td>
   <td align="center"><a href="https://testflight.apple.com/join/xJsgjuHB">xJsgjuHB</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:39</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/c8/22/21c822a9-5069-ac23-7c2e-2f24b5145de7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Thinkpool</td>
   <td align="center"><a href="https://testflight.apple.com/join/UdHM1zUh">UdHM1zUh</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 19:00:46</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:41:02</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">ThinkScribe: Voice Keyboard AI</td>
   <td align="center"><a href="https://testflight.apple.com/join/YfvJJR68">YfvJJR68</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:48:58</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">ThinkAlike - Word Association</td>
   <td align="center"><a href="https://testflight.apple.com/join/YAcT9c9R">YAcT9c9R</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:27</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Think&Do (really)</td>
   <td align="center"><a href="https://testflight.apple.com/join/2WfaxjJN">2WfaxjJN</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">F</td>
+  <td align="center">2026-05-11 23:46:56</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Think Tank: Word Game</td>
   <td align="center"><a href="https://testflight.apple.com/join/8qD6WUDr">8qD6WUDr</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:00:17</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Think Out - AI Brainstorming</td>
   <td align="center"><a href="https://testflight.apple.com/join/Gpzv4Q6y">Gpzv4Q6y</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:48:46</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2466,29 +2557,29 @@
   <td align="center"></td>
   <td align="center">Things</td>
   <td align="center"><a href="https://testflight.apple.com/join/zgMxxtXt">zgMxxtXt</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:00:02</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Thinglo</td>
   <td align="center"><a href="https://testflight.apple.com/join/A3F75SSg">A3F75SSg</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:46:28</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Thing Lender</td>
   <td align="center"><a href="https://testflight.apple.com/join/vg8F6Avv">vg8F6Avv</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:16:15</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:22</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Thing Finder</td>
   <td align="center"><a href="https://testflight.apple.com/join/7C53TNMS">7C53TNMS</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:43:53</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2501,36 +2592,36 @@
   <td align="center"></td>
   <td align="center">Thermal connection</td>
   <td align="center"><a href="https://testflight.apple.com/join/PrDtXsuf">PrDtXsuf</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:24:55</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:22</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/08/32/f50832b9-e95a-c6c8-e965-512b16979f45/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">ThermaFY Eco</td>
   <td align="center"><a href="https://testflight.apple.com/join/WxmxuaOo">WxmxuaOo</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:05</td>
+  <td align="center">2026-05-11 23:39:38</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/20/2f/34202f71-a6eb-5bf7-5dae-f40bedecb86e/there.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">There Alpha</td>
   <td align="center"><a href="https://testflight.apple.com/join/sVKtMtCG">sVKtMtCG</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:12:21</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:55:08</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/b8/65/44b86557-068e-2817-9e7c-d1d82605b69d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Therapy Ally</td>
   <td align="center"><a href="https://testflight.apple.com/join/PqVA6NS5">PqVA6NS5</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:38</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/75/32/ff753254-99fd-e783-6ac6-291b7ac11829/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TheraTask</td>
   <td align="center"><a href="https://testflight.apple.com/join/zAEExann">zAEExann</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:39</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/61/25/066125ed-3efd-25b4-b081-9335dd63e962/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -2543,22 +2634,22 @@
   <td align="center"></td>
   <td align="center">TheoryAI</td>
   <td align="center"><a href="https://testflight.apple.com/join/hwzt6DCa">hwzt6DCa</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:12:09</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:55:03</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Theoria</td>
   <td align="center"><a href="https://testflight.apple.com/join/qKKyYfhy">qKKyYfhy</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:11</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/ae/6d/4cae6d10-6cc9-ea5e-ffe9-f576499f0fca/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Theonimo</td>
   <td align="center"><a href="https://testflight.apple.com/join/6bgCEAKP">6bgCEAKP</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:19</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:38</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2585,8 +2676,8 @@
   <td align="center"></td>
   <td align="center">Themby</td>
   <td align="center"><a href="https://testflight.apple.com/join/zcRStRh9">zcRStRh9</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:17</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2613,8 +2704,8 @@
   <td align="center"></td>
   <td align="center">Theia - Beta Version</td>
   <td align="center"><a href="https://testflight.apple.com/join/RUY4BYNt">RUY4BYNt</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:11:35</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:54:46</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2627,15 +2718,15 @@
   <td align="center"></td>
   <td align="center">TheaView</td>
   <td align="center"><a href="https://testflight.apple.com/join/NNb55KAx">NNb55KAx</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:46:59</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Thea - Light Meter</td>
   <td align="center"><a href="https://testflight.apple.com/join/7tp4bYZh">7tp4bYZh</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:46:11</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2648,8 +2739,8 @@
   <td align="center"></td>
   <td align="center">TheVegCat</td>
   <td align="center"><a href="https://testflight.apple.com/join/KvfdW4nP">KvfdW4nP</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:43:07</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2662,15 +2753,15 @@
   <td align="center"></td>
   <td align="center">TheOne (4c4be9)</td>
   <td align="center"><a href="https://testflight.apple.com/join/asEMZz3R">asEMZz3R</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:21</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TheOGs</td>
   <td align="center"><a href="https://testflight.apple.com/join/16KgVZ3G">16KgVZ3G</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:43</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2683,22 +2774,22 @@
   <td align="center"></td>
   <td align="center">TheKloo</td>
   <td align="center"><a href="https://testflight.apple.com/join/sdF63FYP">sdF63FYP</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:15:51</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:09</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TheCoolist</td>
   <td align="center"><a href="https://testflight.apple.com/join/RqrxvzKR">RqrxvzKR</a></td>
   <td align="center">N</td>
-  <td align="center">2026-05-11 22:59:30</td>
+  <td align="center">2026-05-11 23:41:19</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/63/81/d063817d-b9b9-7d2d-c09d-718100b8511c/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TheBrain: Smart Notes & Links</td>
   <td align="center"><a href="https://testflight.apple.com/join/p1I0uXaR">p1I0uXaR</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">2026-05-11 23:39:38</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2711,8 +2802,8 @@
   <td align="center"></td>
   <td align="center">TheAvnifyApp</td>
   <td align="center"><a href="https://testflight.apple.com/join/UCPDZK5V">UCPDZK5V</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:41</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2725,8 +2816,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/2d/a1/242da165-319c-a5dc-85f9-5956a69a12fc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">The Zamazingo - Puzzle Land</td>
   <td align="center"><a href="https://testflight.apple.com/join/cNHuywjD">cNHuywjD</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 19:00:41</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:40:54</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2739,8 +2830,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/cb/98/21cb98d7-b600-053a-8f39-65d02a6941ac/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">The Weekly Shop</td>
   <td align="center"><a href="https://testflight.apple.com/join/9nmWy1pm">9nmWy1pm</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:39</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2761,7 +2852,7 @@
   <td align="center">The Wallpaper App</td>
   <td align="center"><a href="https://testflight.apple.com/join/BUA2GEsr">BUA2GEsr</a></td>
   <td align="center">N</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">2026-05-11 23:31:19</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2774,8 +2865,8 @@
   <td align="center"></td>
   <td align="center">The Turn Golf</td>
   <td align="center"><a href="https://testflight.apple.com/join/KvFUbRHF">KvFUbRHF</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:46:06</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2795,8 +2886,8 @@
   <td align="center"></td>
   <td align="center">The Sunset Index</td>
   <td align="center"><a href="https://testflight.apple.com/join/CZATaFTC">CZATaFTC</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:43:16</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2809,29 +2900,29 @@
   <td align="center"></td>
   <td align="center">The Still App</td>
   <td align="center"><a href="https://testflight.apple.com/join/xnDGgrzu">xnDGgrzu</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:28</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Squatch</td>
   <td align="center"><a href="https://testflight.apple.com/join/IDdMLWVz">IDdMLWVz</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:37</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:40</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/46/54/c54654c5-67f6-1404-fb2b-d541e9e00e63/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">The Speedturtle App</td>
   <td align="center"><a href="https://testflight.apple.com/join/EXudm0iz">EXudm0iz</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:38</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Slate</td>
   <td align="center"><a href="https://testflight.apple.com/join/JunwMCP3">JunwMCP3</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:46:07</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2844,8 +2935,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/13/75/a01375dc-ee98-3d4f-3fab-1584dabbddc4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">The SLPA Network</td>
   <td align="center"><a href="https://testflight.apple.com/join/zwZt3SXp">zwZt3SXp</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:37</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2858,15 +2949,15 @@
   <td align="center"></td>
   <td align="center">The Red Thread</td>
   <td align="center"><a href="https://testflight.apple.com/join/vNR8ZZMp">vNR8ZZMp</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:51:06</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Recipe Box To Go</td>
   <td align="center"><a href="https://testflight.apple.com/join/P9QkwhNC">P9QkwhNC</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:51:16</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/41/e4/0a41e46e-c9d2-abfc-7eb2-31475f765ba5/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -2886,36 +2977,36 @@
   <td align="center"></td>
   <td align="center">The Quiet Ledger</td>
   <td align="center"><a href="https://testflight.apple.com/join/vZGVrY2s">vZGVrY2s</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:51:25</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Quiet Frame by Ignea</td>
   <td align="center"><a href="https://testflight.apple.com/join/4QK5F3fJ">4QK5F3fJ</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:46:13</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Power CEO: Fit & Confident</td>
   <td align="center"><a href="https://testflight.apple.com/join/NTduRv9Q">NTduRv9Q</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:00:01</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Pot - GumDrop</td>
   <td align="center"><a href="https://testflight.apple.com/join/jZVJGCFH">jZVJGCFH</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:48:30</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Police Record</td>
   <td align="center"><a href="https://testflight.apple.com/join/jGwhkwut">jGwhkwut</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:46:26</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2928,8 +3019,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/a3/ac/36a3ac3b-ed59-7b3c-ebbc-7d2ed99aca35/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">The Pizza Helper</td>
   <td align="center"><a href="https://testflight.apple.com/join/rOyWaxPE">rOyWaxPE</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:11</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:37</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/a3/ac/36a3ac3b-ed59-7b3c-ebbc-7d2ed99aca35/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -2949,36 +3040,36 @@
   <td align="center"></td>
   <td align="center">The Pet Whispers</td>
   <td align="center"><a href="https://testflight.apple.com/join/bmpD97ud">bmpD97ud</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:46:16</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Peaks</td>
   <td align="center"><a href="https://testflight.apple.com/join/63aMyeas">63aMyeas</a></td>
   <td align="center">N</td>
-  <td align="center">2026-05-11 22:59:28</td>
+  <td align="center">2026-05-11 23:41:15</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/ae/03/c0ae0330-7a12-9266-0b44-e27b87837dc1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">The Owners Forum</td>
   <td align="center"><a href="https://testflight.apple.com/join/YAA8ycMa">YAA8ycMa</a></td>
   <td align="center">N</td>
-  <td align="center">2025-09-01 08:16:19</td>
+  <td align="center">2026-05-11 23:39:38</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/1d/9e/fd1d9e87-7f97-8060-7f60-123bb7d1ca07/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">The Original Bloody Knuckles</td>
   <td align="center"><a href="https://testflight.apple.com/join/29yUmWqa">29yUmWqa</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:38</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Orb</td>
   <td align="center"><a href="https://testflight.apple.com/join/9CGzhB5s">9CGzhB5s</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:45:16</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -2991,36 +3082,36 @@
   <td align="center"></td>
   <td align="center">The Nightmap</td>
   <td align="center"><a href="https://testflight.apple.com/join/1FAtTtbA">1FAtTtbA</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:00:38</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Mountain.</td>
   <td align="center"><a href="https://testflight.apple.com/join/T61fycvl">T61fycvl</a></td>
   <td align="center">N</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">2026-05-11 23:32:11</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/0d/61/df0d611e-8d7d-7e23-f0b7-2721d57e7da8/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">The Mollorox</td>
   <td align="center"><a href="https://testflight.apple.com/join/aZnNFxMr">aZnNFxMr</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:39:37</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Midst</td>
   <td align="center"><a href="https://testflight.apple.com/join/VaGgbGwt">VaGgbGwt</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:11:41</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:54:50</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Memorys</td>
   <td align="center"><a href="https://testflight.apple.com/join/T32vhFKn">T32vhFKn</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:42:53</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3048,7 +3139,7 @@
   <td align="center">The Mall: Save & Track Brands</td>
   <td align="center"><a href="https://testflight.apple.com/join/FkmSz5Yn">FkmSz5Yn</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 23:00:17</td>
+  <td align="center">2026-05-11 23:42:04</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3075,8 +3166,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/88/78/4488784e-e670-486f-50c6-fa1587b3a057/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">The Loop Runner</td>
   <td align="center"><a href="https://testflight.apple.com/join/55aS6JgG">55aS6JgG</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:38</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3089,22 +3180,22 @@
   <td align="center"></td>
   <td align="center">The LimeLite</td>
   <td align="center"><a href="https://testflight.apple.com/join/VHTZva2h">VHTZva2h</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:47:47</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/4d/c1/a14dc116-30f2-8a6f-7296-3ee6156cf3f1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">The Light - simple meter</td>
   <td align="center"><a href="https://testflight.apple.com/join/RXQvAV6e">RXQvAV6e</a></td>
   <td align="center">D</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">2026-05-11 23:39:37</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/f7/3b/23f73b8c-2f79-3518-e5c7-d025045e284c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">The Lift Weighter</td>
   <td align="center"><a href="https://testflight.apple.com/join/PchEBgY8">PchEBgY8</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:37</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3117,8 +3208,8 @@
   <td align="center"></td>
   <td align="center">The Lazer Dragon Workout</td>
   <td align="center"><a href="https://testflight.apple.com/join/Uv2Xufqr">Uv2Xufqr</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:15</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3131,8 +3222,8 @@
   <td align="center"></td>
   <td align="center">The Khutwa</td>
   <td align="center"><a href="https://testflight.apple.com/join/STxKcJ3i">STxKcJ3i</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:16:28</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:31</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3145,8 +3236,8 @@
   <td align="center"></td>
   <td align="center">The Introvert App</td>
   <td align="center"><a href="https://testflight.apple.com/join/QfKSRS1f">QfKSRS1f</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:42</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:56:21</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3159,92 +3250,92 @@
   <td align="center"></td>
   <td align="center">The Heart House NJ</td>
   <td align="center"><a href="https://testflight.apple.com/join/Yyj2iTOL">Yyj2iTOL</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:26:10</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:59:01</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Haunted House: Dark Island</td>
   <td align="center"><a href="https://testflight.apple.com/join/hvY3tF1y">hvY3tF1y</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:45</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/4a/f9/014af9b7-dc79-f7a8-5c0e-dc0d2b910814/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">The Guardian - Live World News</td>
   <td align="center"><a href="https://testflight.apple.com/join/q8wmVNx2">q8wmVNx2</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:39:38</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/4a/f9/014af9b7-dc79-f7a8-5c0e-dc0d2b910814/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">The Guardian - Live World News</td>
   <td align="center"><a href="https://testflight.apple.com/join/8EsDeq7Y">8EsDeq7Y</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:39:38</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Green Spurt</td>
   <td align="center"><a href="https://testflight.apple.com/join/PC93RVZ4">PC93RVZ4</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:17</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:38</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Greatest Catch Dev</td>
   <td align="center"><a href="https://testflight.apple.com/join/YpokCJ9x">YpokCJ9x</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:18:35</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:58:12</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/8b/4c/f88b4c91-905f-b09b-572e-8145a0ce888c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">The Good Samaritan</td>
   <td align="center"><a href="https://testflight.apple.com/join/eR9CSVTM">eR9CSVTM</a></td>
   <td align="center">N</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:39:37</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Golf App</td>
   <td align="center"><a href="https://testflight.apple.com/join/rEd4QhvG">rEd4QhvG</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:15:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:56:46</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Glorious Whiskey Journal</td>
   <td align="center"><a href="https://testflight.apple.com/join/gcpVPN79">gcpVPN79</a></td>
   <td align="center">N</td>
-  <td align="center">2026-05-11 22:59:28</td>
+  <td align="center">2026-05-11 23:41:14</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Game of Royal Ur</td>
   <td align="center"><a href="https://testflight.apple.com/join/jeq3xxhy">jeq3xxhy</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:47:36</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Fridge (294a3a)</td>
   <td align="center"><a href="https://testflight.apple.com/join/S3rAUEzt">S3rAUEzt</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:29</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Fraction Calculator</td>
   <td align="center"><a href="https://testflight.apple.com/join/3mrjy25S">3mrjy25S</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:46:07</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Flower of Evil</td>
   <td align="center"><a href="https://testflight.apple.com/join/Lwn1Hal4">Lwn1Hal4</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:26:10</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:59:00</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3257,15 +3348,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/f0/3f/33f03f39-02af-431d-eaa6-ac61e871d9a0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">The Faded</td>
   <td align="center"><a href="https://testflight.apple.com/join/gnQQQcKr">gnQQQcKr</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 19:00:30</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:40:45</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The FNB of Sterling City</td>
   <td align="center"><a href="https://testflight.apple.com/join/mj1zxjU1">mj1zxjU1</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:54</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:50</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3285,22 +3376,22 @@
   <td align="center"></td>
   <td align="center">The Economist - News, Podcasts</td>
   <td align="center"><a href="https://testflight.apple.com/join/Ew9B65AT">Ew9B65AT</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:48:56</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Dump</td>
   <td align="center"><a href="https://testflight.apple.com/join/Vkzj2UCp">Vkzj2UCp</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">F</td>
+  <td align="center">2026-05-12 00:00:36</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Drive Is the Goal</td>
   <td align="center"><a href="https://testflight.apple.com/join/QSsjerbH">QSsjerbH</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:48:31</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3313,50 +3404,50 @@
   <td align="center"></td>
   <td align="center">The Division Resurgence</td>
   <td align="center"><a href="https://testflight.apple.com/join/cZFrLJPZ">cZFrLJPZ</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:15:07</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:56:38</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Divine Sky Islands</td>
   <td align="center"><a href="https://testflight.apple.com/join/Q5cM2spK">Q5cM2spK</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:10</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Dinner Problem</td>
   <td align="center"><a href="https://testflight.apple.com/join/akCNIiSD">akCNIiSD</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:16:40</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:38</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Devil’s AI Dictionary</td>
   <td align="center"><a href="https://testflight.apple.com/join/AtJWXcgD">AtJWXcgD</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:30</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Daily Mulligan</td>
   <td align="center"><a href="https://testflight.apple.com/join/XzCCxgEK">XzCCxgEK</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:46:56</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Daily Gist</td>
   <td align="center"><a href="https://testflight.apple.com/join/CfVJJYEp">CfVJJYEp</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:14</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/b8/cb/72b8cb88-9e87-fb43-51ac-7081e022068b/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">The Dad Journal</td>
   <td align="center"><a href="https://testflight.apple.com/join/eYwR7XsB">eYwR7XsB</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:37</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3376,22 +3467,22 @@
   <td align="center"></td>
   <td align="center">The Creative's Garden</td>
   <td align="center"><a href="https://testflight.apple.com/join/JxVAvJNU">JxVAvJNU</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:47:25</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/4f/50/b04f50cc-a187-761a-f53f-2abda53627f3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">The Connecter Wallet</td>
   <td align="center"><a href="https://testflight.apple.com/join/kxZ5RS9C">kxZ5RS9C</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:37</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Coffee Index</td>
   <td align="center"><a href="https://testflight.apple.com/join/EVZeKEXB">EVZeKEXB</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:26</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3404,22 +3495,22 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/2d/9c/a62d9cae-6e71-7244-8260-aeef732e10a1/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">The Club Movement</td>
   <td align="center"><a href="https://testflight.apple.com/join/Sfq998ux">Sfq998ux</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:36</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/ef/90/07ef905b-f2c4-4f24-d5db-dcd690a4482f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">The Channel</td>
   <td align="center"><a href="https://testflight.apple.com/join/xk7cvGHm">xk7cvGHm</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:39:36</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/8c/c2/758cc262-e696-8e43-e708-01678a66332b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">The CHAMP Plan</td>
   <td align="center"><a href="https://testflight.apple.com/join/ktFCgVLx">ktFCgVLx</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:18:36</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:58:12</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3433,14 +3524,14 @@
   <td align="center">The Bible Memory App</td>
   <td align="center"><a href="https://testflight.apple.com/join/xev8kR5U">xev8kR5U</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:10</td>
+  <td align="center">2026-05-11 23:39:36</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Bias</td>
   <td align="center"><a href="https://testflight.apple.com/join/R36n3sbD">R36n3sbD</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:45:20</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3475,14 +3566,14 @@
   <td align="center">The BSD Companion</td>
   <td align="center"><a href="https://testflight.apple.com/join/8HSnzXQQ">8HSnzXQQ</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:39:36</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Audit Academy</td>
   <td align="center"><a href="https://testflight.apple.com/join/c5K6AAYn">c5K6AAYn</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:09</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3495,15 +3586,15 @@
   <td align="center"></td>
   <td align="center">The Assembler</td>
   <td align="center"><a href="https://testflight.apple.com/join/v1BXajjL">v1BXajjL</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:33</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:56:13</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/7d/c1/9b7dc1ca-358f-64a9-4441-7e0c2b059004/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">The Artifacts</td>
   <td align="center"><a href="https://testflight.apple.com/join/69Wy2Uu7">69Wy2Uu7</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:13:20</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:55:28</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3517,14 +3608,14 @@
   <td align="center">The Arena DTD</td>
   <td align="center"><a href="https://testflight.apple.com/join/waNd1wDZ">waNd1wDZ</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 22:59:41</td>
+  <td align="center">2026-05-11 23:41:28</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">The Affinity IQ</td>
   <td align="center"><a href="https://testflight.apple.com/join/j5Fj7u9X">j5Fj7u9X</a></td>
   <td align="center">N</td>
-  <td align="center">2026-05-11 23:00:24</td>
+  <td align="center">2026-05-11 23:42:11</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3537,36 +3628,36 @@
   <td align="center"></td>
   <td align="center">The ADHD Executive</td>
   <td align="center"><a href="https://testflight.apple.com/join/UfaHtsTn">UfaHtsTn</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">F</td>
+  <td align="center">2026-05-11 23:59:12</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/3c/09/f53c0959-4977-e012-4da3-feab89ce66c6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">The 1: UAT</td>
   <td align="center"><a href="https://testflight.apple.com/join/M2ysLVcN">M2ysLVcN</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:39:36</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">ThankBook</td>
   <td align="center"><a href="https://testflight.apple.com/join/9Nz364fc">9Nz364fc</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:45:16</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/c3/40/06c340a9-78ed-7a4b-c63d-42bcc06dbe47/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Thanh niên Việt Nam</td>
   <td align="center"><a href="https://testflight.apple.com/join/aapoDXSn">aapoDXSn</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:39:37</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Thaki Pro</td>
   <td align="center"><a href="https://testflight.apple.com/join/4ZrXGvBr">4ZrXGvBr</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:51:16</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3586,15 +3677,15 @@
   <td align="center"></td>
   <td align="center">Textxt</td>
   <td align="center"><a href="https://testflight.apple.com/join/1DfE7tE5">1DfE7tE5</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:47</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/ad/9b/8bad9b73-087e-fe5b-e738-6954e15b28bb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Texts.com: Unified Messenger</td>
   <td align="center"><a href="https://testflight.apple.com/join/j15QDhZq">j15QDhZq</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:36</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3629,21 +3720,21 @@
   <td align="center">TextExpander 7 Keyboard</td>
   <td align="center"><a href="https://testflight.apple.com/join/vKrjNFUr">vKrjNFUr</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:39:36</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TextBase - Writing Tools</td>
   <td align="center"><a href="https://testflight.apple.com/join/BtjRfJsR">BtjRfJsR</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:48:57</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TextActions - AI Keyboard</td>
   <td align="center"><a href="https://testflight.apple.com/join/KP9zuqDE">KP9zuqDE</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:43:08</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/c0/cf/47c0cf6c-86df-2154-12e6-576770d7b187/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -3699,7 +3790,7 @@
   <td align="center">Texas Holdem Poker Timer</td>
   <td align="center"><a href="https://testflight.apple.com/join/RsZJEMVY">RsZJEMVY</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:39:36</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3719,29 +3810,29 @@
   <td align="center"></td>
   <td align="center">Tethr Chat</td>
   <td align="center"><a href="https://testflight.apple.com/join/76SRR5cr">76SRR5cr</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:45:05</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tethr</td>
   <td align="center"><a href="https://testflight.apple.com/join/HGPshktm">HGPshktm</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:45</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tethered - a rope game</td>
   <td align="center"><a href="https://testflight.apple.com/join/ePDzbraF">ePDzbraF</a></td>
   <td align="center">N</td>
-  <td align="center">2026-05-11 23:00:28</td>
+  <td align="center">2026-05-11 23:42:15</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/3e/e4/033ee426-1a54-edf7-dcc7-bef6b524a3e1/AppIcon-0-1x_U007ephone-0-1-85-220-0.jpeg/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tether — algorithm-free social</td>
   <td align="center"><a href="https://testflight.apple.com/join/nr5aECAW">nr5aECAW</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:19</td>
+  <td align="center">2026-05-11 23:39:35</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3754,15 +3845,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/6b/15/be6b153d-9aae-b999-ccc9-7c5f35e7f0cf/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Testere Supersaw Synth AUv3</td>
   <td align="center"><a href="https://testflight.apple.com/join/B3Z51KYF">B3Z51KYF</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:35</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TesterBuddy: Find Beta Testers</td>
   <td align="center"><a href="https://testflight.apple.com/join/3xxFME3Y">3xxFME3Y</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:46:40</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/e7/d6/39e7d629-2cce-b3fd-fda3-122a69b8c127/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -3788,23 +3879,23 @@
 <tr>
   <td align="center"></td>
   <td align="center">TestFlight Apple Mobile</td>
-  <td align="center"><a href="https://testflight.apple.com/join/cyT6Uj4k">cyT6Uj4k</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center"><a href="https://testflight.apple.com/join/zX7bzRYb">zX7bzRYb</a></td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:59:36</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TestFlight Apple Mobile</td>
-  <td align="center"><a href="https://testflight.apple.com/join/zX7bzRYb">zX7bzRYb</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center"><a href="https://testflight.apple.com/join/cyT6Uj4k">cyT6Uj4k</a></td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:43:43</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TestDungeon</td>
   <td align="center"><a href="https://testflight.apple.com/join/cCfddcSy">cCfddcSy</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:32</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3817,15 +3908,15 @@
   <td align="center"></td>
   <td align="center">TestCICD Fastlen</td>
   <td align="center"><a href="https://testflight.apple.com/join/zdfIZasY">zdfIZasY</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:13</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Test Routes UK</td>
   <td align="center"><a href="https://testflight.apple.com/join/2HdfNP1y">2HdfNP1y</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:42:26</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3888,14 +3979,14 @@
   <td align="center">TeslaView</td>
   <td align="center"><a href="https://testflight.apple.com/join/UfBRteX7">UfBRteX7</a></td>
   <td align="center">N</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">2026-05-11 23:31:27</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/e9/46/a0e94639-51b2-1d97-0147-b317e7735b93/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tesla Stok</td>
   <td align="center"><a href="https://testflight.apple.com/join/QGenvUmt">QGenvUmt</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:36</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3929,15 +4020,15 @@
   <td align="center"></td>
   <td align="center">TerraMow</td>
   <td align="center"><a href="https://testflight.apple.com/join/a22IhpE2">a22IhpE2</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:16:41</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:39</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/9b/dd/9b9bdd56-acf3-54f5-67a4-10ead360dc23/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TerraFront iPadPOS</td>
   <td align="center"><a href="https://testflight.apple.com/join/lr7bGlTU">lr7bGlTU</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">2026-05-11 23:39:35</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -3950,8 +4041,8 @@
   <td align="center"></td>
   <td align="center">Terra Victories</td>
   <td align="center"><a href="https://testflight.apple.com/join/9WgZYsRu">9WgZYsRu</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:18</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/ad/da/68adda20-4205-4207-b3f1-55b48a713193/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -3964,36 +4055,36 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/43/65/db4365fa-2ec1-399b-18d7-349d29a2c05b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Termy: English Vocabulary</td>
   <td align="center"><a href="https://testflight.apple.com/join/xnTtZ1w1">xnTtZ1w1</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:39:35</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Termova - SSH Agent Client</td>
   <td align="center"><a href="https://testflight.apple.com/join/5QBxynNE">5QBxynNE</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:47:36</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/0e/ec/9b0eec16-d364-84f8-eedb-721047682c7e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Termius - Modern SSH Client</td>
   <td align="center"><a href="https://testflight.apple.com/join/MnuClabg">MnuClabg</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">F</td>
+  <td align="center">2026-05-11 23:39:35</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/cf/6b/1ecf6b7f-8846-5ab2-6486-fdc2ea1de4ef/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Terminology</td>
   <td align="center"><a href="https://testflight.apple.com/join/hU2H9yyy">hU2H9yyy</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:13</td>
+  <td align="center">2026-05-11 23:39:35</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TerminalWidget</td>
   <td align="center"><a href="https://testflight.apple.com/join/5ZSrz3fd">5ZSrz3fd</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:12</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4014,35 +4105,35 @@
   <td align="center">Terapeas</td>
   <td align="center"><a href="https://testflight.apple.com/join/kp1Mk7Mn">kp1Mk7Mn</a></td>
   <td align="center">N</td>
-  <td align="center">2026-05-11 22:59:45</td>
+  <td align="center">2026-05-11 23:41:32</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TeraLIVE – Go Live Together</td>
   <td align="center"><a href="https://testflight.apple.com/join/4K3u9A4W">4K3u9A4W</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:46:23</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tera Bleach</td>
   <td align="center"><a href="https://testflight.apple.com/join/4TShsYtH">4TShsYtH</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:43:27</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Teqlink</td>
   <td align="center"><a href="https://testflight.apple.com/join/ljDoR5p2">ljDoR5p2</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:38</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:56:18</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Teo App</td>
   <td align="center"><a href="https://testflight.apple.com/join/dtyDtJzZ">dtyDtJzZ</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:03</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:28</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4055,29 +4146,29 @@
   <td align="center"></td>
   <td align="center">Tension Head</td>
   <td align="center"><a href="https://testflight.apple.com/join/sG5f8y4m">sG5f8y4m</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:50</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tense Tuner</td>
   <td align="center"><a href="https://testflight.apple.com/join/MaWMwM7n">MaWMwM7n</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:46</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TennisParent</td>
   <td align="center"><a href="https://testflight.apple.com/join/9bU9gUuV">9bU9gUuV</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:59</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TennisACE - Tennis Tracker</td>
   <td align="center"><a href="https://testflight.apple.com/join/PwJDgd8u">PwJDgd8u</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:13:25</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-12 00:01:25</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/23/c4/5023c446-cfa8-f4bd-9f7c-87d48c6066b0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -4104,15 +4195,15 @@
   <td align="center"></td>
   <td align="center">Tennis AI coach</td>
   <td align="center"><a href="https://testflight.apple.com/join/4aw7e9mv">4aw7e9mv</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:42:50</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tenney – JI Tuner & Lattice</td>
   <td align="center"><a href="https://testflight.apple.com/join/mWAWKYHT">mWAWKYHT</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:59:58</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4125,29 +4216,29 @@
   <td align="center"></td>
   <td align="center">TenisMatrix</td>
   <td align="center"><a href="https://testflight.apple.com/join/PY3Baa8V">PY3Baa8V</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:43:51</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/80/10/dd8010dd-98f2-b339-41fb-068f30228674/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tenet - A Block Puzzle Game</td>
   <td align="center"><a href="https://testflight.apple.com/join/O4EOjLt7">O4EOjLt7</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:16:28</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:57:32</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Teneo Protocol Beacon</td>
   <td align="center"><a href="https://testflight.apple.com/join/bSUKTYJn">bSUKTYJn</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:43</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tendbble</td>
   <td align="center"><a href="https://testflight.apple.com/join/cnAGvSVF">cnAGvSVF</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:51:10</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/46/93/eb469318-a531-e30b-d7b6-65a13b4f4e1e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -4160,8 +4251,8 @@
   <td align="center"></td>
   <td align="center">Tenda WiFi</td>
   <td align="center"><a href="https://testflight.apple.com/join/X3xocMLX">X3xocMLX</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:26:06</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:57</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4181,8 +4272,8 @@
   <td align="center"></td>
   <td align="center">Tend</td>
   <td align="center"><a href="https://testflight.apple.com/join/Uk75Rw4E">Uk75Rw4E</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:46:17</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4202,92 +4293,92 @@
   <td align="center"></td>
   <td align="center">Temps Agent</td>
   <td align="center"><a href="https://testflight.apple.com/join/7MV3JHqb">7MV3JHqb</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:07</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Temporal: Live Intentionally</td>
   <td align="center"><a href="https://testflight.apple.com/join/hjc1GGmB">hjc1GGmB</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:59:51</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TempoTaps</td>
   <td align="center"><a href="https://testflight.apple.com/join/mEC1BuZB">mEC1BuZB</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:47:14</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/ed/58/f2ed58f6-a11d-cade-cd44-dc9d59c50712/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tempo Track: Tuner & Metronome</td>
   <td align="center"><a href="https://testflight.apple.com/join/qe3MYYqR">qe3MYYqR</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:39:34</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/cb/5e/0ecb5e44-995a-94d4-685e-aa6ab9f2ddc7/AppIcon-0-1x_U007epad-0-1-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tempo Todo</td>
   <td align="center"><a href="https://testflight.apple.com/join/AqeZbvnu">AqeZbvnu</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:35</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/16/2d/68162da9-980e-6ba1-b44e-f64c4410f5c2/AppIcon-0-1x_U007epad-0-1-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tempo AI Todo & Agenda</td>
   <td align="center"><a href="https://testflight.apple.com/join/WAyZmxAV">WAyZmxAV</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:35</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/aa/b7/17aab730-add9-54f1-d76c-c249e72781c6/AppIcon-0-0-1x_U007emarketing-0-8-0-0-P3-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tempo - Personalized Habits</td>
   <td align="center"><a href="https://testflight.apple.com/join/V2kwdsyE">V2kwdsyE</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:34</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Templete</td>
   <td align="center"><a href="https://testflight.apple.com/join/BgmTlgPm">BgmTlgPm</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:13:58</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:55:48</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Temple AI</td>
   <td align="center"><a href="https://testflight.apple.com/join/qZDDMhyK">qZDDMhyK</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:38</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/22/27/88222723-3f9d-dea8-a900-f44798fe09c4/AppIcon_1-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tempest - Ultimate SSH client</td>
   <td align="center"><a href="https://testflight.apple.com/join/Adcn1UPm">Adcn1UPm</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:39:34</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tempace</td>
   <td align="center"><a href="https://testflight.apple.com/join/g4dncunc">g4dncunc</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:42:30</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Temis AI</td>
   <td align="center"><a href="https://testflight.apple.com/join/4rjhZuVf">4rjhZuVf</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:51:00</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tema Thermometer</td>
   <td align="center"><a href="https://testflight.apple.com/join/fgu5vw6Y">fgu5vw6Y</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:46:16</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4300,8 +4391,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/c7/62/7bc76261-1b51-328f-f158-67b8bdc3e42e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Telly - Belajar BISINDO</td>
   <td align="center"><a href="https://testflight.apple.com/join/fueebwdP">fueebwdP</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:35</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4314,8 +4405,8 @@
   <td align="center"></td>
   <td align="center">Telldus</td>
   <td align="center"><a href="https://testflight.apple.com/join/b317WwqQ">b317WwqQ</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:50</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/12/7f/3a127fc2-a4e2-910d-ca44-bff2fc083825/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -4328,8 +4419,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/b4/63/efb4637a-b412-5062-58e3-9c7d2ff4b410/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Television Time</td>
   <td align="center"><a href="https://testflight.apple.com/join/TD53cXmp">TD53cXmp</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">F</td>
+  <td align="center">2026-05-11 23:39:34</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/b4/63/efb4637a-b412-5062-58e3-9c7d2ff4b410/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -4349,36 +4440,36 @@
   <td align="center"></td>
   <td align="center">Telesport-</td>
   <td align="center"><a href="https://testflight.apple.com/join/wm27N3qp">wm27N3qp</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:02</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:58:27</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Teleprompter App - Autokue</td>
   <td align="center"><a href="https://testflight.apple.com/join/aNDVCz8D">aNDVCz8D</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:45:51</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Teleprompter</td>
   <td align="center"><a href="https://testflight.apple.com/join/3Sg9HkmE">3Sg9HkmE</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:45:17</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/ef/15/61ef1512-1ca9-df44-e866-7af393c0873d/AppIcon-telenet-0-1x_U007emarketing-0-8-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Telenet TV</td>
   <td align="center"><a href="https://testflight.apple.com/join/nYWzw0px">nYWzw0px</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:39:34</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Telegram Messenger</td>
   <td align="center"><a href="https://testflight.apple.com/join/FMJCzbar">FMJCzbar</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">F</td>
+  <td align="center">2026-05-11 23:47:11</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/5e/d2/0e5ed270-208b-5f0e-4f43-e0c51a598f7a/AppIconLLC-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -4392,14 +4483,14 @@
   <td align="center">Telefant</td>
   <td align="center"><a href="https://testflight.apple.com/join/D6YwkKwT">D6YwkKwT</a></td>
   <td align="center">N</td>
-  <td align="center">2025-09-01 08:16:15</td>
+  <td align="center">2026-05-11 23:39:33</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5b/46/2e5b46fe-5b5a-0ffd-ba1b-377639475f4f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TeleCare Connect</td>
   <td align="center"><a href="https://testflight.apple.com/join/HhfIYahM">HhfIYahM</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">2026-05-11 23:39:34</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4434,14 +4525,14 @@
   <td align="center">Teemyo</td>
   <td align="center"><a href="https://testflight.apple.com/join/4ZesUTbJ">4ZesUTbJ</a></td>
   <td align="center">N</td>
-  <td align="center">2026-05-11 22:59:46</td>
+  <td align="center">2026-05-11 23:41:33</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TeeUp: Join open tee times</td>
   <td align="center"><a href="https://testflight.apple.com/join/S8PqXJj2">S8PqXJj2</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:46:37</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4461,36 +4552,36 @@
   <td align="center"></td>
   <td align="center">TeeRival</td>
   <td align="center"><a href="https://testflight.apple.com/join/vpJrmAJr">vpJrmAJr</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:03</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:55:51</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TeeMates App</td>
   <td align="center"><a href="https://testflight.apple.com/join/7h2ftsfb">7h2ftsfb</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/16/5c/7c165cf5-eee3-dc50-71a2-4680017164cb/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
-  <td align="center">Tee-Timer</td>
-  <td align="center"><a href="https://testflight.apple.com/join/8BcqC5eU">8BcqC5eU</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">2026-05-11 23:43:39</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/16/5c/7c165cf5-eee3-dc50-71a2-4680017164cb/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tee-Timer</td>
   <td align="center"><a href="https://testflight.apple.com/join/Xxa6fzR9">Xxa6fzR9</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">2026-05-11 23:39:34</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/16/5c/7c165cf5-eee3-dc50-71a2-4680017164cb/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">Tee-Timer</td>
+  <td align="center"><a href="https://testflight.apple.com/join/8BcqC5eU">8BcqC5eU</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:39:33</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Teddy: Camera via Voice</td>
   <td align="center"><a href="https://testflight.apple.com/join/chBAxBHK">chBAxBHK</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:47:19</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4510,8 +4601,8 @@
   <td align="center"></td>
   <td align="center">Techwich</td>
   <td align="center"><a href="https://testflight.apple.com/join/53xgA8Pi">53xgA8Pi</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:15:44</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:05</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4524,15 +4615,15 @@
   <td align="center"></td>
   <td align="center">TechnoFino</td>
   <td align="center"><a href="https://testflight.apple.com/join/4y51CC8T">4y51CC8T</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:36</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/02/d4/d602d473-9b98-c6b0-f357-3e69556fe3e8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Technics Audio Center</td>
   <td align="center"><a href="https://testflight.apple.com/join/FH92DLCj">FH92DLCj</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:39:34</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/d4/f7/fdd4f798-a62b-b1ea-b8b9-be8740ff09e5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -4552,36 +4643,36 @@
   <td align="center"></td>
   <td align="center">TechBuddy AI</td>
   <td align="center"><a href="https://testflight.apple.com/join/BNZXSj6f">BNZXSj6f</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:38</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tech Jobs In EU</td>
   <td align="center"><a href="https://testflight.apple.com/join/2XcCVdK8">2XcCVdK8</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:13</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tech Endure</td>
   <td align="center"><a href="https://testflight.apple.com/join/XpypVQ1N">XpypVQ1N</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:56</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/24/e5/b224e5f9-1a01-5017-8246-719f2d6de2ff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Teburu Dungeon: SnS Prototype</td>
   <td align="center"><a href="https://testflight.apple.com/join/WzYvMYzV">WzYvMYzV</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:33</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tebi - Text behind image</td>
   <td align="center"><a href="https://testflight.apple.com/join/W5eSqQeF">W5eSqQeF</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:11:31</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-12 00:00:59</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4594,15 +4685,15 @@
   <td align="center"></td>
   <td align="center">TebVerse</td>
   <td align="center"><a href="https://testflight.apple.com/join/vMwWSzm1">vMwWSzm1</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:42:25</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Teardown</td>
   <td align="center"><a href="https://testflight.apple.com/join/pZs37CVv">pZs37CVv</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:36</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4615,8 +4706,8 @@
   <td align="center"></td>
   <td align="center">Teamgrow App</td>
   <td align="center"><a href="https://testflight.apple.com/join/Pv1kNdHt">Pv1kNdHt</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:42:50</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/d5/18/06d518be-e0ee-9165-b8fc-18283edb0905/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -4636,15 +4727,15 @@
   <td align="center"></td>
   <td align="center">TeamHockey</td>
   <td align="center"><a href="https://testflight.apple.com/join/1XWXMtJc">1XWXMtJc</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:00:20</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/86/0d/83860d4d-624f-85e7-2ac6-4760195f8a4c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Team Driver</td>
   <td align="center"><a href="https://testflight.apple.com/join/pA5HyM2q">pA5HyM2q</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:33</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4664,15 +4755,15 @@
   <td align="center"></td>
   <td align="center">Tea Me – Your Tea Guide</td>
   <td align="center"><a href="https://testflight.apple.com/join/wzyzzspP">wzyzzspP</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:51:25</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TeX Go</td>
   <td align="center"><a href="https://testflight.apple.com/join/FMMg2Y8k">FMMg2Y8k</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:08</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4692,22 +4783,22 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/cd/92/4dcd9299-683b-ebb8-f17f-d80c6afddb18/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tchap</td>
   <td align="center"><a href="https://testflight.apple.com/join/1kphRbLz">1kphRbLz</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:15:24</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:56:50</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tazte - UAT (old)</td>
   <td align="center"><a href="https://testflight.apple.com/join/H3sdfdJb">H3sdfdJb</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:15:38</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:56:58</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tazkify</td>
   <td align="center"><a href="https://testflight.apple.com/join/UFbmufdX">UFbmufdX</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:48:44</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/3c/37/2f3c3725-3e90-96eb-c21b-3af2579bce17/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -4727,22 +4818,22 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/28/7c/29287cfe-d8eb-5712-3d30-228fabcff8c7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TaxSmart AI</td>
   <td align="center"><a href="https://testflight.apple.com/join/gxuRRWV9">gxuRRWV9</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:33</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TaxDome</td>
   <td align="center"><a href="https://testflight.apple.com/join/DpFBPmCX">DpFBPmCX</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:09</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:28</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tawsela - توصيلة</td>
   <td align="center"><a href="https://testflight.apple.com/join/gOT8Sl9U">gOT8Sl9U</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:47</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:56:23</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4755,15 +4846,15 @@
   <td align="center"></td>
   <td align="center">Tavineato</td>
   <td align="center"><a href="https://testflight.apple.com/join/eJhmR8HZ">eJhmR8HZ</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:47:20</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/af/41/c1af41ff-c6c8-e9de-5325-d51b43941055/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tavico 3SCRM</td>
   <td align="center"><a href="https://testflight.apple.com/join/857IPiAB">857IPiAB</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">2026-05-11 23:39:32</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/42/66/ca426673-653b-74de-208a-4330dec4e8e3/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -4776,8 +4867,8 @@
   <td align="center"></td>
   <td align="center">Tava: Digital Influencer Agent</td>
   <td align="center"><a href="https://testflight.apple.com/join/sjX56k3J">sjX56k3J</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:46:43</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4790,22 +4881,22 @@
   <td align="center"></td>
   <td align="center">Taupia</td>
   <td align="center"><a href="https://testflight.apple.com/join/MnkCtQFF">MnkCtQFF</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:44</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tauon</td>
   <td align="center"><a href="https://testflight.apple.com/join/5w47Upm1">5w47Upm1</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:48:18</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Taubat</td>
   <td align="center"><a href="https://testflight.apple.com/join/KhbQw999">KhbQw999</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:46:54</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4875,7 +4966,7 @@
   <td align="center">TastyJP</td>
   <td align="center"><a href="https://testflight.apple.com/join/bFttMWjF">bFttMWjF</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:39:32</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4895,15 +4986,15 @@
   <td align="center"></td>
   <td align="center">TasteCam</td>
   <td align="center"><a href="https://testflight.apple.com/join/thPgAYVq">thPgAYVq</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:51:06</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TasteBuddy - Personal AI Chef</td>
   <td align="center"><a href="https://testflight.apple.com/join/unZtRMvg">unZtRMvg</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:12:37</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:55:15</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4923,8 +5014,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/8e/e8/708ee895-8088-71ab-c725-f8ee167c9db4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tasky AI - Guiding Teams Daily</td>
   <td align="center"><a href="https://testflight.apple.com/join/RQwRAC2v">RQwRAC2v</a></td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:33</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/67/8e/41678e6f-808d-bd5c-ed17-b56942e51e0a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">Tasks: Todo Lists & Kanban</td>
+  <td align="center"><a href="https://testflight.apple.com/join/ynUTByPJ">ynUTByPJ</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">2026-05-11 23:41:03</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4934,32 +5032,25 @@
   <td align="center">2026-05-11 23:30:13</td>
 </tr>
 <tr>
-  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/67/8e/41678e6f-808d-bd5c-ed17-b56942e51e0a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
-  <td align="center">Tasks: Todo Lists & Kanban</td>
-  <td align="center"><a href="https://testflight.apple.com/join/ynUTByPJ">ynUTByPJ</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 19:00:49</td>
-</tr>
-<tr>
   <td align="center"></td>
   <td align="center">Taskquadrant Mobile</td>
   <td align="center"><a href="https://testflight.apple.com/join/RKvtUU5V">RKvtUU5V</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:21</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Taskify Management</td>
   <td align="center"><a href="https://testflight.apple.com/join/9U1f3uPf">9U1f3uPf</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 22:59:30</td>
+  <td align="center">2026-05-11 23:41:17</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Taski</td>
   <td align="center"><a href="https://testflight.apple.com/join/KyYeFAZn">KyYeFAZn</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:43:30</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/04/16/270416d9-7c29-bed6-8f38-7eb1f3e73a92/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -4972,8 +5063,8 @@
   <td align="center"></td>
   <td align="center">Taskey: Ultimate Task Planner</td>
   <td align="center"><a href="https://testflight.apple.com/join/SmDh81xT">SmDh81xT</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:02:30</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:54:35</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -4993,22 +5084,22 @@
   <td align="center"></td>
   <td align="center">Taskcato</td>
   <td align="center"><a href="https://testflight.apple.com/join/sqjnTmVT">sqjnTmVT</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:30</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/7a/71/bf7a7115-b89b-397f-4cb2-5c46e26cb9a3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TaskMate User</td>
   <td align="center"><a href="https://testflight.apple.com/join/GxnwcJSj">GxnwcJSj</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:14</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:33</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/bf/50/3ebf5061-e799-de7e-ae8a-f70f9674f634/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TaskMate Provider</td>
   <td align="center"><a href="https://testflight.apple.com/join/5zCDw1BQ">5zCDw1BQ</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:15</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:32</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5020,16 +5111,16 @@
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/08/b8/6b08b87f-0a10-5ece-6fd0-a53a1fc5b54a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TaskFrame | Task Manager</td>
-  <td align="center"><a href="https://testflight.apple.com/join/DKQn1txn">DKQn1txn</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center"><a href="https://testflight.apple.com/join/4svwY12K">4svwY12K</a></td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:39:33</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/08/b8/6b08b87f-0a10-5ece-6fd0-a53a1fc5b54a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TaskFrame | Task Manager</td>
-  <td align="center"><a href="https://testflight.apple.com/join/4svwY12K">4svwY12K</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:16</td>
+  <td align="center"><a href="https://testflight.apple.com/join/DKQn1txn">DKQn1txn</a></td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:39:32</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/08/b8/6b08b87f-0a10-5ece-6fd0-a53a1fc5b54a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -5049,8 +5140,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/80/ff/e080ff89-10cd-dbd1-e64d-10dac397e4bc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TaskFavour</td>
   <td align="center"><a href="https://testflight.apple.com/join/WrP21DNv">WrP21DNv</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:32</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/49/e3/0249e39e-5938-1d01-2913-c668103ffb5c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -5063,8 +5154,8 @@
   <td align="center"></td>
   <td align="center">Task Flow‎</td>
   <td align="center"><a href="https://testflight.apple.com/join/McEMuRyx">McEMuRyx</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:00:25</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5077,15 +5168,15 @@
   <td align="center"></td>
   <td align="center">Task Compass</td>
   <td align="center"><a href="https://testflight.apple.com/join/T3DMu1kp">T3DMu1kp</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:42:38</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/1c/dc/001cdc21-d342-62f2-f431-94a5b1bf22ae/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Task Assistant – To Do List</td>
   <td align="center"><a href="https://testflight.apple.com/join/UmghCMPr">UmghCMPr</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:32</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5098,8 +5189,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/41/07/1f41073c-c358-35a6-cbf9-2c15a719bdd3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tarmac Trainer</td>
   <td align="center"><a href="https://testflight.apple.com/join/HT6gSZKH">HT6gSZKH</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:13</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:32</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5119,15 +5210,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/fb/78/92fb780b-7466-4544-3132-abc4e0d106a9/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TarkQ</td>
   <td align="center"><a href="https://testflight.apple.com/join/KkbPXDVR">KkbPXDVR</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:31</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/9d/e5/9e9de535-4a15-380a-075f-9f1454dacd61/AppIcon-0-0-1x_U007epad-0-7-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tariyo: QR Scanner</td>
   <td align="center"><a href="https://testflight.apple.com/join/ACPvaZBN">ACPvaZBN</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:32</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/c9/be/cdc9be7a-fa54-b7c8-4d44-185d4e5c7878/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -5140,8 +5231,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/26/e3/9626e358-a412-c251-3d2d-716c03fef6ec/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tarigh Al-Hussain</td>
   <td align="center"><a href="https://testflight.apple.com/join/88twNMGg">88twNMGg</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:31</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/a2/7b/6da27b57-2aa6-b29b-356a-ebb7efca20e9/AppIconShiny-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -5155,7 +5246,7 @@
   <td align="center">Taran App</td>
   <td align="center"><a href="https://testflight.apple.com/join/xFue2q9a">xFue2q9a</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:16</td>
+  <td align="center">2026-05-11 23:39:31</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/85/17/bd85172d-b405-6a33-565d-c475dc766b84/AppIcon-production-0-0-1x_U007emarketing-0-11-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -5183,7 +5274,7 @@
   <td align="center">Tara 3608</td>
   <td align="center"><a href="https://testflight.apple.com/join/RnRkTty6">RnRkTty6</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:17</td>
+  <td align="center">2026-05-11 23:39:31</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/86/22/d486222b-7402-0ad6-5daf-d8aad7f5dcc9/AppIcon-production-0-0-1x_U007emarketing-0-11-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -5204,7 +5295,7 @@
   <td align="center">Tara - App</td>
   <td align="center"><a href="https://testflight.apple.com/join/sjMF2elk">sjMF2elk</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:39:31</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/b1/ca/26b1caf8-562d-18ac-d7c2-0826ce15ae98/AppIcon-production-0-0-1x_U007emarketing-0-11-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -5217,8 +5308,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/f1/60/7ff160bd-4c50-b259-0c66-5784844ec9b8/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tappy Engine</td>
   <td align="center"><a href="https://testflight.apple.com/join/FmcXc2Qb">FmcXc2Qb</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:31</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/f1/60/7ff160bd-4c50-b259-0c66-5784844ec9b8/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -5252,8 +5343,8 @@
   <td align="center"></td>
   <td align="center">Tapko</td>
   <td align="center"><a href="https://testflight.apple.com/join/GEGbTm6r">GEGbTm6r</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:51:25</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5266,8 +5357,8 @@
   <td align="center"></td>
   <td align="center">Tapes: Audio Workspace</td>
   <td align="center"><a href="https://testflight.apple.com/join/kzJxP5cx">kzJxP5cx</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:44:19</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5281,21 +5372,21 @@
   <td align="center">Tapbitex</td>
   <td align="center"><a href="https://testflight.apple.com/join/nB3q9nme">nB3q9nme</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:12</td>
+  <td align="center">2026-05-11 23:39:31</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/44/f1/2c44f1a9-56a5-e63b-c2cb-3cbcc06f2319/FreeAppIcon-1x_U007emarketing-0-7-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tapatalk - 200,000+ Forums</td>
   <td align="center"><a href="https://testflight.apple.com/join/KrjSgmb5">KrjSgmb5</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:32</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TapTunnel</td>
   <td align="center"><a href="https://testflight.apple.com/join/TR72aucv">TR72aucv</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:45:57</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5308,8 +5399,8 @@
   <td align="center"></td>
   <td align="center">TapMood</td>
   <td align="center"><a href="https://testflight.apple.com/join/CjqYMZ4J">CjqYMZ4J</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:43:33</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5329,15 +5420,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/7e/a7/327ea780-bb2b-de53-963b-c92d47a75dae/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tap Tap Reloaded</td>
   <td align="center"><a href="https://testflight.apple.com/join/kjmSrSye">kjmSrSye</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:31</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tap Soccer - Balance the ball</td>
   <td align="center"><a href="https://testflight.apple.com/join/nxPBkHkR">nxPBkHkR</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:43:58</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/33/a7/9033a7b1-5b4a-d94f-cbd5-0708af66413c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -5350,15 +5441,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/7f/25/d17f252e-ea5e-05e1-70bb-88dd96cd4be1/AppIcon-1x_U007epad-0-1-sRGB-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tap Map App</td>
   <td align="center"><a href="https://testflight.apple.com/join/1rDPxEhA">1rDPxEhA</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:31</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tap Legal AI</td>
   <td align="center"><a href="https://testflight.apple.com/join/M8XwIF5x">M8XwIF5x</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:52</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:49</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5379,56 +5470,56 @@
   <td align="center">TaoyuanAR</td>
   <td align="center"><a href="https://testflight.apple.com/join/qj7mcHER">qj7mcHER</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">2026-05-11 23:39:31</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Taomo</td>
   <td align="center"><a href="https://testflight.apple.com/join/pEGur8Zd">pEGur8Zd</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:22</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tankbot Battle</td>
   <td align="center"><a href="https://testflight.apple.com/join/rpG73kXC">rpG73kXC</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:57</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:56:30</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TankLogix Mobile</td>
   <td align="center"><a href="https://testflight.apple.com/join/69JuPdrA">69JuPdrA</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:11:26</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:54:41</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TankForge</td>
   <td align="center"><a href="https://testflight.apple.com/join/4Rc5pGwZ">4Rc5pGwZ</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">F</td>
+  <td align="center">2026-05-11 23:47:34</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tank Flow: Puzzle Blast</td>
   <td align="center"><a href="https://testflight.apple.com/join/b5VSppEm">b5VSppEm</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-12 00:00:12</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TangoTasker for Mac</td>
   <td align="center"><a href="https://testflight.apple.com/join/pzchkKj9">pzchkKj9</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:12:10</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-12 00:01:10</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/6e/2a/f26e2af4-6812-b583-ebfd-89a8d846192f/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tangle AR</td>
   <td align="center"><a href="https://testflight.apple.com/join/mjIDtGI4">mjIDtGI4</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:19</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:30</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5448,36 +5539,36 @@
   <td align="center"></td>
   <td align="center">Tangents - Audio Rabbitholes</td>
   <td align="center"><a href="https://testflight.apple.com/join/aNmQd1Ww">aNmQd1Ww</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-12 00:00:09</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tandoori Fusion</td>
   <td align="center"><a href="https://testflight.apple.com/join/6AOmSv7T">6AOmSv7T</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:17:32</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:46</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/67/c1/7c67c1d0-02ab-3950-7c06-5853d9e281f0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TandemGPS</td>
   <td align="center"><a href="https://testflight.apple.com/join/U7djMH61">U7djMH61</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:30</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tandem Relationships</td>
   <td align="center"><a href="https://testflight.apple.com/join/rFwmr1Tf">rFwmr1Tf</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:31</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tandem</td>
   <td align="center"><a href="https://testflight.apple.com/join/EF3xjr9J">EF3xjr9J</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:43:04</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/bd/54/90bd54ef-5dcf-b2e3-416b-28c90f2b1812/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -5511,8 +5602,8 @@
   <td align="center"></td>
   <td align="center">Tan</td>
   <td align="center"><a href="https://testflight.apple.com/join/z4dryO9y">z4dryO9y</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:26:08</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:59</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5525,8 +5616,8 @@
   <td align="center"></td>
   <td align="center">Tammad</td>
   <td align="center"><a href="https://testflight.apple.com/join/bJQGrxJD">bJQGrxJD</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:43:24</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5553,15 +5644,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/5d/c7/8f5dc733-d397-699e-6d42-e8dbcf947003/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TalosRoute</td>
   <td align="center"><a href="https://testflight.apple.com/join/NVTwgJVx">NVTwgJVx</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">F</td>
+  <td align="center">2026-05-11 23:39:32</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TallyCouples</td>
   <td align="center"><a href="https://testflight.apple.com/join/PMAKaUnb">PMAKaUnb</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:51:07</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5575,14 +5666,14 @@
   <td align="center">Tally • Quick Counter</td>
   <td align="center"><a href="https://testflight.apple.com/join/zbUiqcxg">zbUiqcxg</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:39:30</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tally - Simple Debt Tracker</td>
   <td align="center"><a href="https://testflight.apple.com/join/gjnnJ4hr">gjnnJ4hr</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:45:57</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5595,8 +5686,8 @@
   <td align="center"></td>
   <td align="center">Tallhaven</td>
   <td align="center"><a href="https://testflight.apple.com/join/AzBdNtjm">AzBdNtjm</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:13:51</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:55:46</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5609,15 +5700,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/85/d3/f685d3b3-9f0d-6796-3889-bde06ee004e6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Talkit</td>
   <td align="center"><a href="https://testflight.apple.com/join/9Py6tuSu">9Py6tuSu</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 19:00:37</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:40:51</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TalkingBridge</td>
   <td align="center"><a href="https://testflight.apple.com/join/F8EyKK9J">F8EyKK9J</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:47:13</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5631,49 +5722,49 @@
   <td align="center">Talking Krishna</td>
   <td align="center"><a href="https://testflight.apple.com/join/2KVUCzmP">2KVUCzmP</a></td>
   <td align="center">N</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">2026-05-11 23:39:30</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/9d/1e/d49d1ec7-36e4-4644-4465-153d6912d6ee/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Talkin Live</td>
   <td align="center"><a href="https://testflight.apple.com/join/CZdBxvK6">CZdBxvK6</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">2026-05-11 23:39:30</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Talkie: Type with Voice</td>
   <td align="center"><a href="https://testflight.apple.com/join/sQZGDJ9g">sQZGDJ9g</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:51:18</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Talki - AI language learning</td>
   <td align="center"><a href="https://testflight.apple.com/join/j2qEvSjN">j2qEvSjN</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:47:20</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/30/3d/8e303d93-ffce-664c-bfef-a4d56fd953d9/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Talker English</td>
   <td align="center"><a href="https://testflight.apple.com/join/11ADo9R2">11ADo9R2</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:14</td>
+  <td align="center">2026-05-11 23:39:30</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TalkTravel - Travel Community</td>
   <td align="center"><a href="https://testflight.apple.com/join/wxcQmWh3">wxcQmWh3</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:47:25</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TalkToFelix</td>
   <td align="center"><a href="https://testflight.apple.com/join/snKszB1R">snKszB1R</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:49</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:47</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5693,15 +5784,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/66/c5/ce66c590-98ec-1142-c2f3-54045af13805/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Talk to Blocky: Nutrition tips</td>
   <td align="center"><a href="https://testflight.apple.com/join/gFHxjphZ">gFHxjphZ</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 19:00:47</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:41:00</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Talk Dim Sum</td>
   <td align="center"><a href="https://testflight.apple.com/join/SPcE8C9X">SPcE8C9X</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:45:14</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5736,35 +5827,35 @@
   <td align="center">Taler Nightly</td>
   <td align="center"><a href="https://testflight.apple.com/join/fhYqgw85">fhYqgw85</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">2026-05-11 23:39:30</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/b2/ea/9ab2ea2b-e0e1-41fb-4a2f-1ed36b2f0233/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TalentPass</td>
   <td align="center"><a href="https://testflight.apple.com/join/7bnRH71f">7bnRH71f</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:31</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/2c/96/c82c96de-c823-8b24-bf5b-9797e4953997/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Talent Manager: Creative Jobs</td>
   <td align="center"><a href="https://testflight.apple.com/join/XdHBg9is">XdHBg9is</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:39:29</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Talas AI</td>
   <td align="center"><a href="https://testflight.apple.com/join/X9jh2kV8">X9jh2kV8</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:13</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Talaria Tread Tracker</td>
   <td align="center"><a href="https://testflight.apple.com/join/FYsbbUnb">FYsbbUnb</a></td>
   <td align="center">N</td>
-  <td align="center">2026-05-11 22:59:50</td>
+  <td align="center">2026-05-11 23:41:38</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5776,30 +5867,30 @@
 <tr>
   <td align="center"></td>
   <td align="center">Takt - Time Tracking</td>
-  <td align="center"><a href="https://testflight.apple.com/join/W3XV78tK">W3XV78tK</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center"><a href="https://testflight.apple.com/join/cVn3kQYN">cVn3kQYN</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:43</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Takt - Time Tracking</td>
-  <td align="center"><a href="https://testflight.apple.com/join/cVn3kQYN">cVn3kQYN</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center"><a href="https://testflight.apple.com/join/W3XV78tK">W3XV78tK</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:46:33</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/e1/a4/f3e1a4d6-b932-95f6-001a-590a1d650d80/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tako - High tech, high life</td>
   <td align="center"><a href="https://testflight.apple.com/join/Vb4pjGvs">Vb4pjGvs</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:13</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:30</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Takeoff - Trip Planner</td>
   <td align="center"><a href="https://testflight.apple.com/join/3g63y27k">3g63y27k</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:46:10</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5812,22 +5903,22 @@
   <td align="center"></td>
   <td align="center">TakeWise</td>
   <td align="center"><a href="https://testflight.apple.com/join/MAzzH4Eb">MAzzH4Eb</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:51</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TakeFlight - A Bird Life</td>
   <td align="center"><a href="https://testflight.apple.com/join/vwcyPcTW">vwcyPcTW</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:44</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/c0/f1/79c0f163-dc54-3bf0-f728-302d72dbe76d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Take a Break – Pause and Reset</td>
   <td align="center"><a href="https://testflight.apple.com/join/NNpEp2PK">NNpEp2PK</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 19:00:28</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:59:10</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5840,8 +5931,8 @@
   <td align="center"></td>
   <td align="center">Takara: Geolocation Game</td>
   <td align="center"><a href="https://testflight.apple.com/join/iIER5VXU">iIER5VXU</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:12:30</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-12 00:01:19</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/e0/4f/84e04fbe-89bd-973b-586b-4e39289f89b7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -5854,15 +5945,22 @@
   <td align="center"></td>
   <td align="center">Tajneed UAE</td>
   <td align="center"><a href="https://testflight.apple.com/join/ZvLGGRrZ">ZvLGGRrZ</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:18:11</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:57</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Taim - Your AI companion</td>
   <td align="center"><a href="https://testflight.apple.com/join/NSbmuU3E">NSbmuU3E</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:40</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/db/82/b9db8207-fc6f-1aab-bfb4-c9f9289173cb/AppIcon-0-0-85-220-0-0-4-0-2x-0-0-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">Tailscale</td>
+  <td align="center"><a href="https://testflight.apple.com/join/7ExrFq00">7ExrFq00</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:58:22</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/f8/aa/d3f8aaf6-c10d-efd6-605a-4dad0ea97153/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -5872,46 +5970,39 @@
   <td align="center">2026-05-11 23:24:55</td>
 </tr>
 <tr>
-  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/db/82/b9db8207-fc6f-1aab-bfb4-c9f9289173cb/AppIcon-0-0-85-220-0-0-4-0-2x-0-0-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
-  <td align="center">Tailscale</td>
-  <td align="center"><a href="https://testflight.apple.com/join/7ExrFq00">7ExrFq00</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:24:52</td>
-</tr>
-<tr>
   <td align="center"></td>
   <td align="center">Tailor - The New Social App</td>
   <td align="center"><a href="https://testflight.apple.com/join/PvbyAJCb">PvbyAJCb</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:48:26</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tailgate: Call the Shots</td>
   <td align="center"><a href="https://testflight.apple.com/join/5vnHnYDb">5vnHnYDb</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:46:24</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TailTracker | Plane Tracking</td>
   <td align="center"><a href="https://testflight.apple.com/join/N2rNAVh7">N2rNAVh7</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:42:51</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/1d/c4/881dc456-1b60-95e9-5364-00f735e1b928/icon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TailTag</td>
   <td align="center"><a href="https://testflight.apple.com/join/zXMv5qHd">zXMv5qHd</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:30</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TailFin</td>
   <td align="center"><a href="https://testflight.apple.com/join/zJAF6tCc">zJAF6tCc</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:56</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5931,15 +6022,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/e6/09/69e6099a-8240-ff10-a5f4-6e6bc3ae1457/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tai Lopez Official App</td>
   <td align="center"><a href="https://testflight.apple.com/join/fDVA54Ep">fDVA54Ep</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:29</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/0d/07/cd0d07af-5e95-0fe8-fb05-08498f71a169/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tai Kwun [UAT]</td>
   <td align="center"><a href="https://testflight.apple.com/join/vt78wMux">vt78wMux</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:29</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5952,8 +6043,8 @@
   <td align="center"></td>
   <td align="center">Taglo (783cca)</td>
   <td align="center"><a href="https://testflight.apple.com/join/zcwGsUwZ">zcwGsUwZ</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:45:35</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -5973,43 +6064,43 @@
   <td align="center"></td>
   <td align="center">Tagalong: Automatic Geotagging</td>
   <td align="center"><a href="https://testflight.apple.com/join/Mu1vkGyh">Mu1vkGyh</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:48:01</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TagUp!</td>
   <td align="center"><a href="https://testflight.apple.com/join/PNZaqzP9">PNZaqzP9</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:22</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TagTrack – NFC Habit</td>
   <td align="center"><a href="https://testflight.apple.com/join/6bfcBm95">6bfcBm95</a></td>
   <td align="center">D</td>
-  <td align="center">2026-05-11 22:59:25</td>
+  <td align="center">2026-05-11 23:41:14</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TagThePlanet</td>
   <td align="center"><a href="https://testflight.apple.com/join/SfwQcBRC">SfwQcBRC</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:51:03</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TagFit</td>
   <td align="center"><a href="https://testflight.apple.com/join/8GksprEK">8GksprEK</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:24</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TagDot – 社群地圖</td>
   <td align="center"><a href="https://testflight.apple.com/join/7kgx9SA1">7kgx9SA1</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:46:09</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6022,29 +6113,29 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/c9/cf/c6c9cf09-aff2-02f8-87e0-d835b2598842/AppIcon-0-0-1x_U007emarketing-0-3-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tadhamon Mobile</td>
   <td align="center"><a href="https://testflight.apple.com/join/teSJtU3V">teSJtU3V</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:28</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tadaima Widgets</td>
   <td align="center"><a href="https://testflight.apple.com/join/xt2GqUXa">xt2GqUXa</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:03</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/e1/23/07e12323-4ff4-08ef-be48-1f46e301d037/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tadabbur</td>
   <td align="center"><a href="https://testflight.apple.com/join/kV3MznZm">kV3MznZm</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:28</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/7a/7a/477a7ae3-d301-8fbb-af8d-c8eed4be96cd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tada contributors</td>
   <td align="center"><a href="https://testflight.apple.com/join/NU6pMECN">NU6pMECN</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:28</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6057,22 +6148,22 @@
   <td align="center"></td>
   <td align="center">TactiQ Pro</td>
   <td align="center"><a href="https://testflight.apple.com/join/mSshsfyR">mSshsfyR</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:27</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/4b/99/ad4b9918-611a-f2b2-b124-e69aaff5be7a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Taco Universe - WAX Gaming</td>
   <td align="center"><a href="https://testflight.apple.com/join/jdUTGInd">jdUTGInd</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:26:15</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:05</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/4f/20/564f206b-d4c3-f2fb-70d9-dcd71fe9b9c6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Taco - WAX Utility Tools</td>
   <td align="center"><a href="https://testflight.apple.com/join/thvCAqM3">thvCAqM3</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:39:29</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6085,8 +6176,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/61/aa/ac61aa70-6714-7e99-baa9-9546f1424743/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tachymaze: running and cycling</td>
   <td align="center"><a href="https://testflight.apple.com/join/7nfDko4N">7nfDko4N</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:28</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/0d/64/150d646d-670e-e0e3-e22b-27805480be28/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -6106,15 +6197,15 @@
   <td align="center"></td>
   <td align="center">Tablo Skyplay</td>
   <td align="center"><a href="https://testflight.apple.com/join/Gdh3gwzy">Gdh3gwzy</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:43:44</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tablets App: Reminder Alarm</td>
   <td align="center"><a href="https://testflight.apple.com/join/XdNzToQs">XdNzToQs</a></td>
   <td align="center">D</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">2026-05-11 23:31:28</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/70/ec/c170ec6e-4d13-b069-9109-905e366a2f68/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -6128,7 +6219,7 @@
   <td align="center">Tabletop Battles</td>
   <td align="center"><a href="https://testflight.apple.com/join/XWOfQyll">XWOfQyll</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">2026-05-11 23:39:28</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6141,8 +6232,8 @@
   <td align="center"></td>
   <td align="center">Tableau for visionOS</td>
   <td align="center"><a href="https://testflight.apple.com/join/QuGwIUHk">QuGwIUHk</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:16:01</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:14</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6155,22 +6246,22 @@
   <td align="center"></td>
   <td align="center">TableTennis Referee</td>
   <td align="center"><a href="https://testflight.apple.com/join/4xQNQskn">4xQNQskn</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:44</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TablePro</td>
   <td align="center"><a href="https://testflight.apple.com/join/FDsn5pnG">FDsn5pnG</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:37</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/ed/10/16ed10e7-9d86-3705-8453-4cbf7144afb3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TableEx</td>
   <td align="center"><a href="https://testflight.apple.com/join/cVFNs5TA">cVFNs5TA</a></td>
-  <td align="center">N</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:39:29</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6183,43 +6274,43 @@
   <td align="center"></td>
   <td align="center">Table Online</td>
   <td align="center"><a href="https://testflight.apple.com/join/vwsUV4Db">vwsUV4Db</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:45:38</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Table Habit: Habit Tracker</td>
   <td align="center"><a href="https://testflight.apple.com/join/aJ5PWqaR">aJ5PWqaR</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:59:50</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TabiFolk</td>
   <td align="center"><a href="https://testflight.apple.com/join/K7Xw4iM9">K7Xw4iM9</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:26:11</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:59:03</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/bc/9d/e6bc9df5-f6d5-f1f8-346c-d8ef23069871/AppIcon-0-0-85-220-0-0-5-0-2x.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tabby - Browser Tab Manager</td>
   <td align="center"><a href="https://testflight.apple.com/join/gXZVujr6">gXZVujr6</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:17</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:28</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/bc/9d/e6bc9df5-f6d5-f1f8-346c-d8ef23069871/AppIcon-0-0-85-220-0-0-5-0-2x.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Tabby - Browser Tab Manager</td>
   <td align="center"><a href="https://testflight.apple.com/join/Va8Zdv9d">Va8Zdv9d</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:17</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:28</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">Tabbeo HACCP</td>
   <td align="center"><a href="https://testflight.apple.com/join/ZUtb83AD">ZUtb83AD</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:46:28</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6240,21 +6331,21 @@
   <td align="center">TX客戶端</td>
   <td align="center"><a href="https://testflight.apple.com/join/Xg7veGFk">Xg7veGFk</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:13</td>
+  <td align="center">2026-05-11 23:39:53</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TX Carry Compass</td>
   <td align="center"><a href="https://testflight.apple.com/join/rbbaFkUD">rbbaFkUD</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:48:19</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TWV2000</td>
   <td align="center"><a href="https://testflight.apple.com/join/u7QCq8UR">u7QCq8UR</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:42:26</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6274,22 +6365,22 @@
   <td align="center"></td>
   <td align="center">TVS iQUBE</td>
   <td align="center"><a href="https://testflight.apple.com/join/zF8MSjAM">zF8MSjAM</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:26:12</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:59:02</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/f9/ae/f7f9aedf-940a-bd21-3fd0-cdc656a3192c/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TVS Connect</td>
   <td align="center"><a href="https://testflight.apple.com/join/JJV7PGm7">JJV7PGm7</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:39:52</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/e3/7b/26e37b76-766f-36a4-e46c-deba058f8f6c/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TVS Connect</td>
   <td align="center"><a href="https://testflight.apple.com/join/MqSVJfoc">MqSVJfoc</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:14</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:52</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6302,15 +6393,15 @@
   <td align="center"></td>
   <td align="center">TVRemoteX</td>
   <td align="center"><a href="https://testflight.apple.com/join/W2bu5WrJ">W2bu5WrJ</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:51:15</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TVPRO Player</td>
   <td align="center"><a href="https://testflight.apple.com/join/NXDC5YN3">NXDC5YN3</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">F</td>
+  <td align="center">2026-05-11 23:51:01</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/db/5b/9cdb5b44-7e34-5f7f-6588-5b9eac4d8732/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -6323,8 +6414,8 @@
   <td align="center"></td>
   <td align="center">TV3D Mobile Unity 3D</td>
   <td align="center"><a href="https://testflight.apple.com/join/A3mQNcPX">A3mQNcPX</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:50:55</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6336,30 +6427,30 @@
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/7b/c3/237bc390-0c09-a7d6-ec71-7d90fe846704/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TV Show Tracker - CouchTimes</td>
+  <td align="center"><a href="https://testflight.apple.com/join/zmKqM3Kf">zmKqM3Kf</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:39:53</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/7b/c3/237bc390-0c09-a7d6-ec71-7d90fe846704/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">TV Show Tracker - CouchTimes</td>
   <td align="center"><a href="https://testflight.apple.com/join/XQRqxqmK">XQRqxqmK</a></td>
   <td align="center">Y</td>
   <td align="center">2026-05-11 23:20:39</td>
 </tr>
 <tr>
-  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/7b/c3/237bc390-0c09-a7d6-ec71-7d90fe846704/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
-  <td align="center">TV Show Tracker - CouchTimes</td>
-  <td align="center"><a href="https://testflight.apple.com/join/zmKqM3Kf">zmKqM3Kf</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
-</tr>
-<tr>
   <td align="center"></td>
   <td align="center">TV Remote - Universal Remote</td>
   <td align="center"><a href="https://testflight.apple.com/join/sNxTcwgA">sNxTcwgA</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:12:43</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:55:20</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TV Next</td>
   <td align="center"><a href="https://testflight.apple.com/join/CVHfUaD2">CVHfUaD2</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:46:19</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6372,22 +6463,22 @@
   <td align="center"></td>
   <td align="center">TV Knight</td>
   <td align="center"><a href="https://testflight.apple.com/join/vqhtc4S1">vqhtc4S1</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:46:48</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/06/fb/7a06fb97-2a11-9a68-01e4-e4b7a62199f8/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TV Group Chats: Unspoiled</td>
   <td align="center"><a href="https://testflight.apple.com/join/jQPjqQK1">jQPjqQK1</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:52</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/b3/8d/a9b38ddd-5351-a6ce-1ff8-9dd73496c584/AppIcon-1x_U007epad-0-1-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TV Deeplinks</td>
   <td align="center"><a href="https://testflight.apple.com/join/7jcRh9fo">7jcRh9fo</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">2026-05-11 23:39:52</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6414,8 +6505,8 @@
   <td align="center"></td>
   <td align="center">TTeeTT</td>
   <td align="center"><a href="https://testflight.apple.com/join/FXT9vq97">FXT9vq97</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:43:36</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6435,15 +6526,15 @@
   <td align="center"></td>
   <td align="center">TT-Demo</td>
   <td align="center"><a href="https://testflight.apple.com/join/mddgIplg">mddgIplg</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:43:04</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TT Training Tracker</td>
   <td align="center"><a href="https://testflight.apple.com/join/DBwCScjr">DBwCScjr</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:45:38</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/9f/ed/129fed14-f0af-3655-db08-7e917de6094b/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -6484,8 +6575,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/4c/a5/5a4ca53c-634c-364a-5f52-f0ed91e1bf39/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TSM Orders</td>
   <td align="center"><a href="https://testflight.apple.com/join/9F4iPL73">9F4iPL73</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:25:51</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:58:49</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/0d/35/660d3542-02a2-25be-92fe-33ac9e349fad/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -6498,8 +6589,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/1b/72/421b72b6-b5e9-aafe-5300-4578ea006688/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TSL MANAGEMENT</td>
   <td align="center"><a href="https://testflight.apple.com/join/BOzmtV4U">BOzmtV4U</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:17</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:51</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/64/83/5a648383-3a2a-e3a3-c1d7-0b0fef7d1ebd/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -6534,56 +6625,56 @@
   <td align="center">TRUSTDOCK - Sandbox</td>
   <td align="center"><a href="https://testflight.apple.com/join/DGCY7ltN">DGCY7ltN</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:39:51</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TRUCR</td>
   <td align="center"><a href="https://testflight.apple.com/join/y7xwiitu">y7xwiitu</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:17:32</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:45</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TROP</td>
   <td align="center"><a href="https://testflight.apple.com/join/CgNuBDPB">CgNuBDPB</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/96/14/109614b0-5dcf-f778-82a3-278b1cc1f630/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
-  <td align="center">TROLLEE Manager</td>
-  <td align="center"><a href="https://testflight.apple.com/join/0W1iAVDM">0W1iAVDM</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:45:03</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/8b/54/6a8b5452-c63d-6bc9-ade9-34d081e79fb0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TROLLEE Manager</td>
   <td align="center"><a href="https://testflight.apple.com/join/EwFRjyGi">EwFRjyGi</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:39:50</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/96/14/109614b0-5dcf-f778-82a3-278b1cc1f630/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">TROLLEE Manager</td>
+  <td align="center"><a href="https://testflight.apple.com/join/0W1iAVDM">0W1iAVDM</a></td>
   <td align="center">N</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:39:51</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/a6/9d/eca69dbf-2a39-8998-0ea1-dce09ce59928/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TREVBI</td>
   <td align="center"><a href="https://testflight.apple.com/join/RWP2wnXV">RWP2wnXV</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:50</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/25/0f/df250f1b-f5fb-a910-30aa-ae85f9feb522/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TRAX - New music starts here</td>
   <td align="center"><a href="https://testflight.apple.com/join/Kdua1p5U">Kdua1p5U</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:13</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:48</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/44/18/84441878-a934-63b0-07ac-2d11253fbfd0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TRAILZ - PVP DRIVING ARENA</td>
   <td align="center"><a href="https://testflight.apple.com/join/5oGMT6XC">5oGMT6XC</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">D</td>
+  <td align="center">2026-05-11 23:39:47</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6603,8 +6694,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/6a/a6/886aa69c-7670-4cc0-2a63-087289fc8f64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TPN Go</td>
   <td align="center"><a href="https://testflight.apple.com/join/jTBi0klS">jTBi0klS</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:17</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:46</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6624,8 +6715,8 @@
   <td align="center"></td>
   <td align="center">TPG Tapo Beta</td>
   <td align="center"><a href="https://testflight.apple.com/join/fDGEDbs5">fDGEDbs5</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:17</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:42:48</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/05/7b/df057b93-f7c3-c66b-9082-443702f21338/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -6638,8 +6729,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/00/5b/70005b02-1890-cbcc-a650-d4e5ea980979/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TPC | ThemeParkCompanion</td>
   <td align="center"><a href="https://testflight.apple.com/join/mCXFYM2V">mCXFYM2V</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:21</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:47</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6652,8 +6743,8 @@
   <td align="center"></td>
   <td align="center">TP-Link Tether</td>
   <td align="center"><a href="https://testflight.apple.com/join/gHpiQWIN">gHpiQWIN</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:26:19</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:59:08</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6667,7 +6758,7 @@
   <td align="center">TP-Link Deco</td>
   <td align="center"><a href="https://testflight.apple.com/join/2xC6J4zN">2xC6J4zN</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
+  <td align="center">2026-05-11 23:39:47</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6701,8 +6792,8 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/5e/66/d15e669c-5475-9b70-1850-37349c14e907/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TP-Link Aginet</td>
   <td align="center"><a href="https://testflight.apple.com/join/dO1nZKEQ">dO1nZKEQ</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:46</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6736,8 +6827,8 @@
   <td align="center"></td>
   <td align="center">TORO Driver</td>
   <td align="center"><a href="https://testflight.apple.com/join/qpB4QhGx">qpB4QhGx</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:48</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6758,7 +6849,7 @@
   <td align="center">TOPMALL Vendor</td>
   <td align="center"><a href="https://testflight.apple.com/join/qhYyWtWP">qhYyWtWP</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:13</td>
+  <td align="center">2026-05-11 23:39:45</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6778,8 +6869,8 @@
   <td align="center"></td>
   <td align="center">TON Health</td>
   <td align="center"><a href="https://testflight.apple.com/join/V3OpIv7r">V3OpIv7r</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:26:16</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:59:06</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/04/10/2104100b-7cfe-64ce-898a-6b7ef7d8c976/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -6800,7 +6891,7 @@
   <td align="center">TNW Driver</td>
   <td align="center"><a href="https://testflight.apple.com/join/QLrupFvs">QLrupFvs</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:20</td>
+  <td align="center">2026-05-11 23:39:43</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6820,22 +6911,22 @@
   <td align="center"></td>
   <td align="center">TNAS mobile</td>
   <td align="center"><a href="https://testflight.apple.com/join/wFWYABJS">wFWYABJS</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center">TN IOS GAME</td>
-  <td align="center"><a href="https://testflight.apple.com/join/Wh7nWYDk">Wh7nWYDk</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:43:28</td>
 </tr>
 <tr>
   <td align="center"></td>
   <td align="center">TN IOS GAME</td>
   <td align="center"><a href="https://testflight.apple.com/join/aHJunTVa">aHJunTVa</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:49:57</td>
+</tr>
+<tr>
+  <td align="center"></td>
+  <td align="center">TN IOS GAME</td>
+  <td align="center"><a href="https://testflight.apple.com/join/Wh7nWYDk">Wh7nWYDk</a></td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:44:00</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6848,15 +6939,15 @@
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/1d/6b/0a1d6b7c-8d06-5041-f996-e3447cbb7140/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TMLTH Touch Point</td>
   <td align="center"><a href="https://testflight.apple.com/join/nWsnQxHL">nWsnQxHL</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:45</td>
+  <td align="center">Y</td>
+  <td align="center">2026-05-11 23:56:22</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/89/cf/b989cfcc-90d3-c126-605a-96dba535a71e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">TMKOC Playschool: Play & Learn</td>
   <td align="center"><a href="https://testflight.apple.com/join/SYgGKcAG">SYgGKcAG</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:39:42</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6876,8 +6967,8 @@
   <td align="center"></td>
   <td align="center">TMB App (Metro Bus Barcelona)</td>
   <td align="center"><a href="https://testflight.apple.com/join/c2FIzDkK">c2FIzDkK</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:26:18</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:59:06</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/88/ee/9d88ee76-665a-5ff9-89fa-2ee198e60dae/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -6898,7 +6989,7 @@
   <td align="center">TLC M</td>
   <td align="center"><a href="https://testflight.apple.com/join/x6UXMX25">x6UXMX25</a></td>
   <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:18</td>
+  <td align="center">2026-05-11 23:39:43</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/f1/5f/f0f15f74-83b6-1fda-8e13-88e750904365/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -6911,8 +7002,8 @@
   <td align="center"></td>
   <td align="center">TK Customer Portal Mobile</td>
   <td align="center"><a href="https://testflight.apple.com/join/8dSgebxX">8dSgebxX</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:15:52</td>
+  <td align="center">N</td>
+  <td align="center">2026-05-11 23:57:08</td>
 </tr>
 <tr>
   <td align="center"></td>
@@ -6947,7 +7038,7 @@
   <td align="center">TIS Mobile</td>
   <td align="center"><a href="https://testflight.apple.com/join/m2dP6mxk">m2dP6mxk</a></td>
   <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:18</td>
+  <td align="center">2026-05-11 23:39:43</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/e8/e5/d3e8e56a-7f1a-8e6e-9d51-cce136e6cc95/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -6955,97 +7046,6 @@
   <td align="center"><a href="https://testflight.apple.com/join/FNLYtrBg">FNLYtrBg</a></td>
   <td align="center">Y</td>
   <td align="center">2026-05-11 23:04:53</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center">TIME&SPACE - Event Manager</td>
-  <td align="center"><a href="https://testflight.apple.com/join/QEoi3m9N">QEoi3m9N</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:17:46</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center">TIM Converter</td>
-  <td align="center"><a href="https://testflight.apple.com/join/kz9R81EB">kz9R81EB</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 23:14:47</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center">TILT Mobile BETA</td>
-  <td align="center"><a href="https://testflight.apple.com/join/SporEXST">SporEXST</a></td>
-  <td align="center">N</td>
-  <td align="center">2026-05-11 23:13:13</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center">TILT - Daily Maze</td>
-  <td align="center"><a href="https://testflight.apple.com/join/v6uCApjS">v6uCApjS</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center">TIFO THE GAME</td>
-  <td align="center"><a href="https://testflight.apple.com/join/8Eq5BAf7">8Eq5BAf7</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center">TIDE AI</td>
-  <td align="center"><a href="https://testflight.apple.com/join/jUbLsOtB">jUbLsOtB</a></td>
-  <td align="center">N</td>
-  <td align="center">2026-05-11 23:12:05</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center">TIBI Cộng đồng bất động sản</td>
-  <td align="center"><a href="https://testflight.apple.com/join/uz3mRWJk">uz3mRWJk</a></td>
-  <td align="center">N</td>
-  <td align="center">2026-05-11 23:21:26</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/da/94/1fda9486-9382-f617-9e44-60730ed8c6fb/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
-  <td align="center">TH生产管理</td>
-  <td align="center"><a href="https://testflight.apple.com/join/nLlBp97b">nLlBp97b</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 23:04:06</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center">THUHO247 v2 UAT</td>
-  <td align="center"><a href="https://testflight.apple.com/join/Ahm4Bsur">Ahm4Bsur</a></td>
-  <td align="center">N</td>
-  <td align="center">2026-05-11 23:18:02</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center">THR: AZ Harvest Tracking</td>
-  <td align="center"><a href="https://testflight.apple.com/join/JFZkGfuY">JFZkGfuY</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/63/a3/eb63a3be-aeb2-012d-4641-59c05df5eb45/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
-  <td align="center">THORWallet: Crypto Wallet</td>
-  <td align="center"><a href="https://testflight.apple.com/join/f5LW68I8">f5LW68I8</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-05-11 18:25:19</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/c3/ec/acc3ecc7-50a3-5424-ac48-96cf4c7afe6b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
-  <td align="center">THORWallet: Crypto Wallet</td>
-  <td align="center"><a href="https://testflight.apple.com/join/FN25mKtW">FN25mKtW</a></td>
-  <td align="center">Y</td>
-  <td align="center">2025-09-01 08:16:15</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center">THIENTUONG KNS</td>
-  <td align="center"><a href="https://testflight.apple.com/join/RgD3Gpbh">RgD3Gpbh</a></td>
-  <td align="center">U</td>
-  <td align="center">2026-05-11 18:25:16</td>
 </tr>
 </tbody>
 </table>
