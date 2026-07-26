@@ -17,7 +17,7 @@
 ## 🥤 可用状态 / Available Status
 > 状态可能滞后，建议你点击testflight链接测试可用性。/ The status may lag, so we recommend you click the testflight link to test the availability.
 > 
-> 总数量 / Total：33464。Y：8985，F：378，N：19681，D：4420，U：0。
+> 总数量 / Total：33465。Y：8986，F：378，N：19681，D：4420，U：0。
 * **Y: Yes** - 该App目前接受测试。/ Apps currently accepting new testers.
 * **F: Full** - 该App的测试员已满。/ This beta is full.
 * **N: No** - 该App目前不接受任何新测试员。/ This beta isn't accepting any new testers right now.

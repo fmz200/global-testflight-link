@@ -5305,6 +5305,13 @@
   <td align="center">2026-05-11 23:41:48</td>
 </tr>
 <tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/9e/53/079e5330-2ea6-ff2e-7d69-3ad6e6a42e86/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">Emma’s Library</td>
+  <td align="center"><a href="https://testflight.apple.com/join/69PadvA5">69PadvA5</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-07-26 11:34:43</td>
+</tr>
+<tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/74/fc/fe74fc70-437a-51b1-0a98-b52b848eb9a8/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Emma - Budget Planner Tracker</td>
   <td align="center"><a href="https://testflight.apple.com/join/bAUBcvcV">bAUBcvcV</a></td>
