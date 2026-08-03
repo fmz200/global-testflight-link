@@ -53,6 +53,13 @@
 <tbody>
 <tr>
   <td align="center"></td>
+  <td align="center">Gother DEV</td>
+  <td align="center"><a href="https://testflight.apple.com/join/d5TbRWDx">d5TbRWDx</a></td>
+  <td align="center">N</td>
+  <td align="center">2026-07-30 12:32:38</td>
+</tr>
+<tr>
+  <td align="center"></td>
   <td align="center">Gotan - App for that</td>
   <td align="center"><a href="https://testflight.apple.com/join/vr5ks8wm">vr5ks8wm</a></td>
   <td align="center">N</td>
@@ -7043,13 +7050,6 @@
   <td align="center"><a href="https://testflight.apple.com/join/a0SboyZh">a0SboyZh</a></td>
   <td align="center">N</td>
   <td align="center">2026-07-30 12:43:22</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center">Food and Travel: Merge Game</td>
-  <td align="center"><a href="https://testflight.apple.com/join/U7aqmN6n">U7aqmN6n</a></td>
-  <td align="center">D</td>
-  <td align="center">2026-07-30 10:49:05</td>
 </tr>
 </tbody>
 </table>

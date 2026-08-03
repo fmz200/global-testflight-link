@@ -52,6 +52,20 @@
 </thead>
 <tbody>
 <tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/14/45/a014450d-c2e9-2a7d-14c7-b91573240527/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">Akamai MFA</td>
+  <td align="center"><a href="https://testflight.apple.com/join/uh83h5Cb">uh83h5Cb</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-07-30 10:58:57</td>
+</tr>
+<tr>
+  <td align="center"></td>
+  <td align="center">Akademia Teacher App</td>
+  <td align="center"><a href="https://testflight.apple.com/join/CAGVjCnu">CAGVjCnu</a></td>
+  <td align="center">N</td>
+  <td align="center">2026-07-30 12:38:45</td>
+</tr>
+<tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/f4/57/7df457ba-eef6-67b1-3e48-9c83c5616f24/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Ajyad pos</td>
   <td align="center"><a href="https://testflight.apple.com/join/PwCIOWNX">PwCIOWNX</a></td>
@@ -7036,20 +7050,6 @@
   <td align="center"><a href="https://testflight.apple.com/join/NWv92k4f">NWv92k4f</a></td>
   <td align="center">N</td>
   <td align="center">2026-07-30 13:48:17</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"><a href="https://testflight.apple.com/join/z1XBwwYv">z1XBwwYv</a></td>
-  <td align="center">N</td>
-  <td align="center">2026-07-30 13:48:14</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"><a href="https://testflight.apple.com/join/ddJQBnRP">ddJQBnRP</a></td>
-  <td align="center">N</td>
-  <td align="center">2026-07-30 13:48:11</td>
 </tr>
 </tbody>
 </table>

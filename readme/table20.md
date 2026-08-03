@@ -53,6 +53,13 @@
 <tbody>
 <tr>
   <td align="center"></td>
+  <td align="center">JustRun: Trail & Ultra</td>
+  <td align="center"><a href="https://testflight.apple.com/join/2uW9UpBp">2uW9UpBp</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-07-30 11:12:00</td>
+</tr>
+<tr>
+  <td align="center"></td>
   <td align="center">JustReps</td>
   <td align="center"><a href="https://testflight.apple.com/join/XXutvcqr">XXutvcqr</a></td>
   <td align="center">N</td>
@@ -7043,13 +7050,6 @@
   <td align="center"><a href="https://testflight.apple.com/join/s9ZDBQY4">s9ZDBQY4</a></td>
   <td align="center">N</td>
   <td align="center">2026-07-30 13:03:42</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center">Homie Dev</td>
-  <td align="center"><a href="https://testflight.apple.com/join/3r7yuZ3x">3r7yuZ3x</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-07-30 11:11:29</td>
 </tr>
 </tbody>
 </table>

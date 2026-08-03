@@ -53,6 +53,13 @@
 <tbody>
 <tr>
   <td align="center"></td>
+  <td align="center">Homie Dev</td>
+  <td align="center"><a href="https://testflight.apple.com/join/3r7yuZ3x">3r7yuZ3x</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-07-30 11:11:29</td>
+</tr>
+<tr>
+  <td align="center"></td>
   <td align="center">Homie</td>
   <td align="center"><a href="https://testflight.apple.com/join/idR5UvUa">idR5UvUa</a></td>
   <td align="center">N</td>
@@ -7043,13 +7050,6 @@
   <td align="center"><a href="https://testflight.apple.com/join/ZUtAByAZ">ZUtAByAZ</a></td>
   <td align="center">N</td>
   <td align="center">2026-07-30 13:08:13</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center">Gother DEV</td>
-  <td align="center"><a href="https://testflight.apple.com/join/d5TbRWDx">d5TbRWDx</a></td>
-  <td align="center">N</td>
-  <td align="center">2026-07-30 12:32:38</td>
 </tr>
 </tbody>
 </table>

@@ -52,6 +52,13 @@
 </thead>
 <tbody>
 <tr>
+  <td align="center"></td>
+  <td align="center">Food and Travel: Merge Game</td>
+  <td align="center"><a href="https://testflight.apple.com/join/U7aqmN6n">U7aqmN6n</a></td>
+  <td align="center">D</td>
+  <td align="center">2026-07-30 10:49:05</td>
+</tr>
+<tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/b7/bc/1eb7bc56-35b5-77e5-8530-6aa12e270211/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Food Village</td>
   <td align="center"><a href="https://testflight.apple.com/join/LbSsFS4E">LbSsFS4E</a></td>
@@ -7043,13 +7050,6 @@
   <td align="center"><a href="https://testflight.apple.com/join/NWyyyy2C">NWyyyy2C</a></td>
   <td align="center">N</td>
   <td align="center">2026-07-30 13:52:25</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center">EventsConnect</td>
-  <td align="center"><a href="https://testflight.apple.com/join/hFPpkktg">hFPpkktg</a></td>
-  <td align="center">N</td>
-  <td align="center">2026-07-30 12:51:37</td>
 </tr>
 </tbody>
 </table>

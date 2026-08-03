@@ -53,6 +53,13 @@
 <tbody>
 <tr>
   <td align="center"></td>
+  <td align="center">EventsConnect</td>
+  <td align="center"><a href="https://testflight.apple.com/join/hFPpkktg">hFPpkktg</a></td>
+  <td align="center">N</td>
+  <td align="center">2026-07-30 12:51:37</td>
+</tr>
+<tr>
+  <td align="center"></td>
   <td align="center">Events4You</td>
   <td align="center"><a href="https://testflight.apple.com/join/pejZ7qWT">pejZ7qWT</a></td>
   <td align="center">N</td>
@@ -1576,6 +1583,13 @@
   <td align="center"><a href="https://testflight.apple.com/join/FX3ptwXt">FX3ptwXt</a></td>
   <td align="center">N</td>
   <td align="center">2026-07-30 13:01:38</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/fa/17/3cfa17f6-8824-9ac1-7955-ba9f30e29e7e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152ia-80.png" width="50" height="50" alt=""></td>
+  <td align="center">Emma's Library</td>
+  <td align="center"><a href="https://testflight.apple.com/join/69PadvA5">69PadvA5</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-08-03 20:04:36</td>
 </tr>
 <tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/74/fc/fe74fc70-437a-51b1-0a98-b52b848eb9a8/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
@@ -7036,20 +7050,6 @@
   <td align="center"><a href="https://testflight.apple.com/join/64aqa0Pa">64aqa0Pa</a></td>
   <td align="center">N</td>
   <td align="center">2026-07-30 12:35:18</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center">Doctor Vibe — Lo-fi Effect</td>
-  <td align="center"><a href="https://testflight.apple.com/join/Hv2te2MY">Hv2te2MY</a></td>
-  <td align="center">N</td>
-  <td align="center">2026-07-30 12:31:40</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/d2/e3/84d2e38d-7ca3-1f20-356a-2d26374a24ce/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
-  <td align="center">Doctor Plus (f23dd4)</td>
-  <td align="center"><a href="https://testflight.apple.com/join/SzaNbRVP">SzaNbRVP</a></td>
-  <td align="center">D</td>
-  <td align="center">2026-07-30 11:00:16</td>
 </tr>
 </tbody>
 </table>

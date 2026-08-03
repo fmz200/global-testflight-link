@@ -53,6 +53,20 @@
 <tbody>
 <tr>
   <td align="center"></td>
+  <td align="center">Doctor Vibe — Lo-fi Effect</td>
+  <td align="center"><a href="https://testflight.apple.com/join/Hv2te2MY">Hv2te2MY</a></td>
+  <td align="center">N</td>
+  <td align="center">2026-07-30 12:31:40</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/d2/e3/84d2e38d-7ca3-1f20-356a-2d26374a24ce/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
+  <td align="center">Doctor Plus (f23dd4)</td>
+  <td align="center"><a href="https://testflight.apple.com/join/SzaNbRVP">SzaNbRVP</a></td>
+  <td align="center">D</td>
+  <td align="center">2026-07-30 11:00:16</td>
+</tr>
+<tr>
+  <td align="center"></td>
   <td align="center">Doctor Peter</td>
   <td align="center"><a href="https://testflight.apple.com/join/awhA9cF3">awhA9cF3</a></td>
   <td align="center">N</td>
@@ -7036,20 +7050,6 @@
   <td align="center"><a href="https://testflight.apple.com/join/Fun4mqsm">Fun4mqsm</a></td>
   <td align="center">N</td>
   <td align="center">2026-07-30 12:56:22</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center">Crew - Your Little AI Crew</td>
-  <td align="center"><a href="https://testflight.apple.com/join/xnuD99dc">xnuD99dc</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-07-30 11:22:52</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center">Crevado Portfolios</td>
-  <td align="center"><a href="https://testflight.apple.com/join/ESJj67Pd">ESJj67Pd</a></td>
-  <td align="center">N</td>
-  <td align="center">2026-07-30 12:34:49</td>
 </tr>
 </tbody>
 </table>

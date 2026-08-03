@@ -4287,6 +4287,13 @@
   <td align="center">2026-07-30 12:40:14</td>
 </tr>
 <tr>
+  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/65/b5/f865b5ab-e7e3-d5a6-40d7-fa863b12e823/AppIcon-0-0-1x_U007epad-0-1-85-220.png/152x152ia-80.png" width="50" height="50" alt=""></td>
+  <td align="center">Kitchen Agent for Chefs</td>
+  <td align="center"><a href="https://testflight.apple.com/join/nmkzuzVj">nmkzuzVj</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-08-03 20:09:58</td>
+</tr>
+<tr>
   <td align="center"></td>
   <td align="center">Kitap Topluluğu</td>
   <td align="center"><a href="https://testflight.apple.com/join/6VdMSAKS">6VdMSAKS</a></td>
@@ -7043,13 +7050,6 @@
   <td align="center"><a href="https://testflight.apple.com/join/VCpm2UEa">VCpm2UEa</a></td>
   <td align="center">N</td>
   <td align="center">2026-07-30 13:04:31</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center">JustRun: Trail & Ultra</td>
-  <td align="center"><a href="https://testflight.apple.com/join/2uW9UpBp">2uW9UpBp</a></td>
-  <td align="center">Y</td>
-  <td align="center">2026-07-30 11:12:00</td>
 </tr>
 </tbody>
 </table>

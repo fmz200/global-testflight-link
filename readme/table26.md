@@ -52,6 +52,20 @@
 </thead>
 <tbody>
 <tr>
+  <td align="center"></td>
+  <td align="center">Crew - Your Little AI Crew</td>
+  <td align="center"><a href="https://testflight.apple.com/join/xnuD99dc">xnuD99dc</a></td>
+  <td align="center">Y</td>
+  <td align="center">2026-07-30 11:22:52</td>
+</tr>
+<tr>
+  <td align="center"></td>
+  <td align="center">Crevado Portfolios</td>
+  <td align="center"><a href="https://testflight.apple.com/join/ESJj67Pd">ESJj67Pd</a></td>
+  <td align="center">N</td>
+  <td align="center">2026-07-30 12:34:49</td>
+</tr>
+<tr>
   <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/ee/0f/2eee0f8c-c259-5e1c-7917-85dc48c69f1a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/152x152bb-80.png" width="50" height="50" alt=""></td>
   <td align="center">Crestron Home</td>
   <td align="center"><a href="https://testflight.apple.com/join/qvEvUmop">qvEvUmop</a></td>
@@ -7036,20 +7050,6 @@
   <td align="center"><a href="https://testflight.apple.com/join/jhiYnxfr">jhiYnxfr</a></td>
   <td align="center">Y</td>
   <td align="center">2026-07-30 10:25:38</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center">Chapter | Book tracker</td>
-  <td align="center"><a href="https://testflight.apple.com/join/zNB8Qypf">zNB8Qypf</a></td>
-  <td align="center">N</td>
-  <td align="center">2026-07-30 12:47:00</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/b1/b9/5ab1b9a1-5aba-1fe9-59f0-c369d979be93/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/152x152bb-80.png" width="50" height="50" alt=""></td>
-  <td align="center">Chapter - University Companion</td>
-  <td align="center"><a href="https://testflight.apple.com/join/SQxesQPf">SQxesQPf</a></td>
-  <td align="center">N</td>
-  <td align="center">2026-07-30 12:56:08</td>
 </tr>
 </tbody>
 </table>

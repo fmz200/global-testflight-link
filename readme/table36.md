@@ -54,6 +54,20 @@
 <tr>
   <td align="center"></td>
   <td align="center"></td>
+  <td align="center"><a href="https://testflight.apple.com/join/qg31YAsW">qg31YAsW</a></td>
+  <td align="center">N</td>
+  <td align="center">2026-07-30 12:37:45</td>
+</tr>
+<tr>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"><a href="https://testflight.apple.com/join/rlHdD6qZ">rlHdD6qZ</a></td>
+  <td align="center">N</td>
+  <td align="center">2026-07-30 12:37:45</td>
+</tr>
+<tr>
+  <td align="center"></td>
+  <td align="center"></td>
   <td align="center"><a href="https://testflight.apple.com/join/oFWpI2gy">oFWpI2gy</a></td>
   <td align="center">N</td>
   <td align="center">2026-07-30 12:37:45</td>
@@ -7036,20 +7050,6 @@
   <td align="center"><a href="https://testflight.apple.com/join/ZikBmH59">ZikBmH59</a></td>
   <td align="center">D</td>
   <td align="center">2026-07-30 11:13:39</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"><a href="https://testflight.apple.com/join/XYzpKKUe">XYzpKKUe</a></td>
-  <td align="center">D</td>
-  <td align="center">2026-07-30 11:13:33</td>
-</tr>
-<tr>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"><a href="https://testflight.apple.com/join/YgDUXEmr">YgDUXEmr</a></td>
-  <td align="center">D</td>
-  <td align="center">2026-07-30 11:13:23</td>
 </tr>
 </tbody>
 </table>
