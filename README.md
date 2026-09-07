@@ -7129,7 +7129,7 @@
 
 > 开始于 / start at 2025-08-16 18:30:00 (UTC + 08:00)
 
-![Star](https://api.star-history.com/svg?repos=fmz200/global-testflight-link&type=Date)
+![Star](https://star-history.dera.page/svg?repos=fmz200/global-testflight-link&type=Date)
 
 ## 💹 访问量统计 / Visitor Statistics
 
